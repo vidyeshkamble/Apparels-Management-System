@@ -1,0 +1,337 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+.dark-mode {
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
+}
+.dark-mode .text p,.dark-mode .text a{
+    color: white;
+}
+.nav-contaner{
+    z-index: 1;
+    width: 70%;
+    display: flex;
+    position: sticky;
+    top: 0;
+}
+.text p{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: black;
+    text-decoration: none;
+}
+.text a{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: black;
+    text-decoration: none;
+}
+.text {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: black;
+    text-decoration: none;
+}
+
+
+/* Select Option */
+
+.categorySelect{
+    border: none;
+    background: transparent;
+}
+.categorySelect::selection{
+    border: none;
+}
+
+
+
+/* massage contaner */
+
+
+
+.Massage-con {
+    backdrop-filter: blur(500px);
+    padding: 30px;
+    border-radius: 15px;
+}
+.Massage-con button{
+    display: none;
+    width: 100%;
+    text-align: center;
+    border: none;
+    background: transparent;
+}
+
+/* massage contaner end */
+
+.nav-contaner .nav-bar{
+    width: 100%;
+    justify-content:space-around;
+    display: flex;
+    position: sticky;
+    top: 0;
+    border-radius: 10px;
+    backdrop-filter: blur(500px);
+    /* background-color: #F5F5F5; */
+    padding: 8px;
+    margin: 8px;
+}
+.end-contaner{
+    width: 70%;
+    display: flex;
+    bottom: 8px;
+    background-color: gainsboro;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.endbar{
+    padding: 8px;
+    width: 100%;
+    backdrop-filter: blur(500px);
+    border-radius: 10px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.page p{
+    padding:4px 0px;
+}
+.dark-mode .page{
+    background-color: rgba(0, 0, 0, 0.445);
+    color: white;
+}
+.page{
+    width: 302px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    color: black;
+}
+.page img{
+    width: 100%;
+}
+.PurchaseContaner{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 80%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+    align-content: flex-start;
+    /* background-color: #F5F5F5; */
+}
+
+.coloring{
+    display: flex;
+    padding: 10px 0px;
+}
+.page .coloring .swatch {
+    border-radius: 50%;
+    height: 8px;
+    width: 8px;
+    text-indent: -9999px;
+    overflow: hidden;
+    display: block;
+    margin: 0px 2px;
+}
+.Addtocart{
+    border: none;
+    background-color: transparent;
+}
+
+/* Cards */
+.conteaner{
+    z-index: 1;
+    margin-top: 100px;
+    position:fixed;
+    top: -40px;
+    left: 70%;
+}
+.cart{
+    z-index: 1;
+    border-radius: 10px;
+    backdrop-filter: blur(500px);
+    padding: 14px;
+    display: none;
+    transition: 5s ease-in-out;
+}
+
+
+.main-image-contaner{
+    background-color:#F5F5F5;
+    width: 100%;
+    text-align: center;
+}
+
+.first_image img{
+    width: 100%;
+}
+
+.main_contaner{
+    text-align: center;
+    width: 60%;
+}
+
+.imageContner{
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.intro{
+    margin-top: -100px;
+    height: 904px;
+    position: relative;
+    z-index: 0;
+}
+
+.intro p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+    font-size: 40px;
+    background: linear-gradient(to right, #ee2a2a, #2c53d3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    z-index: -20;
+}
+
+.first img{
+    width: 100%;
+}
+.centerbt{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 1.8rem;
+}
+.centerbt a{
+    color: white;
+    font-size:1.3rem;
+}
+
+.api {
+    display: flex;
+}
+
+.left{
+    padding: 40px;
+
+}
+.right{
+    padding: 40px;
+}
+
+.first p{
+    margin-bottom: 15px;
+}
+
+.error p{
+    color: green;
+    font-size: 1.5rem;
+    margin-bottom: 50px;
+}
+
+.hidden{
+    opacity: 0;
+    transition: all 1s;
+    filter: blur(5px);
+}
+.show{
+    opacity: 1;
+    filter: blur(0);
+}
+
+.main-contaner{
+    margin-top: 6%;
+    display: flex;
+}
+
+.left img{
+    height: 100%;
+}
+
+/* char Ai */
+.AiChatBox{
+    backdrop-filter: blur(500px);
+    padding: 30px;
+    border-radius: 15px;
+    width: 40%;
+    max-height: 100px;  
+}
+.AiChatBox button{
+    display: flex;
+    width: 20%;
+    text-align: center;
+    border: none;
+    background: transparent;   
+}
+.AiChatBox p{
+    overflow-y: scroll;
+}
+.char{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.char input{
+    width: 100%;
+    padding: 10px;
+    border: 0px solid;
+}
+
+.contanertop{
+    margin: 30px 0px;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    width: 100%;
+
+}
+.contanertop img{
+    width: 1500px;
+    border-radius: 20px;
+    filter: blur(2px) brightness(60%);
+}
+
+.text-container {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 80px;
+}
+
+
+/* Loader For Webpage */
+

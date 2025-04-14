@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Bag</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="nav-contaner">
+        <div class="nav-bar text">
+            <a href="javascript:history.back()" style="text-decoration: none;"><i class="fa-solid fa-chevron-left"></i></a>
+            <a href="/MenCloths/">Men</a>
+            <a href="/LadiesCloths/">Ladie</a>
+            <a href="/BabyCloths/">Baby</a>
+            <a href="/KidsCloths/">Kids</a>
+            <a href="{{ url_for('CameraQr') }}"><i class="fa-solid fa-camera"></i></a>
+            <a href="{{ url_for('BuyPage') }}"><i class="fa-solid fa-cart-shopping"></i></a>
+        </div>
+    </div>
+    <div class="main-contaner">
+        <div class="left">
+            <img src="{{ productsing['image'][0]['src'] }}">
+        </div>
+        <div class="right">
+            <img src="{{ productsing['image'][0]['dataAltImage'] }}">
+            <div class="coloring">
+                {% for color in productsing['swatches'] %}
+                    <a class="swatch" style="background-color: {{ color['colorCode'] }}; border-radius: 50%; width: 20px; height: 20px; text-indent: -9999px; margin: 5px;" title="{{ color['colorName'] }}">{{ color['colorName'] }}</a>
+                {% endfor %}
+            </div>
+            <p>{{ productsing['title'] }}</p>
+            <p>{{ productsing['price'] }}</p>
+            <p>{{ productsing['sellingAttribute'] }}</p>
+        </div>
+    </div>
+</body>
+</html>

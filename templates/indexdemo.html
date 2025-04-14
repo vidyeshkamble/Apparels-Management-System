@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<body>
+    <div class="nav-contaner">
+        <div class="nav-bar text">
+            <a href="/homepage">Home</a>
+            <a href="/MenCloths/">Men</a>
+            <a href="/LadiesCloths/">Ladie</a>
+            <a href="/BabyCloths/">Baby</a>
+            <a href="/KidsCloths/">Kids</a>
+            <a href="{{ url_for('logout') }}">Logout</a>
+            <a href="{{ url_for('CameraQr') }}"><i class="fa-solid fa-camera"></i></a>
+            <a href="{{ url_for('BuyPage') }}"><i class="fa-solid fa-cart-shopping"></i></a>
+        </div>
+    </div>
+    <div class="conteaner">
+        <div id="cart" class="cart">
+            <!-- Dispaly Here -->
+        </div>
+    </div>
+    <div class="PurchaseContaner text">
+        {% if not (Menitem or Ladiesitems or Babyitems or Kidsitems) %}
+        <div class="main_contaner">
+            <div class="error">
+                {% if order_done %}
+                <p>{{ order_done }}</p>
+                {% endif %}
+            </div>
+            <div class="first">
+                <div class="intro">
+                    <p>Welcome to Apparel Management System</p>
+                </div>
+                <div class="imageContner">
+                    <img src="https://image.hm.com/ffc/share/assets/2024/6030/6030-3x2-Panthera-Top-Image-W.png?imwidth=2160">
+                    <div class="centerbt"><h3>The 2024 Festive Capsule</h3><a>An exclusive holiday edit.</a></div>
+                </div>
+                <div class="imageContner">
+                    <img src="https://image.hm.com/ffc/share/assets/2024/6030/6030-3x2-Panthera-Top-Image-M.png?imwidth=2160">
+                    <div class="centerbt"><h3>The 2024 Festive Capsule</h3><a>An exclusive holiday edit.</a></div>
+                </div>
+                <div class="imageContner">
+                    <img src="https://image.hm.com/ffc/share/assets/2024/6030/6030-3x2-Panthera-Top-Image-K.png?imwidth=2160">
+                    <div class="centerbt"><h3>The 2024 Festive Capsule</h3><a>An exclusive holiday edit.</a></div>
+                </div>
+            </div>
+        </div>
+        {% else %}
+            {% if Menitem %}
+                {% for product in Menitem %}
+                <section class="hidden">
+                    <div class="page text">
+                        <a href="{{ url_for('Purchases', json_data = product) }}"><img
+                                src="{{ product['image']['src'] }}" ismap></a><!-- dataAltImage -->
+                        <p>{{ product['title'] }}</p>
+                        <p>{{ product['price']}}</p>
+                        <div class="coloring">
+                            {% for color in product['swatches'] %}
+                            <a class="swatch" style="background-color: {{ color['colorCode'] }};"
+                                title="{{ color['colorName'] }}">{{ color['colorName'] }}</a>
+                            {% endfor %}
+                        </div>
+                        <button class="Addtocart"
+                            onclick="addto('{{ product['articleCode'] }}', '{{ product['title'] }}', '{{ product['image']['src'] }}', '{{ product['price'] }}')">Add
+                            to Cart</button>
+                    </div>
+                </section>
+                {% endfor %}
+                {% elif Ladiesitems %}
+                {% for product in Ladiesitems %}
+                <section class="hidden">
+                    <div class="page">
+                        <a href="{{ url_for('Purchases', json_data = product) }}"><img
+                                src="{{ product['image']['src'] }}" ismap></a>
+                        <p>{{ product['title'] }}</p>
+                        <p>{{ product['price'] }}</p>
+                        <div class="coloring">
+                            {% for color in product['swatches'] %}
+                            <a class="swatch" style="background-color: {{ color['colorCode'] }};"
+                                title="{{ color['colorName'] }}">{{ color['colorName'] }}</a>
+                            {% endfor %}
+                        </div>
+                        <button
+                            onclick="addto('{{ product['articleCode'] }}', '{{ product['title'] }}', '{{ product['image']['src'] }}', '{{ product['price'] }}')"
+                            style="border: none; background-color: transparent; color: blue;">Add to Cart</button>
+                    </div>
+                </section>
+                {% endfor %}
+                {% elif Babyitems %}
+                {% for product in Babyitems %}
+                <section class="hidden">
+                    <div class="page">
+                        <a href="{{ url_for('Purchases', json_data = product) }}"><img
+                                src="{{ product['image']['src'] }}" ismap></a>
+                        <p>{{ product['title'] }}</p>
+                        <p>{{ product['price'] }}</p>
+                        <div class="coloring">
+                            {% for color in product['swatches'] %}
+                            <a class="swatch" style="background-color: {{ color['colorCode'] }};"
+                                title="{{ color['colorName'] }}">{{ color['colorName'] }}</a>
+                            {% endfor %}
+                        </div>
+                        <button
+                            onclick="addto('{{ product['articleCode'] }}', '{{ product['title'] }}', '{{ product['image']['src'] }}', '{{ product['price'] }}')"
+                            style="border: none; background-color: transparent; color: blue;">Add to Cart</button>
+                    </div>
+                </section>
+                {% endfor %}
+                {% elif Kidsitems %}
+                {% for product in Kidsitems %}
+                <secction class="hidden">
+                    <div class="page">
+                        <a href="{{ url_for('Purchases', json_data = product) }}"><img
+                                src="{{ product['image']['src'] }}" ismap></a>
+                        <p>{{ product['title'] }}</p>
+                        <p>{{ product['price'] }}</p>
+                        <div class="coloring">
+                            {% for color in product['swatches'] %}
+                            <a class="swatch" style="background-color: {{ color['colorCode'] }};"
+                                title="{{ color['colorName'] }}">{{ color['colorName'] }}</a>
+                            {% endfor %}
+                        </div>
+                        <button
+                            onclick="addto('{{ product['articleCode'] }}', '{{ product['title'] }}', '{{ product['image']['src'] }}', '{{ product['price'] }}')"
+                            style="border: none; background-color: transparent; color: blue;">Add to Cart</button>
+                    </div>
+                </secction>
+                {% endfor %}
+            {% endif %}
+        {% endif %}
+
+    </div>
+    <!-- Add to Card Secssion  -->
+    <div class="end-contaner">
+        <div class="endbar">
+            <div class="endbarleft">
+                <p><b>Categories:</b> Men, Women, Accessories, New Arrivals, Sale.</p>
+                <p><b>Support:</b> Contact Us, FAQs, Shipping & Returns.</p>
+            </div>
+            <div class="endbarright">
+                <p><b>Newsletter:</b> "Subscribe for the latest updates."</p>
+                <p><b>Policies:</b> Privacy Policy, Terms & Conditions.</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
+<script>
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) =>{
+            if(entry.isIntersecting){
+                entry.target.classList.add('show');
+            }else{
+                entry.target.classList.remove('show');
+            }
+        });
+    });
+
+    const hiddenElement = document.querySelectorAll('.hidden');
+    hiddenElement.forEach((el) => observer.observe(el));
+
+
+
+
+    function addto(code, title, img, price) {
+        $.ajax({
+            type: 'POST',
+            url: "{{ url_for('Addto') }}",
+            data: JSON.stringify({
+                'code': code,
+                'title': title,
+                'image': img,
+                'price': price
+            }),
+            contentType: 'application/json',
+            success: function (response) {
+                updateDisplay(response);
+            },
+            error: function (response) {
+                alert('Error: ' + response.responseJSON.error);
+            }
+        });
+    }
+
+    function updateDisplay(cart) {
+        let cartdiv = $('#cart');
+        cartdiv.empty();
+        $.each(cart, function (index, value) {
+            cartdiv.append(
+                '<table class="text">' +
+                '<tr>' +
+                '<td>' +
+                '<button onclick="removeItem(' + index + ')" style="border: 0px solid;"> <i class="fa-solid fa-trash"></i> </button>' +
+                '</td>' +
+                '<td>' +
+                value.title +
+                '</td>' +
+                '<td>' +
+                ' -- ' + value.price +
+                '</td>' +
+                '</tr>' +
+                '</table>'
+            );
+        });
+        const elements = document.querySelectorAll('.cart');
+        elements.forEach(elements => {
+            elements.style.display = 'block';
+        });
+        setTimeout(() => {
+            elements.forEach(elements => {
+                elements.style.display = 'none';
+            });
+        }, 5000);
+    }
+
+    function removeItem(index) {
+        console.log("Item Removed: " + index);
+        $.ajax({
+            type: "POST",
+            url: "{{ url_for('Removeitem') }}",
+            data: JSON.stringify({ 'data': index }),
+            contentType: 'application/json',
+            success: function (response) {
+                updateDisplay(response);
+            },
+            error: function (response) {
+                alert("Error : Could not be removed items")
+            }
+        });
+    }
+</script>

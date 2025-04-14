@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Bag</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='buy.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    async function fetchCart() {
+        const response = await fetch('/cart');
+        const cart = await response.json();
+        let cartList = document.getElementById("cart");
+        cartList.innerHTML = "";
+        cart.forEach(item => {
+            let li = document.createElement("li");
+            li.textContent = `${item.name} - $${item.price}`;
+            cartList.appendChild(li);
+        });
+    }
+
+    async function startScan() {
+        await fetch('/start_scan', { method: 'POST' });
+        document.getElementById("status").textContent = "Scanning...";
+    }
+
+    async function stopScan() {
+        await fetch('/stop_scan', { method: 'POST' });
+        document.getElementById("status").textContent = "Stopped.";
+    }
+
+    async function clearCart() {
+        await fetch('/clear_cart', { method: 'POST' });
+        fetchCart();
+    }
+
+    setInterval(fetchCart, 2000);  // Update cart every 2 seconds
+
+
+    async function Loadtodatbase() {
+        location.reload(true);
+    }
+</script>
+<body>
+    <div class="nav-contaner">
+        <div class="nav-bar text">
+            <a href="javascript:history.back()" style="text-decoration: none;"><i class="fa-solid fa-chevron-left"></i></a>
+            <a href="">Home</a>
+            <button onclick="myFunction()" style="background: transparent; border: 0px solid;"><a><i class="fa-solid fa-circle-half-stroke"></i></a></button>
+            <a href="{{ url_for('BuyPage') }}"><i class="fa-solid fa-cart-shopping"></i></a>
+    
+            <button onclick="startScan()" title="Start Scanning" style="background: transparent; border: 0px solid;"><a><i class="fa-solid fa-play"></i></a></button>
+            <button onclick="stopScan()" title="Stop Scanning" style="background: transparent; border: 0px solid;"><a><i class="fa-solid fa-stop"></i></a></button>
+            <button onclick="clearCart()" title="Clear Purchase Bag" style="background: transparent; border: 0px solid;"><a><i class="fa-solid fa-broom"></i></a></button>
+            <button onclick="Loadtodatbase()" title="Add to Purchase Bag" style="background: transparent; border: 0px solid;"><a><i class="fa-solid fa-truck-ramp-box"></i></a></button>
+        </div>
+    </div>
+    <p>Status: <span id="status">Stopped.</span></p>
+    <div class="error" style="color: red;">
+        {% if error %}
+           Error {{ error }} !
+        {% endif %}
+    </div>  
+    <img src="{{ url_for('video_feed') }}" width="600">
+    <h2>Shopping Cart</h2>
+    <ul id="cart"></ul>
+
+    <div class="bill-section">
+        {% set ns = namespace(total_price=0) %}
+            <table class="main-table">
+                <tr>
+                    <td>Image</td>
+                    <td>Title</td>
+                    <td>Qty</td>
+                    <td>Price</td>
+                    <td>Delete</td>
+                </tr>
+        {% for item in bag %}
+            <tr>
+                <td><img src="{{ item['image'] }}" style="width: 100px;"></td>
+                <td>{{ item['title'] }}</td>
+                <td>
+                    {{ item['qty'] }}
+                </td>
+                <td id="price_{{ item['code'] }}">{{ item['price'] }}</td>
+                <td><a href="{{ url_for('removeds',index_value = item['code']) }}" class="bt">Delete</a></td>
+            </tr>
+            {% set price = item['price'] | replace("Rs.", "") | replace(",", "") %}
+            {% set price_float = price | float %}
+            {% set ns.total_price = ns.total_price + price_float %}
+        {% endfor %}
+            {% set besic = ns.total_price/(100+18)*100 %}
+                <tr>
+                    <td></td>
+                    <td>Basic Price </td>
+                    <td>{{ besic | round(2) }}</td>
+                </tr>
+                {% set cgst = (ns.total_price-besic)/2 %}
+                {% set sgst = (ns.total_price-besic)/2 %}
+                <tr>
+                    <td></td>
+                    <td>CGST</td>
+                    <td>Rs.{{ cgst | round(2) }}</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>SGST</td>
+                    <td>Rs.{{ sgst | round(2) }}</td>
+                </tr>   
+                {% set totleAmount = besic + cgst + sgst %}
+                <tr>
+                    <td></td>
+                    <td>Totle Payable Amount </td>
+                    <td>Rs.{{ totleAmount | round(2) }}0</td>
+                </tr>
+            </table>
+            {% if totleAmount > 0 %}
+                <!-- <a href="{{ url_for('addtodatabase',totle_price = totleAmount) }}">Purchase</a> -->
+                <div class="goto">
+                    <a href="{{ url_for('paymentpage', totle_price = totleAmount,qty=qty) }}" class="Button-Purchase">Purchase</a>
+                </div>
+            {% endif %}
+        <br>
+    </div>
+</body>
+</html>
+<script>
+    function myFunction() {
+        var element = document.body;
+        element.classList.toggle("dark-mode");
+    }
+
+</script>

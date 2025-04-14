@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<body>
+    <div class="nav-contaner">
+        <div class="nav-bar text">
+        <a href="">Home</a>
+        <a href="javascript:void(0);" onclick="handleSelection(this.dataset.value)" data-value="men">Men</a>
+        <a href="javascript:void(0);" onclick="handleSelection(this.dataset.value)" data-value="women">Ladies</a>
+
+        <select class="categorySelect" id="categorySelect" onchange="handleSelection(this.value)">
+            {% for i in optionList %}
+                <option value="{{ i }}">{{ i }}</option>
+            {% endfor %}
+        </select>
+
+
+            <a href="{{ url_for('logout') }}">Logout</a>
+            <!-- <button onclick="DisplayAi()" style="background: transparent; border: 0px solid;"><a>AI</a></button> -->
+            <button onclick="myFunction()" style="background: transparent; border: 0px solid;"><a><i class="fa-solid fa-circle-half-stroke"></i></a></button>
+            <a href="{{ url_for('BuyPage') }}"><i class="fa-solid fa-cart-shopping"></i></a>
+        </div>
+    </div>
+    
+    <div class="Massage-con" id="Massage-con" style="display: none;">
+        <p>{{ Error }}</p>
+        <p>{{ Message }}</p>
+        <button onclick="ClassClose('Massage-con')">Close</button>
+    </div>
+
+
+
+    <div class="conteaner">
+        <div id="cart" class="cart">
+            <!-- Dispaly Here -->
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <div class="PurchaseContaner text">
+    {% if not data %}
+        <div class="contanertop">
+            <img src="https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNsb3RoZXMlMjBzaG9wfGVufDB8fDB8fHww" alt="Second Image">        
+            <div class="text-container">
+                <h3>Welcome</h3>
+                <p>Apparels Management System</p>
+            </div>  
+        </div>
+    {% endif %}
+    <!-- {% if data %}
+        {% for item in data %}
+        <section class="hidden">
+            <div class="page text">
+                <a href="#"><img
+                    src="{{ item[2] }}" ismap></a>
+                <p>{{ item[1] }}</p>
+                <p>₹{{ item[3]}}</p>
+                <input type="number" id="qty-{{ item[0] }}" value="1" name="qty" max="10" min="1"><br>
+                <button
+                    onclick="addto('{{ item[0] }}', '{{ item[1] }}', '{{ item[2] }}',document.getElementById('qty-{{ item[0] }}').value, '{{ item[3] }}')"
+                    style="border: none; background-color: transparent; color: blue;">Add to Cart</button>
+            </div>
+        </section>
+        {% endfor %}
+    {% endif %} -->
+    </div>
+</body>
+</html>
+<script>
+
+function handleSelection(selectedValue) {
+    console.log("Selected Value:", selectedValue); // Debugging
+
+    $.ajax({
+        type: 'GET',
+        url: '/selectedOption',
+        data: { selected: selectedValue },
+        success: function(response) {
+            console.log("Response:", response); // Debugging
+            let container = document.querySelector(".PurchaseContaner");
+            container.innerHTML = "";  // Clear previous items
+
+            if (response.error) {
+                console.error("Error:", response.error);
+                alert("Failed to fetch items.");
+                return;
+            }
+
+            if (!response.data || response.data.length === 0) {
+                container.innerHTML = "<p>No items found.</p>";
+                return;
+            }
+
+            response.data.forEach(item => {
+                let itemHTML = `
+                    <section>
+                        <div class="page text">
+                            <a href="#"><img src="${item[2]}" alt="Product Image"></a>
+                            <p>${item[1]}</p>
+                            <p>₹${item[3]}</p>
+                            <input type="number" id="qty-${item[0]}" value="1" name="qty" max="10" min="1"><br>
+                            <button onclick="addto('${ item[0] }', '${ item[1] }', '${ item[2] }',document.getElementById('qty-${ item[0] }').value, '${ item[3] }')"
+                                style="border: none; background-color: transparent; color: blue;">Add to Cart</button>
+                        </div>
+                    </section>`;
+                container.innerHTML += itemHTML;
+            });
+        },
+        error: function(xhr, status, error) {
+            console.error("Error:", error);
+            alert("Failed to fetch items.");
+        }
+    });
+}
+
+
+
+
+    // Display the Text Message
+    document.addEventListener("DOMContentLoaded", function () {
+        var messageContainer = document.getElementById("Massage-con");
+        
+        // Check if there's an actual message inside
+        if (messageContainer.textContent.trim() !== "") {
+            messageContainer.style.display = "block"; // Show message container
+
+            // Hide message after 5 seconds
+            setTimeout(function () {
+                messageContainer.style.display = "none";
+            }, 5000);
+        }
+    });
+
+    function ClassClose(id) {
+        document.getElementById(id).style.display = "none";
+    }
+
+
+    function myFunction() {
+        var element = document.body;
+        element.classList.toggle("dark-mode");
+    }
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) =>{
+            if(entry.isIntersecting){
+                entry.target.classList.add('show');
+            }else{
+                entry.target.classList.remove('show');
+            }
+        });
+    });
+
+    const hiddenElement = document.querySelectorAll('.hidden');
+    hiddenElement.forEach((el) => observer.observe(el));
+
+function addto(code, title, img, qty, price) {
+    $.ajax({
+        type: 'POST',
+        url: "{{ url_for('Addto') }}",
+        data: JSON.stringify({
+            'code': code,
+            'title': title,
+            'image': img,
+            'qty': qty,
+            'price': price
+        }),
+        contentType: 'application/json',
+        success: function (response) {
+            updateDisplay(response);
+        },
+        error: function (response) {
+            alert('Error: ' + response.responseJSON.error);
+        }
+    });
+}
+
+    function updateDisplay(cart) {
+        let cartdiv = $('#cart');
+        cartdiv.empty();
+        $.each(cart, function (index, value) {
+            cartdiv.append(
+                '<table class="text">' +
+                '<tr>' +
+                '<td>' +
+                '<button onclick="removeItem(' + index + ')" style="border: 0px solid;"> <i class="fa-solid fa-trash"></i> </button>' +
+                '</td>' +
+                '<td>' +
+                value.title +
+                '</td>' +
+                '<td>' +
+                ' -- ' + value.price +
+                '</td>' +
+                '</tr>' +
+                '</table>'
+            );
+        });
+        const elements = document.querySelectorAll('.cart');
+        elements.forEach(elements => {
+            elements.style.display = 'block';
+        });
+        setTimeout(() => {
+            elements.forEach(elements => {
+                elements.style.display = 'none';
+            });
+        }, 5000);
+    }
+
+    function removeItem(index) {
+        console.log("Item Removed: " + index);
+        $.ajax({
+            type: "POST",
+            url: "{{ url_for('Removeitem') }}",
+            data: JSON.stringify({ 'data': index }),
+            contentType: 'application/json',
+            success: function (response) {
+                updateDisplay(response);
+            },
+            error: function (response) {
+                alert("Error : Could not be removed items")
+            }
+        });
+    }
+</script>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bill</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            width: 80mm; /* Set the page width to bill size */
+        }
+        section {
+            padding: 10px;
+        }
+        h1 {
+            font-size: 18px;
+            margin: 0;
+        }
+        p {
+            font-size: 12px;
+            line-height: 1.5;
+            margin: 5px 0;
+        }
+        b {
+            font-size: 12px;
+        }
+        hr {
+            border: none;
+            border-top: 1px dashed #000;
+            margin: 10px 0;
+        }
+        center {
+            text-align: center;
+        }
+        .resize {
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+        th, td {
+            text-align: left;
+            padding: 5px;
+        }
+        th {
+            border-bottom: 1px solid black;
+        }
+        .right {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <section>
+        <center>
+            <h1>Apparel Management System</h1>
+            <p>
+                SHOP NO. 1, Patherdi Phata <br>Nashik, 422010<br>
+                Ph No. 95845215236<br>
+                GSTIN: 27DFRRG52152Z8<br>
+                <b>CASH INVOICE</b><br>
+                <b>Bill No: {{ inv_no }}</b>
+            </p>
+        </center>
+
+        <p>
+            Date: {{ date }}<br>
+            Time: {{ time }}<br>
+            <b>Name: {{ name }}</b><br>
+            Email ID: {{ email }}<br>
+            Ph No: {{ ph }}<br>
+        </p>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>ITEM</th>
+                    <th>QTY</th>
+                    <th>M.R.P</th>
+                    <th>CODE</th>
+                    <th class="right">TOTAL</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in bag %}
+                <tr>
+                    <td>{{ item['title'] }}</td>
+                    <td>{{ item['qty'] }}</td>
+                    <td>{{ item['price'] }}</td>
+                    <td>{{ item['code'] }}</td>
+                    <td class="right">{{ item['price'] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <hr>
+
+        {% set basic_price = totle / (100 + 18) * 100 %}
+        {% set cgst = (totle - basic_price) / 2 %}
+        {% set sgst = (totle - basic_price) / 2 %}
+
+        <p>
+            Basic Price: Rs. {{ basic_price | round(2) }}<br>
+            CGST (9%): Rs. {{ cgst | round(2) }}<br>
+            SGST (9%): Rs. {{ sgst | round(2) }}<br>
+        </p>
+
+        <h3>Total: Rs. {{ totle }}</h3>
+
+        <center><b>Thank You... Visit Again..!!</b></center>
+    </section>
+</body>
+</html>
