@@ -1,0 +1,4517 @@
+{
+  "requestDateTime": "2025-03-24T13:56:41.393Z",
+  "responseSource": "Elevate",
+  "pagination": {
+    "prevPageNum": 1,
+    "currentPage": 2,
+    "nextPageNum": 3,
+    "totalPages": 25
+  },
+  "plpList": {
+    "productList": [
+      {
+        "id": "1217048008",
+        "trackingId": "OzQ7IzsxMjE3MDQ4MDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+        "productName": "Strappy midi dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1217048008.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1217048008",
+            "url": "/en_in/productpage.1217048008.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "EEEDE1",
+            "trackingId": "OzQ7IzsxMjE3MDQ4MDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/fc/2c/fc2cc4523788c36a6d06f66fce4a1c248ef39d40.jpg"
+          },
+          {
+            "articleId": "1217048007",
+            "url": "/en_in/productpage.1217048007.html",
+            "colorName": "White/Floral",
+            "colorCode": "EEEDE1",
+            "trackingId": "OzQ7IzsxMjE3MDQ4MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/59/bb/59bbfb3828aa6eab46e50d34ef86d0b57884e9d6.jpg"
+          },
+          {
+            "articleId": "1217048006",
+            "url": "/en_in/productpage.1217048006.html",
+            "colorName": "Cream/Patterned",
+            "colorCode": "ECE7E1",
+            "trackingId": "OzQ7IzsxMjE3MDQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/53/34/5334cc2172f521f58c6eeac620a8f07329f32bf6.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/ba/aa/baaa1bf7e8cbe48cb0220da539866f6e4f9abb84.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/00/d1/00d19a3c78b5306e76b23e8f00112d0d098fb614.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/af/d6/afd628606769ed6f17ce60868bb71ad4cabc29b8.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/02/e0/02e0b1b1216ac2ffa936c90b8aa326bfc343fbb5.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Cream/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/ed/97/ed97b89ca80580d1d4d2e72055256cd425d6a898.jpg",
+        "colors": "EEEDE1",
+        "productImage": "https://image.hm.com/assets/hm/fc/2c/fc2cc4523788c36a6d06f66fce4a1c248ef39d40.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|white_ffffff",
+        "mainCatCode": "ladies_dresses_mididresses",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1272220001",
+        "trackingId": "OzQ7IzsxMjcyMjIwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+        "productName": "Off-the-shoulder cotton dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1272220001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1272220001",
+            "url": "/en_in/productpage.1272220001.html",
+            "colorName": "White/Floral",
+            "colorCode": "EEEDE1",
+            "trackingId": "OzQ7IzsxMjcyMjIwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/13/8e/138e5e38afb842f158c172db19aa6d0e50be09b0.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/b8/e4/b8e4fa4061d47445a55c8c32cbd3dc1f3c799daa.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/2f/e9/2fe99560cd577159f18b28e23592f00faa7f6508.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/38/b3/38b3a3a87d3f1d35451261e9a4784c81351a4066.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1e/79/1e79444b95662edaaa675f6851d03aa38eacdb48.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "White/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/e9/fc/e9fc49ee12a71c92ed320a64ec83206f408d8a7f.jpg",
+        "colors": "EEEDE1",
+        "productImage": "https://image.hm.com/assets/hm/13/8e/138e5e38afb842f158c172db19aa6d0e50be09b0.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|white_ffffff",
+        "mainCatCode": "ladies_dresses_backless",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1265394001",
+        "trackingId": "OzQ7IzsxMjY1Mzk0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+        "productName": "Twist-detail one-shoulder dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1265394001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 799,
+            "minPrice": 799,
+            "maxPrice": 799,
+            "formattedPrice": "Rs.799.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1265394001",
+            "url": "/en_in/productpage.1265394001.html",
+            "colorName": "Dark brown",
+            "colorCode": "3B312B",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/95/f9/95f968f20d9c5613b136700c48d9dedc52371f6f.jpg"
+          },
+          {
+            "articleId": "1265394005",
+            "url": "/en_in/productpage.1265394005.html",
+            "colorName": "Cream",
+            "colorCode": "F0F1F0",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/60/62/606270b44f9730048564ef097194b96793ce2f47.jpg"
+          },
+          {
+            "articleId": "1265394006",
+            "url": "/en_in/productpage.1265394006.html",
+            "colorName": "Light blue",
+            "colorCode": "AEBACE",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/17/9a/179a2fa4425f48620d226f2c680de3ae4f5f2ed6.jpg"
+          },
+          {
+            "articleId": "1265394003",
+            "url": "/en_in/productpage.1265394003.html",
+            "colorName": "Light mint green",
+            "colorCode": "ABBDA4",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2d/19/2d1955adb28a1f73b0b2e9398b5dba98181e5e8f.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/6b/e3/6be3936e89d3f3d1b99914629886344298f68580.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9c/2a/9c2a85f803d2e5151fd67328c97b50a35e6d6ec3.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/10/e5/10e5384b5a4f5ff632eed6d7bda7738f49a68460.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/44/b1/44b1ed2e59710c91d895a01e8792f3398325da1a.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark brown",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/de/b4/deb4a00ac8a823b316c4257ed24544596a576528.jpg",
+        "colors": "3B312B",
+        "productImage": "https://image.hm.com/assets/hm/95/f9/95f968f20d9c5613b136700c48d9dedc52371f6f.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "brown_a52a2a",
+        "mainCatCode": "ladies_dresses_oneshoulder"
+      },
+      {
+        "id": "1268405001",
+        "trackingId": "OzQ7IzsxMjY4NDA1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+        "productName": "Broderie anglaise dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1268405001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1268405001",
+            "url": "/en_in/productpage.1268405001.html",
+            "colorName": "Red",
+            "colorCode": "8D2535",
+            "trackingId": "OzQ7IzsxMjY4NDA1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/6d/54/6d5474b31c4bd6f4e882467c7345067fa8e17832.jpg"
+          },
+          {
+            "articleId": "1268405004",
+            "url": "/en_in/productpage.1268405004.html",
+            "colorName": "White",
+            "colorCode": "F0EEED",
+            "trackingId": "OzQ7IzsxMjY4NDA1MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e6/9d/e69d46eb8e881c21614496e14be701c562055dc6.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/67/94/6794c833deebebc720e3d239798445d7b97caf84.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/88/ab/88ab8c4c8ed8943b29c48ee9722e0a6168188cef.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/fc/f4/fcf4f9579ba7b060715724d99dc8d36d6cfc2f08.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/89/e9/89e9c16bb673677121ba1f40b57d653c454e46e5.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/5f/64/5f645f5d2951b7219ce7fe34c1c7f78e4e65eddd.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Red",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/db/2f/db2f143da3417d96bdb24cbf5fbc754252eb72a9.jpg",
+        "colors": "8D2535",
+        "colourShades": "Ruby red",
+        "productImage": "https://image.hm.com/assets/hm/6d/54/6d5474b31c4bd6f4e882467c7345067fa8e17832.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "red_ff0000",
+        "mainCatCode": "ladies_dresses_aline"
+      },
+      {
+        "id": "1219083009",
+        "trackingId": "OzQ7IzsxMjE5MDgzMDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+        "productName": "Oversized crinkled dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1219083009.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1219083009",
+            "url": "/en_in/productpage.1219083009.html",
+            "colorName": "Light apricot/Floral",
+            "colorCode": "F0D7C9",
+            "trackingId": "OzQ7IzsxMjE5MDgzMDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/3d/7e/3d7ede7d967c8bc8da850207819e23019fc38457.jpg"
+          },
+          {
+            "articleId": "1219083006",
+            "url": "/en_in/productpage.1219083006.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "E8E4D5",
+            "trackingId": "OzQ7IzsxMjE5MDgzMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/a3/da/a3da6cbf45cdfdb14c85463260b194bda1e9b63e.jpg"
+          },
+          {
+            "articleId": "1219083007",
+            "url": "/en_in/productpage.1219083007.html",
+            "colorName": "Black/Floral",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjE5MDgzMDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f4/d9/f4d9fbfc0b5f00e576032871f7a402bee7f8dec5.jpg"
+          },
+          {
+            "articleId": "1219083012",
+            "url": "/en_in/productpage.1219083012.html",
+            "colorName": "White/Floral",
+            "colorCode": "EEEDE1",
+            "trackingId": "OzQ7IzsxMjE5MDgzMDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2a/9c/2a9c0ca7ce880ec197a2c9f06bab171311f0b7a9.jpg"
+          },
+          {
+            "articleId": "1219083008",
+            "url": "/en_in/productpage.1219083008.html",
+            "colorName": "Light blue/Floral",
+            "colorCode": "BABFCC",
+            "trackingId": "OzQ7IzsxMjE5MDgzMDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/0d/e3/0de3a50be07be03d33999d57602f5c3bafc54c0e.jpg"
+          },
+          {
+            "articleId": "1219083001",
+            "url": "/en_in/productpage.1219083001.html",
+            "colorName": "White/Blue floral",
+            "colorCode": "F4F3E9",
+            "trackingId": "OzQ7IzsxMjE5MDgzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/3e/57/3e57141bcde29f01b9b2d28a8b420eb7aedd2f07.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/33/97/33973d64dad986adf163a28550fdae02f8497115.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light apricot/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/3d/7e/3d7ede7d967c8bc8da850207819e23019fc38457.jpg",
+        "colors": "F0D7C9",
+        "productImage": "https://image.hm.com/assets/hm/3d/7e/3d7ede7d967c8bc8da850207819e23019fc38457.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|orange_ffa500",
+        "mainCatCode": "ladies_dresses_maxidresses",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1273210001",
+        "trackingId": "OzQ7IzsxMjczMjEwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+        "productName": "Broderie anglaise-detail dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1273210001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1273210001",
+            "url": "/en_in/productpage.1273210001.html",
+            "colorName": "Navy blue",
+            "colorCode": "272930",
+            "trackingId": "OzQ7IzsxMjczMjEwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/01/74/01743a3d11b7cae4e809f8b31ed4094a5c432a0a.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/50/7e/507e564187c9ba31816a4da607971d366537829f.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f9/2f/f92f8aa09ff2c927a1fb42a8f68f01854a82c346.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/27/85/27856e1ea5909e859573105671819c5d4787518c.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Navy blue",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/e9/9e/e99ecf9a98f3b629fa931bab66bd815622a0bf90.jpg",
+        "colors": "272930",
+        "colourShades": "Bright blue|Cobalt blue|Dark blue|Indigo|Navy blue|Royal blue",
+        "productImage": "https://image.hm.com/assets/hm/01/74/01743a3d11b7cae4e809f8b31ed4094a5c432a0a.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blue_0000ff",
+        "mainCatCode": "ladies_dresses_mididresses",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1274558001",
+        "trackingId": "OzQ7IzsxMjc0NTU4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+        "productName": "One-shoulder dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1274558001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1899,
+            "minPrice": 1899,
+            "maxPrice": 1899,
+            "formattedPrice": "Rs.1,899.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1274558001",
+            "url": "/en_in/productpage.1274558001.html",
+            "colorName": "Yellow/Patterned",
+            "colorCode": "E0D9C8",
+            "trackingId": "OzQ7IzsxMjc0NTU4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/a4/f1/a4f1a2fc9d7892505c35af59b742bede0ace01e9.jpg"
+          },
+          {
+            "articleId": "1274558003",
+            "url": "/en_in/productpage.1274558003.html",
+            "colorName": "Light blue",
+            "colorCode": "8C9EC7",
+            "trackingId": "OzQ7IzsxMjc0NTU4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ae/32/ae32c776fd06223ac8209fb3eb6c14cff17d0ac8.jpg"
+          },
+          {
+            "articleId": "1274558004",
+            "url": "/en_in/productpage.1274558004.html",
+            "colorName": "Dark brown",
+            "colorCode": "423935",
+            "trackingId": "OzQ7IzsxMjc0NTU4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/6e/ea/6eea02f87aba61d1882c665018799a1e0e70254b.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/f3/a3/f3a36311ba0d49f20a8b171c8562aab3ea746861.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/98/d6/98d6e81b7bfd1d985786423acb451f2da7378f32.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/26/20/262062a7fa8c16dbd2f93de1a3de357490ba35db.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1d/7d/1d7d67d817c97f038786344ff574079748a7fa3b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f2/ae/f2aef82daf552e04319820e8d0b2dad291b7c7ab.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Yellow/Patterned",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/03/55/0355734a109034f55ef06730828ac5261093ac91.jpg",
+        "colors": "E0D9C8",
+        "productImage": "https://image.hm.com/assets/hm/a4/f1/a4f1a2fc9d7892505c35af59b742bede0ace01e9.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|yellow_ffff00",
+        "mainCatCode": "ladies_dresses_aline"
+      },
+      {
+        "id": "1284981001",
+        "trackingId": "OzQ7IzsxMjg0OTgxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+        "productName": "Long chiffon dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1284981001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1284981001",
+            "url": "/en_in/productpage.1284981001.html",
+            "colorName": "Dark brown",
+            "colorCode": "58443F",
+            "trackingId": "OzQ7IzsxMjg0OTgxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b1/1f/b11fb3fae888a3ae432b1899738c32272f6fa68b.jpg"
+          }
+        ],
+        "productMarkers": [
+          {
+            "text": "S/S 2025",
+            "type": "collectionMarker"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/35/7d/357d6466bf4e18c3cb65e64096cf8df744fc3ccb.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f8/0d/f80da5b61cddb765be61423d8bfedcf6fd78a119.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/fe/d9/fed9a3c7035f7db04348daf9b71989f99348e6f6.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/48/1c/481c8dee30d888bcdc3cb5e7ca20d253456b0d12.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark brown",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/5b/e2/5be2a8f92d625059f0b1012d2965d4051474f446.jpg",
+        "colors": "58443F",
+        "productImage": "https://image.hm.com/assets/hm/b1/1f/b11fb3fae888a3ae432b1899738c32272f6fa68b.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "brown_a52a2a",
+        "mainCatCode": "ladies_dresses_maxidresses",
+        "sellingAttribute": "New Arrival",
+        "collectionMarker": "S/S 2025"
+      },
+      {
+        "id": "1278400001",
+        "trackingId": "OzQ7IzsxMjc4NDAwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+        "productName": "Embellished pointelle-knit dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1278400001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2299,
+            "minPrice": 2299,
+            "maxPrice": 2299,
+            "formattedPrice": "Rs.2,299.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1278400001",
+            "url": "/en_in/productpage.1278400001.html",
+            "colorName": "Black",
+            "colorCode": "272627",
+            "trackingId": "OzQ7IzsxMjc4NDAwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/0b/bc/0bbcbe801b3f2d17b96e99408c82763eaec6276c.jpg"
+          },
+          {
+            "articleId": "1278400003",
+            "url": "/en_in/productpage.1278400003.html",
+            "colorName": "Cream",
+            "colorCode": "ECE9E2",
+            "trackingId": "OzQ7IzsxMjc4NDAwMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/8b/b1/8bb1ce15aaec93fa8d6257296731db7cc9157516.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/7a/57/7a57c7d9ff14b58d613288f9e1081538b6139845.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/cc/4d/cc4db773390b7d58950954c6f41a1c65d2b862f1.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9e/ce/9ecea7049c9c7ae092b2af7570d04bb8746d7e18.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/1c/2b/1c2b06377888385124597463418352680e1d7ef2.jpg",
+        "colors": "272627",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/0b/bc/0bbcbe801b3f2d17b96e99408c82763eaec6276c.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "ladies_dresses_backless",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1278033003",
+        "trackingId": "OzQ7IzsxMjc4MDMzMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+        "productName": "Tie-belt tunic dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1278033003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1799,
+            "minPrice": 1799,
+            "maxPrice": 1799,
+            "formattedPrice": "Rs.1,799.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1278033003",
+            "url": "/en_in/productpage.1278033003.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjc4MDMzMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/19/4f/194fe11836787537dec0c021ca3778c2356aa965.jpg"
+          },
+          {
+            "articleId": "1278033002",
+            "url": "/en_in/productpage.1278033002.html",
+            "colorName": "Light apricot/Floral",
+            "colorCode": "F0D7C9",
+            "trackingId": "OzQ7IzsxMjc4MDMzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2f/75/2f755d909894751967c91ee7333698e3160a198a.jpg"
+          },
+          {
+            "articleId": "1278033001",
+            "url": "/en_in/productpage.1278033001.html",
+            "colorName": "Black/Patterned",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjc4MDMzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/1a/2e/1a2ea3ef649170516063134d836635c2feae813e.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/42/4b/424b6b20183a21c844b9c70772284622d8bf598a.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c5/00/c500e6bdda08f27e6b84232852cb1b87d2f32c0a.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c3/fa/c3fa408529649612cc2fd618c54fc3bfff938f49.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/1f/b9/1fb9547d17d22d3b881cdb65a8d1db481ed70088.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/19/4f/194fe11836787537dec0c021ca3778c2356aa965.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "ladies_dresses_shortdresses",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1275625003",
+        "trackingId": "OzQ7IzsxMjc1NjI1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+        "productName": "Broderie anglaise-sleeved dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1275625003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1275625003",
+            "url": "/en_in/productpage.1275625003.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjc1NjI1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/03/78/03786af97f6c54320b35b17c0c541a86e76186ba.jpg"
+          },
+          {
+            "articleId": "1275625002",
+            "url": "/en_in/productpage.1275625002.html",
+            "colorName": "Pale yellow",
+            "colorCode": "E9E1BF",
+            "trackingId": "OzQ7IzsxMjc1NjI1MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/bd/c6/bdc654418424f88bea870a79ae677b572d883d15.jpg"
+          },
+          {
+            "articleId": "1275625001",
+            "url": "/en_in/productpage.1275625001.html",
+            "colorName": "White",
+            "colorCode": "F0EEED",
+            "trackingId": "OzQ7IzsxMjc1NjI1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9d/60/9d603499fbcc7f9b6cd1316c8378d175194cdf0d.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/53/0c/530cb6c6cb09c30846fb9910e20945710f45e2af.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/60/30/6030f7e40075232a0ee09ebb8ec7f9093cfc7a6e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/bc/cc/bcccae1a9268abf530c802889eb3511844db9745.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/46/20/4620304af8241172b114ccba54995f6b51eaef32.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/4b/8d/4b8da59146af18a88f802edde9162ecb5de113b0.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/03/78/03786af97f6c54320b35b17c0c541a86e76186ba.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "ladies_dresses_shortdresses"
+      },
+      {
+        "id": "1289343001",
+        "trackingId": "OzQ7IzsxMjg5MzQzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+        "productName": "Embellished dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1289343001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1289343001",
+            "url": "/en_in/productpage.1289343001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjg5MzQzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/15/f8/15f846f3f0d1eb4cee2d94b99869c0feb0a99a76.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/c8/4c/c84ceb9657c36c43357d1bddd623d24bf1e46391.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/90/68/906848dab5c609a0b12b36d4207c5e1127ccceae.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/62/ab/62ab42e4a88373afba91c2471be9dd7218528435.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/5e/9e/5e9e2850f56d2152797047367cf881adac73ce73.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/15/f8/15f846f3f0d1eb4cee2d94b99869c0feb0a99a76.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "ladies_dresses_bodycon"
+      },
+      {
+        "id": "1265394005",
+        "trackingId": "OzQ7IzsxMjY1Mzk0MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+        "productName": "Twist-detail one-shoulder dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1265394005.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 799,
+            "minPrice": 799,
+            "maxPrice": 799,
+            "formattedPrice": "Rs.799.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1265394005",
+            "url": "/en_in/productpage.1265394005.html",
+            "colorName": "Cream",
+            "colorCode": "F0F1F0",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/60/62/606270b44f9730048564ef097194b96793ce2f47.jpg"
+          },
+          {
+            "articleId": "1265394001",
+            "url": "/en_in/productpage.1265394001.html",
+            "colorName": "Dark brown",
+            "colorCode": "3B312B",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/95/f9/95f968f20d9c5613b136700c48d9dedc52371f6f.jpg"
+          },
+          {
+            "articleId": "1265394006",
+            "url": "/en_in/productpage.1265394006.html",
+            "colorName": "Light blue",
+            "colorCode": "AEBACE",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/17/9a/179a2fa4425f48620d226f2c680de3ae4f5f2ed6.jpg"
+          },
+          {
+            "articleId": "1265394003",
+            "url": "/en_in/productpage.1265394003.html",
+            "colorName": "Light mint green",
+            "colorCode": "ABBDA4",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2d/19/2d1955adb28a1f73b0b2e9398b5dba98181e5e8f.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/f0/3a/f03a343310093de64e7d44a2ca0f68980d1879ce.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9b/fa/9bfaad02c578a618f08c23dd3a0045acf0f71fde.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/eb/33/eb3333f18ed214f4475a7d5a8eb562049ce395b7.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/2a/c5/2ac5392f6a48c5eef84751ad63d2ed94b4616175.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Cream",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/6a/25/6a253e4e6f6403cb5e022152a13f0be644389828.jpg",
+        "colors": "F0F1F0",
+        "productImage": "https://image.hm.com/assets/hm/60/62/606270b44f9730048564ef097194b96793ce2f47.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "white_ffffff",
+        "mainCatCode": "ladies_dresses_oneshoulder"
+      },
+      {
+        "id": "1273301002",
+        "trackingId": "OzQ7IzsxMjczMzAxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+        "productName": "Draped midi dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1273301002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1273301002",
+            "url": "/en_in/productpage.1273301002.html",
+            "colorName": "Dusty pink",
+            "colorCode": "8B6E79",
+            "trackingId": "OzQ7IzsxMjczMzAxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/dc/74/dc74d145627ea1edbb0271669dc5c1e6ada4c184.jpg"
+          },
+          {
+            "articleId": "1273301001",
+            "url": "/en_in/productpage.1273301001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjczMzAxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/95/19/9519de943468439eac686e584757d824d9e92071.jpg"
+          },
+          {
+            "articleId": "1273301003",
+            "url": "/en_in/productpage.1273301003.html",
+            "colorName": "Amber-coloured",
+            "colorCode": "937350",
+            "trackingId": "OzQ7IzsxMjczMzAxMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/0c/9b/0c9b9aa4095f013d1a15946360eb2af23b12c814.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/72/b4/72b4bb353cede8b4da01f521f75bda71e5074af5.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/04/f0/04f0f118965c19e332d892cc10e6c8111b3dd4fe.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/fc/48/fc487b55696e52696a3f7d8aa02c597967abe98d.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dusty pink",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/51/26/512660c1a3932da0a9d138f8e6558baeb3d47468.jpg",
+        "colors": "8B6E79",
+        "colourShades": "Bright pink|Dusty rose|Hot pink|Neon pink|Pastel pink",
+        "productImage": "https://image.hm.com/assets/hm/dc/74/dc74d145627ea1edbb0271669dc5c1e6ada4c184.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "pink_ffc0cb",
+        "mainCatCode": "ladies_dresses_bodycon"
+      },
+      {
+        "id": "1283974003",
+        "trackingId": "OzQ7IzsxMjgzOTc0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+        "productName": "Crêpe wrap dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1283974003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1283974003",
+            "url": "/en_in/productpage.1283974003.html",
+            "colorName": "Navy blue/Floral",
+            "colorCode": "333C4D",
+            "trackingId": "OzQ7IzsxMjgzOTc0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/10/06/10067ae91d687eae62f0062e972917309a2b7b5f.jpg"
+          },
+          {
+            "articleId": "1283974002",
+            "url": "/en_in/productpage.1283974002.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "ECE9E2",
+            "trackingId": "OzQ7IzsxMjgzOTc0MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/12/3c/123c390932ee15b7f965e0092a7d04dcad1ba477.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/f9/48/f948567432d460cb4e7af7000b3b4bca1793b9dc.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/30/97/309705d4659d2de40197de271d4796184af9ad52.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/ce/17/ce1758a131655cd718e0adb84f9920b8b58275c0.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/57/b8/57b8a7a12808cc77d656df304f8e9889b3e73327.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Navy blue/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/ad/9c/ad9c57bbef42b3a34e574b7c8e0f494b1d136911.jpg",
+        "colors": "333C4D",
+        "productImage": "https://image.hm.com/assets/hm/10/06/10067ae91d687eae62f0062e972917309a2b7b5f.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000",
+        "mainCatCode": "ladies_dresses_shortdresses",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1212380005",
+        "trackingId": "OzQ7IzsxMjEyMzgwMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+        "productName": "Linen-blend blazer dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1212380005.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1212380005",
+            "url": "/en_in/productpage.1212380005.html",
+            "colorName": "Light beige/Pinstriped",
+            "colorCode": "F0EEED",
+            "trackingId": "OzQ7IzsxMjEyMzgwMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/3d/6e/3d6e5afeab8e4ff477cd64eeb15681a68a6d5536.jpg"
+          },
+          {
+            "articleId": "1212380004",
+            "url": "/en_in/productpage.1212380004.html",
+            "colorName": "White",
+            "colorCode": "F0EEED",
+            "trackingId": "OzQ7IzsxMjEyMzgwMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2d/a5/2da56626862447cb06643ea7597132f917c66bcb.jpg"
+          },
+          {
+            "articleId": "1212380006",
+            "url": "/en_in/productpage.1212380006.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjEyMzgwMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/32/fe/32fe2a2d2f4dbea553583e5a179f2a3cee990c8b.jpg"
+          },
+          {
+            "articleId": "1212380007",
+            "url": "/en_in/productpage.1212380007.html",
+            "colorName": "Beige",
+            "colorCode": "A98968",
+            "trackingId": "OzQ7IzsxMjEyMzgwMDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/42/8b/428b3d53a9ccd8c431a7300d922cddf3c1628252.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/73/9b/739b3c45a8d40c0c077370163a63482c04a13bcf.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/0e/55/0e5570264b5815de73d4e9ad31f19d749dc53a92.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/cf/0f/cf0fadd562b44a6e30a749446b1c5e26af03db54.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/16/81/168131abe49bccd422bf64a8878083c8f76c6945.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light beige/Pinstriped",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/b3/03/b303bb878fb0989ac0b5b836db69a1a12048ac7d.jpg",
+        "colors": "F0EEED",
+        "productImage": "https://image.hm.com/assets/hm/3d/6e/3d6e5afeab8e4ff477cd64eeb15681a68a6d5536.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc|multi_000000",
+        "mainCatCode": "ladies_dresses_shortdresses",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1289932001",
+        "trackingId": "OzQ7IzsxMjg5OTMyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+        "productName": "Strappy chiffon dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1289932001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1289932001",
+            "url": "/en_in/productpage.1289932001.html",
+            "colorName": "Beige/Snakeskin-patterned",
+            "colorCode": "C3916B",
+            "trackingId": "OzQ7IzsxMjg5OTMyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/0c/3b/0c3b6e4c9db9107e363974588589a72092367d87.jpg"
+          }
+        ],
+        "productMarkers": [
+          {
+            "text": "S/S 2025",
+            "type": "collectionMarker"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/2b/2e/2b2e4db69caeb8f64735c5ff6ba6e46c312fc329.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c5/39/c53987652033e051c88b1f586922022e355532a7.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a0/dd/a0dd1b7b7df8477d5e7df8a8911b86a4d461ce68.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/3d/fb/3dfbb619bf45c30a396e36ebca2e50cb8e9b03d3.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Beige/Snakeskin-patterned",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/e9/14/e914e89f6ac15bb67ee56f87570651e07178233c.jpg",
+        "colors": "C3916B",
+        "productImage": "https://image.hm.com/assets/hm/0c/3b/0c3b6e4c9db9107e363974588589a72092367d87.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "ladies_dresses_maxidresses",
+        "sellingAttribute": "New Arrival",
+        "collectionMarker": "S/S 2025"
+      },
+      {
+        "id": "1278033002",
+        "trackingId": "OzQ7IzsxMjc4MDMzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+        "productName": "Tie-belt tunic dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1278033002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1799,
+            "minPrice": 1799,
+            "maxPrice": 1799,
+            "formattedPrice": "Rs.1,799.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1278033002",
+            "url": "/en_in/productpage.1278033002.html",
+            "colorName": "Light apricot/Floral",
+            "colorCode": "F0D7C9",
+            "trackingId": "OzQ7IzsxMjc4MDMzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2f/75/2f755d909894751967c91ee7333698e3160a198a.jpg"
+          },
+          {
+            "articleId": "1278033003",
+            "url": "/en_in/productpage.1278033003.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjc4MDMzMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/19/4f/194fe11836787537dec0c021ca3778c2356aa965.jpg"
+          },
+          {
+            "articleId": "1278033001",
+            "url": "/en_in/productpage.1278033001.html",
+            "colorName": "Black/Patterned",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjc4MDMzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/1a/2e/1a2ea3ef649170516063134d836635c2feae813e.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/bf/8b/bf8b8589278775aae862dee05c662dc8a0519585.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/06/ef/06efb947e1c20246c7d72d0353bc40358f1a36c2.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/2b/3b/2b3bc664e771f61703379bd2382811c024325f03.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light apricot/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "videoId": "5416fbc357caf430fa61cbfde149bf2865c7380d",
+        "modelImage": "https://image.hm.com/assets/hm/09/de/09de00e8bc80894e968b47e8f1e84d721f830da9.jpg",
+        "colors": "F0D7C9",
+        "productImage": "https://image.hm.com/assets/hm/2f/75/2f755d909894751967c91ee7333698e3160a198a.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|orange_ffa500",
+        "mainCatCode": "ladies_dresses_shortdresses",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1284940001",
+        "trackingId": "OzQ7IzsxMjg0OTQwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+        "productName": "Linen-blend midi dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1284940001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 3299,
+            "minPrice": 3299,
+            "maxPrice": 3299,
+            "formattedPrice": "Rs.3,299.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1284940001",
+            "url": "/en_in/productpage.1284940001.html",
+            "colorName": "Navy blue/White striped",
+            "colorCode": "333C4D",
+            "trackingId": "OzQ7IzsxMjg0OTQwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/3d/c8/3dc89ed5650e7d3658e13e7d90811119fca0a43a.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/df/e1/dfe15bbe5ba9175005ca6fa6403e0d198ecdc4a6.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/51/63/51631a5995496f88da9e90141dade59c2699e593.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/8a/60/8a601b1894f311abf06c7ca6dfcaf505ea3a7320.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/5c/6b/5c6b0031aff3c4662a081e57a346533cd5330f06.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/cd/0f/cd0fabe3dcfe0d4500c72cb762bbbd94027e29b4.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Navy blue/White striped",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/2d/9a/2d9a7e1aa13c3ea7396658cec6d70ccc285b19b7.jpg",
+        "colors": "333C4D",
+        "productImage": "https://image.hm.com/assets/hm/3d/c8/3dc89ed5650e7d3658e13e7d90811119fca0a43a.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blue_0000ff|multi_000000",
+        "mainCatCode": "ladies_dresses_bodycon",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1237047001",
+        "trackingId": "OzQ7IzsxMjM3MDQ3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+        "productName": "T-shirt dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1237047001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1237047001",
+            "url": "/en_in/productpage.1237047001.html",
+            "colorName": "Black",
+            "colorCode": "2F3237",
+            "trackingId": "OzQ7IzsxMjM3MDQ3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/56/b2/56b2a612f2803de1f7a0e8019c2db54cfa88fcd2.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/01/94/0194156da47cb7826b8fcb773958a32a279ad3a5.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/af/f3/aff35d542c9c9b250ae70cb87f2ca2a87224be29.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/14/f7/14f78ca65c773a11111eeb23c62ad736eff45e09.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/99/21/992154b638d1388604a996a58ce8ac4c6b8997d1.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/a8/12/a81291184670c0853d2f100b9857def6ebc16756.jpg",
+        "colors": "2F3237",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/56/b2/56b2a612f2803de1f7a0e8019c2db54cfa88fcd2.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "ladies_dresses_mididresses"
+      },
+      {
+        "id": "1286514001",
+        "trackingId": "OzQ7IzsxMjg2NTE0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+        "productName": "Textured jersey dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1286514001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1286514001",
+            "url": "/en_in/productpage.1286514001.html",
+            "colorName": "White",
+            "colorCode": "ECE7E1",
+            "trackingId": "OzQ7IzsxMjg2NTE0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/3a/6e/3a6e60823e467429f7422e270dff6933c39d5541.jpg"
+          },
+          {
+            "articleId": "1286514002",
+            "url": "/en_in/productpage.1286514002.html",
+            "colorName": "Bright red",
+            "colorCode": "EC5044",
+            "trackingId": "OzQ7IzsxMjg2NTE0MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b7/d1/b7d11a71e319c87c58133f109d07883584c51cbc.jpg"
+          },
+          {
+            "articleId": "1286514003",
+            "url": "/en_in/productpage.1286514003.html",
+            "colorName": "Brown",
+            "colorCode": "765B3D",
+            "trackingId": "OzQ7IzsxMjg2NTE0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/32/63/3263e527c3f0a7c317b297a2db02d758b2b8ce63.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/3e/68/3e68913c30ea90e8ec51e4d688a2af9f5c7a5d6c.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/84/01/840174b8a6e3bb73dd09e038be9076a8857e60e2.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/fa/cf/facf0d20d8efde3aff5aab4c918f461e81261305.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "White",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/59/5b/595b660afa50781d28bf2aaec6fa0a0f3ad2c69c.jpg",
+        "colors": "ECE7E1",
+        "productImage": "https://image.hm.com/assets/hm/3a/6e/3a6e60823e467429f7422e270dff6933c39d5541.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "white_ffffff",
+        "mainCatCode": "ladies_dresses_bodycon"
+      },
+      {
+        "id": "1273301001",
+        "trackingId": "OzQ7IzsxMjczMzAxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+        "productName": "Draped midi dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1273301001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1273301001",
+            "url": "/en_in/productpage.1273301001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjczMzAxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/95/19/9519de943468439eac686e584757d824d9e92071.jpg"
+          },
+          {
+            "articleId": "1273301002",
+            "url": "/en_in/productpage.1273301002.html",
+            "colorName": "Dusty pink",
+            "colorCode": "8B6E79",
+            "trackingId": "OzQ7IzsxMjczMzAxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/dc/74/dc74d145627ea1edbb0271669dc5c1e6ada4c184.jpg"
+          },
+          {
+            "articleId": "1273301003",
+            "url": "/en_in/productpage.1273301003.html",
+            "colorName": "Amber-coloured",
+            "colorCode": "937350",
+            "trackingId": "OzQ7IzsxMjczMzAxMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/0c/9b/0c9b9aa4095f013d1a15946360eb2af23b12c814.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/c2/cf/c2cf21b005190a68589fb7908f4a07147e2922e7.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/95/19/9519de943468439eac686e584757d824d9e92071.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/95/19/9519de943468439eac686e584757d824d9e92071.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "ladies_dresses_bodycon"
+      },
+      {
+        "id": "1280666001",
+        "trackingId": "OzQ7IzsxMjgwNjY2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+        "productName": "Crêpe mini dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1280666001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1280666001",
+            "url": "/en_in/productpage.1280666001.html",
+            "colorName": "White/Green patterned",
+            "colorCode": "ECE7E1",
+            "trackingId": "OzQ7IzsxMjgwNjY2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/11/f7/11f710c27e4a7774b29e0967d8d79bea600937c2.jpg"
+          },
+          {
+            "articleId": "1280666002",
+            "url": "/en_in/productpage.1280666002.html",
+            "colorName": "Red",
+            "colorCode": "BA2127",
+            "trackingId": "OzQ7IzsxMjgwNjY2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/bc/05/bc057f665133f041e4e5a4d6c1fe395e173c83b7.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/24/a5/24a54c980bed1a9ccf16e58696632476dc1d50e2.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/85/5e/855e9a285505cb5479cef87531132713a147151e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/99/35/993585feb1fc202aeff66d0adf5d0b3a297997c4.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "White/Green patterned",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/43/49/434915dcc4986b04a21b3bfcdeb1145df7e2f852.jpg",
+        "colors": "ECE7E1",
+        "productImage": "https://image.hm.com/assets/hm/11/f7/11f710c27e4a7774b29e0967d8d79bea600937c2.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "green_008000|multi_000000|white_ffffff",
+        "mainCatCode": "ladies_dresses_shortdresses"
+      },
+      {
+        "id": "1226566015",
+        "trackingId": "OzQ7IzsxMjI2NTY2MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+        "productName": "Tie-belt crêpe dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1226566015.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2299,
+            "minPrice": 2299,
+            "maxPrice": 2299,
+            "formattedPrice": "Rs.2,299.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1226566015",
+            "url": "/en_in/productpage.1226566015.html",
+            "colorName": "Yellow/Patterned",
+            "colorCode": "C09D4E",
+            "trackingId": "OzQ7IzsxMjI2NTY2MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/3b/43/3b4310ec5c0a5e1eaaa448287e8958c28a12aeb4.jpg"
+          },
+          {
+            "articleId": "1226566006",
+            "url": "/en_in/productpage.1226566006.html",
+            "colorName": "Green/Patterned",
+            "colorCode": "618646",
+            "trackingId": "OzQ7IzsxMjI2NTY2MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/0f/3e/0f3e000de55eb0b1925d7c61e04e6c53fe4a5011.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/3e/3f/3e3f6074e044d66dbff5a30d4117561c8afd0907.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/80/97/80979555eb73595cbc9ef072d3a704ed9c908b4a.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f3/13/f313fdb60272ed052c376f99d4af904f83992dc2.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e7/af/e7afd2e35dd22f28d13148feaf89c5748e3fe0b0.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/4c/05/4c054620ba1aa5e90ef33118e628691b3889caab.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Yellow/Patterned",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/f6/e0/f6e0382c7715167394499d34c4e27542e00aa112.jpg",
+        "colors": "C09D4E",
+        "productImage": "https://image.hm.com/assets/hm/3b/43/3b4310ec5c0a5e1eaaa448287e8958c28a12aeb4.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|yellow_ffff00",
+        "mainCatCode": "ladies_dresses_maxidresses"
+      },
+      {
+        "id": "1275438002",
+        "trackingId": "OzQ7IzsxMjc1NDM4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+        "productName": "Broderie anglaise cotton dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1275438002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2299,
+            "minPrice": 2299,
+            "maxPrice": 2299,
+            "formattedPrice": "Rs.2,299.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1275438002",
+            "url": "/en_in/productpage.1275438002.html",
+            "colorName": "White",
+            "colorCode": "FFFFFF",
+            "trackingId": "OzQ7IzsxMjc1NDM4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e3/18/e3187a83369ed9ad1fca9606f01d5745f55366a6.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/89/be/89be75faeb53083de1a9cc1cd5ddf77463d76ec7.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/3c/9c/3c9c3660d54952e11cf9f8b7fc0e1f12c502eb82.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/82/f4/82f46528343e990ad35ac2b97231b26f09b77455.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "White",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/32/d0/32d059e28e9c3e9efd7b8d500c4496354f4425c2.jpg",
+        "colors": "FFFFFF",
+        "productImage": "https://image.hm.com/assets/hm/e3/18/e3187a83369ed9ad1fca9606f01d5745f55366a6.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "white_ffffff",
+        "mainCatCode": "ladies_dresses_aline",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1275625002",
+        "trackingId": "OzQ7IzsxMjc1NjI1MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+        "productName": "Broderie anglaise-sleeved dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1275625002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1275625002",
+            "url": "/en_in/productpage.1275625002.html",
+            "colorName": "Pale yellow",
+            "colorCode": "E9E1BF",
+            "trackingId": "OzQ7IzsxMjc1NjI1MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/bd/c6/bdc654418424f88bea870a79ae677b572d883d15.jpg"
+          },
+          {
+            "articleId": "1275625003",
+            "url": "/en_in/productpage.1275625003.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjc1NjI1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/03/78/03786af97f6c54320b35b17c0c541a86e76186ba.jpg"
+          },
+          {
+            "articleId": "1275625001",
+            "url": "/en_in/productpage.1275625001.html",
+            "colorName": "White",
+            "colorCode": "F0EEED",
+            "trackingId": "OzQ7IzsxMjc1NjI1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9d/60/9d603499fbcc7f9b6cd1316c8378d175194cdf0d.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/0c/e7/0ce7018fc3566f4088337fd07fe28eea2a9efba2.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c2/34/c2344c3538c5a190d8a0b134ddb10709ee207525.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/7d/53/7d5318d8b40fb9cf0b7f324d98a74164bc01aa3b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/12/80/12800d8346532ffde5af8ed8cdf989178416c235.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Pale yellow",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/d5/4f/d54fda8fc9c426e68c2704f3dec95a5a7e57a92a.jpg",
+        "colors": "E9E1BF",
+        "colourShades": "Cream|Pastel yellow",
+        "productImage": "https://image.hm.com/assets/hm/bd/c6/bdc654418424f88bea870a79ae677b572d883d15.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "yellow_ffff00",
+        "mainCatCode": "ladies_dresses_shortdresses",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1265394006",
+        "trackingId": "OzQ7IzsxMjY1Mzk0MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+        "productName": "Twist-detail one-shoulder dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1265394006.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 799,
+            "minPrice": 799,
+            "maxPrice": 799,
+            "formattedPrice": "Rs.799.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1265394006",
+            "url": "/en_in/productpage.1265394006.html",
+            "colorName": "Light blue",
+            "colorCode": "AEBACE",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/17/9a/179a2fa4425f48620d226f2c680de3ae4f5f2ed6.jpg"
+          },
+          {
+            "articleId": "1265394001",
+            "url": "/en_in/productpage.1265394001.html",
+            "colorName": "Dark brown",
+            "colorCode": "3B312B",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/95/f9/95f968f20d9c5613b136700c48d9dedc52371f6f.jpg"
+          },
+          {
+            "articleId": "1265394005",
+            "url": "/en_in/productpage.1265394005.html",
+            "colorName": "Cream",
+            "colorCode": "F0F1F0",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/60/62/606270b44f9730048564ef097194b96793ce2f47.jpg"
+          },
+          {
+            "articleId": "1265394003",
+            "url": "/en_in/productpage.1265394003.html",
+            "colorName": "Light mint green",
+            "colorCode": "ABBDA4",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2d/19/2d1955adb28a1f73b0b2e9398b5dba98181e5e8f.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/b9/28/b92882813b0db8c20aa54d968852758889aec09d.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f2/d6/f2d67693b68d271614b19e2a1cce0f8848a065f3.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/0e/c6/0ec66db99c935ac58ff71b0e7e4849e490d3ece0.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/77/b8/77b8275c7bf2ea13b5fa825ec9b894345b150332.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a6/93/a6934b08e1dabf35644227f4e80e6a1acad4cc30.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light blue",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/6f/b4/6fb40e6cedbfe76561d99fe03842f8c506f3f37f.jpg",
+        "colors": "AEBACE",
+        "colourShades": "Baby blue|Light blue|Pastel blue",
+        "productImage": "https://image.hm.com/assets/hm/17/9a/179a2fa4425f48620d226f2c680de3ae4f5f2ed6.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blue_0000ff",
+        "mainCatCode": "ladies_dresses_oneshoulder"
+      },
+      {
+        "id": "1265413007",
+        "trackingId": "OzQ7IzsxMjY1NDEzMDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+        "productName": "Drawstring-detail flared-skirt dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1265413007.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1265413007",
+            "url": "/en_in/productpage.1265413007.html",
+            "colorName": "Navy blue/Floral",
+            "colorCode": "272836",
+            "trackingId": "OzQ7IzsxMjY1NDEzMDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/63/b4/63b4839a5849f32fc94b4396be940e513ed1d608.jpg"
+          },
+          {
+            "articleId": "1265413008",
+            "url": "/en_in/productpage.1265413008.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "ECE9E2",
+            "trackingId": "OzQ7IzsxMjY1NDEzMDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b1/9f/b19fc808ed27eba30e9ccf67afc9c79d7f5ed364.jpg"
+          },
+          {
+            "articleId": "1265413005",
+            "url": "/en_in/productpage.1265413005.html",
+            "colorName": "White",
+            "colorCode": "FFFFFF",
+            "trackingId": "OzQ7IzsxMjY1NDEzMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/57/1e/571e62a72773bd5c7a2b77b414eab23ed1abeade.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/ee/48/ee484709137efac825d37eafeb34bf60107bb421.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/39/7c/397c694ec78829acf8b5925983b68b9e43323742.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/68/fe/68fe53b6b5566d851331c50b21bbbf6fa9f757d9.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/42/56/425680482c5f7d003ed03b8f9606355229c54036.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Navy blue/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/1c/48/1c484bece8e1499dd38f2bf6520dcb524cb3739a.jpg",
+        "colors": "272836",
+        "productImage": "https://image.hm.com/assets/hm/63/b4/63b4839a5849f32fc94b4396be940e513ed1d608.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blue_0000ff|multi_000000",
+        "mainCatCode": "ladies_dresses_shortdresses"
+      },
+      {
+        "id": "1265096005",
+        "trackingId": "OzQ7IzsxMjY1MDk2MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+        "productName": "Tie-belt viscose shirt dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1265096005.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1265096005",
+            "url": "/en_in/productpage.1265096005.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjY1MDk2MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/d6/50/d6506a61266bb6ec589b37e42c2276ef6d6eb630.jpg"
+          },
+          {
+            "articleId": "1265096002",
+            "url": "/en_in/productpage.1265096002.html",
+            "colorName": "Light beige/Leopard print",
+            "colorCode": "A98968",
+            "trackingId": "OzQ7IzsxMjY1MDk2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/90/62/9062a248dffc146a31d21b83c5ad04309b7ea980.jpg"
+          },
+          {
+            "articleId": "1265096003",
+            "url": "/en_in/productpage.1265096003.html",
+            "colorName": "Black/Cream patterned",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjY1MDk2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/c6/28/c628f47eb2dc2ec0030c96e96f3e625c16e01b18.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/de/77/de7740ad78fa461fec27425fcada71a94ab9dedb.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/50/ae/50aecd3d8031d7b7802a83cc4317d5079529143f.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/30/d2/30d2eaf35be39c686b23b3892b602c04129b4d1b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/d3/53/d353e83d9af9fc3e964585d9a529b0e655dc90a7.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/84/90/8490566bdf09063b02fb3e956985e420dccc1167.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/d6/50/d6506a61266bb6ec589b37e42c2276ef6d6eb630.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "ladies_dresses_mididresses"
+      },
+      {
+        "id": "1269440002",
+        "trackingId": "OzQ7IzsxMjY5NDQwMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+        "productName": "Flared-skirt cotton dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1269440002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1269440002",
+            "url": "/en_in/productpage.1269440002.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "ECE9E2",
+            "trackingId": "OzQ7IzsxMjY5NDQwMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/07/08/07086e00e243d41880dcb9d2141fbabc107730c2.jpg"
+          },
+          {
+            "articleId": "1269440006",
+            "url": "/en_in/productpage.1269440006.html",
+            "colorName": "White",
+            "colorCode": "FFFFFF",
+            "trackingId": "OzQ7IzsxMjY5NDQwMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9e/90/9e9019242378db939d0ed97543cceecca9841ff7.jpg"
+          },
+          {
+            "articleId": "1269440001",
+            "url": "/en_in/productpage.1269440001.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "ECE9E2",
+            "trackingId": "OzQ7IzsxMjY5NDQwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9b/76/9b76122152ac0a882f8504a7dfbbd073a5817e72.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/87/77/8777e529fb28c42b37195710171296e81d190018.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/75/25/7525e79d07554dd5914cec62d44008f27f81b0a4.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f9/e9/f9e964b975a87be7a24e7ffacb2593bc9a252b64.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Cream/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/06/24/0624fd590eaead9fc54f63c920dfa3351b73683b.jpg",
+        "colors": "ECE9E2",
+        "productImage": "https://image.hm.com/assets/hm/07/08/07086e00e243d41880dcb9d2141fbabc107730c2.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|white_ffffff",
+        "mainCatCode": "ladies_dresses_shortdresses"
+      },
+      {
+        "id": "1265602005",
+        "trackingId": "OzQ7IzsxMjY1NjAyMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+        "productName": "Patterned viscose dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1265602005.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1265602005",
+            "url": "/en_in/productpage.1265602005.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "EEEDE1",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/d5/f3/d5f3eb154bd378954f2b137b1ee88e000b0932e8.jpg"
+          },
+          {
+            "articleId": "1265602004",
+            "url": "/en_in/productpage.1265602004.html",
+            "colorName": "Black/White floral",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f6/a3/f6a3e412caaa5337cf9ad52e4580b170599fe0ba.jpg"
+          },
+          {
+            "articleId": "1265602001",
+            "url": "/en_in/productpage.1265602001.html",
+            "colorName": "Black/Floral",
+            "colorCode": "363436",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/31/75/3175d617ce1cb31e175f17b5d30a8490e812eb34.jpg"
+          },
+          {
+            "articleId": "1265602003",
+            "url": "/en_in/productpage.1265602003.html",
+            "colorName": "White/Blue floral",
+            "colorCode": "BABFCC",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cf/e8/cfe85875fa76910dad377c47b7861211b3453472.jpg"
+          },
+          {
+            "articleId": "1265602002",
+            "url": "/en_in/productpage.1265602002.html",
+            "colorName": "Cream/Paisley-patterned",
+            "colorCode": "E0D9C8",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/d9/d9/d9d99223a057c4cfe24151fb8a3c218e224c404e.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/ed/43/ed43ecc4bf8a0d4e58dc47a2e276e3a3731c8911.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/42/ed/42ed0b5e90ee3447d60decbb44a3395bcbb9c25a.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Cream/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/bc/2c/bc2ca6b94a6881eaabe2b516cecbfbdfea4aeb26.jpg",
+        "colors": "EEEDE1",
+        "productImage": "https://image.hm.com/assets/hm/d5/f3/d5f3eb154bd378954f2b137b1ee88e000b0932e8.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|white_ffffff",
+        "mainCatCode": "ladies_dresses_shortdresses"
+      },
+      {
+        "id": "1280667001",
+        "trackingId": "OzQ7IzsxMjgwNjY3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+        "productName": "Cotton dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1280667001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1280667001",
+            "url": "/en_in/productpage.1280667001.html",
+            "colorName": "Red",
+            "colorCode": "BA2127",
+            "trackingId": "OzQ7IzsxMjgwNjY3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/aa/c5/aac586dc60e2649306cbf93f5c7c69058823900e.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/2c/3f/2c3fb5215b19f0e006ff40e87bf7cf610937d562.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/19/5a/195abcd4f5fd5b9deae849320f4a8f11f3070470.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/76/17/76173a38c14354e02cd2d530361816fb479f3034.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/39/f3/39f3569501ad806f79a31eeda853ac99430cef7b.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Red",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/35/db/35db75b0ebbc64f6f3eb0ed9d9299d0db3f32dc2.jpg",
+        "colors": "BA2127",
+        "productImage": "https://image.hm.com/assets/hm/aa/c5/aac586dc60e2649306cbf93f5c7c69058823900e.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "red_ff0000",
+        "mainCatCode": "ladies_dresses_mididresses"
+      },
+      {
+        "id": "1278224001",
+        "trackingId": "OzQ7IzsxMjc4MjI0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+        "productName": "Embroidered cotton dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1278224001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 3999,
+            "minPrice": 3999,
+            "maxPrice": 3999,
+            "formattedPrice": "Rs.3,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1278224001",
+            "url": "/en_in/productpage.1278224001.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "F0F1F0",
+            "trackingId": "OzQ7IzsxMjc4MjI0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b2/11/b2116784d8eae1a10146856c322611ebc5bcc141.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/25/0b/250b0256bb78f228326768ff4fcda6b371e7d2cc.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/aa/4d/aa4db0878d04f3f50bde9c08206ac4ed54a84314.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/62/92/6292e717c8cfd96b6e658daec583be16db28492e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/30/88/3088f763f9de565af3d47a3ebe500a419b9cd632.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a6/c1/a6c1e9d81f52e06340f4f65143211819f483016a.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Cream/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/b8/4e/b84e747305337ed853fd70704af2666c01ca2bc2.jpg",
+        "colors": "F0F1F0",
+        "productImage": "https://image.hm.com/assets/hm/b2/11/b2116784d8eae1a10146856c322611ebc5bcc141.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|white_ffffff",
+        "mainCatCode": "ladies_dresses_maxidresses"
+      },
+      {
+        "id": "1265602004",
+        "trackingId": "OzQ7IzsxMjY1NjAyMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+        "productName": "Patterned viscose dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1265602004.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1265602004",
+            "url": "/en_in/productpage.1265602004.html",
+            "colorName": "Black/White floral",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f6/a3/f6a3e412caaa5337cf9ad52e4580b170599fe0ba.jpg"
+          },
+          {
+            "articleId": "1265602005",
+            "url": "/en_in/productpage.1265602005.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "EEEDE1",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/d5/f3/d5f3eb154bd378954f2b137b1ee88e000b0932e8.jpg"
+          },
+          {
+            "articleId": "1265602001",
+            "url": "/en_in/productpage.1265602001.html",
+            "colorName": "Black/Floral",
+            "colorCode": "363436",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/31/75/3175d617ce1cb31e175f17b5d30a8490e812eb34.jpg"
+          },
+          {
+            "articleId": "1265602003",
+            "url": "/en_in/productpage.1265602003.html",
+            "colorName": "White/Blue floral",
+            "colorCode": "BABFCC",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cf/e8/cfe85875fa76910dad377c47b7861211b3453472.jpg"
+          },
+          {
+            "articleId": "1265602002",
+            "url": "/en_in/productpage.1265602002.html",
+            "colorName": "Cream/Paisley-patterned",
+            "colorCode": "E0D9C8",
+            "trackingId": "OzQ7IzsxMjY1NjAyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/d9/d9/d9d99223a057c4cfe24151fb8a3c218e224c404e.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/c4/c3/c4c3c4f594a205f8c6eb223938f1aa51a1ba20fb.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/2c/c4/2cc4efec7e41147c2fadee378055e06b27d52ef0.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c7/61/c76116856b0e9454571f221c53e86d0c49fe6925.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/49/e5/49e5cddc3af0704dd8138f9d9e85c204e52d71a3.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black/White floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/66/30/6630825d027f317546635f74bcfb1e73f3560b9e.jpg",
+        "colors": "272628",
+        "productImage": "https://image.hm.com/assets/hm/f6/a3/f6a3e412caaa5337cf9ad52e4580b170599fe0ba.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000|multi_000000",
+        "mainCatCode": "ladies_dresses_shortdresses"
+      },
+      {
+        "id": "1265394003",
+        "trackingId": "OzQ7IzsxMjY1Mzk0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+        "productName": "Twist-detail one-shoulder dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1265394003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 799,
+            "minPrice": 799,
+            "maxPrice": 799,
+            "formattedPrice": "Rs.799.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1265394003",
+            "url": "/en_in/productpage.1265394003.html",
+            "colorName": "Light mint green",
+            "colorCode": "ABBDA4",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2d/19/2d1955adb28a1f73b0b2e9398b5dba98181e5e8f.jpg"
+          },
+          {
+            "articleId": "1265394001",
+            "url": "/en_in/productpage.1265394001.html",
+            "colorName": "Dark brown",
+            "colorCode": "3B312B",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/95/f9/95f968f20d9c5613b136700c48d9dedc52371f6f.jpg"
+          },
+          {
+            "articleId": "1265394005",
+            "url": "/en_in/productpage.1265394005.html",
+            "colorName": "Cream",
+            "colorCode": "F0F1F0",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/60/62/606270b44f9730048564ef097194b96793ce2f47.jpg"
+          },
+          {
+            "articleId": "1265394006",
+            "url": "/en_in/productpage.1265394006.html",
+            "colorName": "Light blue",
+            "colorCode": "AEBACE",
+            "trackingId": "OzQ7IzsxMjY1Mzk0MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/17/9a/179a2fa4425f48620d226f2c680de3ae4f5f2ed6.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/85/70/8570ae907eb34e1c85ea2b574f1d0b77741d7b04.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/45/00/4500f258227a6f7ef3acbb00a7303564438b8d06.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1f/84/1f84ddf5b3a72ed13813bcfce4cb71d727c625b1.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/45/39/4539017831b4d3bcc8f071cb060904887f65f0fd.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light mint green",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/79/0d/790d1c0b3fdaf645cab955457d8d5bf9caecf61b.jpg",
+        "colors": "ABBDA4",
+        "colourShades": "Bright green|Light green|Lime",
+        "productImage": "https://image.hm.com/assets/hm/2d/19/2d1955adb28a1f73b0b2e9398b5dba98181e5e8f.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "green_008000",
+        "mainCatCode": "ladies_dresses_oneshoulder"
+      },
+      {
+        "id": "1217048007",
+        "trackingId": "OzQ7IzsxMjE3MDQ4MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+        "productName": "Strappy midi dress",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1217048007.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1217048007",
+            "url": "/en_in/productpage.1217048007.html",
+            "colorName": "White/Floral",
+            "colorCode": "EEEDE1",
+            "trackingId": "OzQ7IzsxMjE3MDQ4MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/59/bb/59bbfb3828aa6eab46e50d34ef86d0b57884e9d6.jpg"
+          },
+          {
+            "articleId": "1217048008",
+            "url": "/en_in/productpage.1217048008.html",
+            "colorName": "Cream/Floral",
+            "colorCode": "EEEDE1",
+            "trackingId": "OzQ7IzsxMjE3MDQ4MDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/fc/2c/fc2cc4523788c36a6d06f66fce4a1c248ef39d40.jpg"
+          },
+          {
+            "articleId": "1217048006",
+            "url": "/en_in/productpage.1217048006.html",
+            "colorName": "Cream/Patterned",
+            "colorCode": "ECE7E1",
+            "trackingId": "OzQ7IzsxMjE3MDQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/53/34/5334cc2172f521f58c6eeac620a8f07329f32bf6.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/53/2a/532a5f524415a9854bc2e6768cc23f47a6aaaf1f.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/30/11/30116fc7e611a1bd732546b295d5d13fd5100d23.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e4/b3/e4b368ce9c3ded7228a80f2aa03c445ac776ad86.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "White/Floral",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/46/17/46175c1115581d5e792be0da4865e92c7971b928.jpg",
+        "colors": "EEEDE1",
+        "productImage": "https://image.hm.com/assets/hm/59/bb/59bbfb3828aa6eab46e50d34ef86d0b57884e9d6.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|white_ffffff",
+        "mainCatCode": "ladies_dresses_mididresses"
+      }
+    ],
+    "sortOptions": {
+      "selected": "RELEVANCE",
+      "options": [
+        {
+          "id": "RELEVANCE",
+          "label": "Relevance"
+        },
+        {
+          "id": "NEWEST_FIRST",
+          "label": "New"
+        },
+        {
+          "id": "PRICE_DESCENDING",
+          "label": "Highest price"
+        },
+        {
+          "id": "PRICE_ASCENDING",
+          "label": "Lowest price"
+        },
+        {
+          "id": "DISCOUNT",
+          "label": "Discount"
+        }
+      ]
+    },
+    "numberOfHits": 897,
+    "sliceRanges": [],
+    "facets": [
+      {
+        "name": "Price",
+        "id": "priceRange",
+        "selectedCount": 0,
+        "type": "RANGE",
+        "min": 799,
+        "max": 13499
+      },
+      {
+        "name": "ColorWithNames",
+        "id": "colorWithNames",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "beige_f5f5dc",
+            "name": "beige_f5f5dc",
+            "count": 99,
+            "selected": false
+          },
+          {
+            "id": "black_000000",
+            "name": "black_000000",
+            "count": 280,
+            "selected": false
+          },
+          {
+            "id": "blue_0000ff",
+            "name": "blue_0000ff",
+            "count": 115,
+            "selected": false
+          },
+          {
+            "id": "brown_a52a2a",
+            "name": "brown_a52a2a",
+            "count": 36,
+            "selected": false
+          },
+          {
+            "id": "gold_ffd700",
+            "name": "gold_ffd700",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "green_008000",
+            "name": "green_008000",
+            "count": 57,
+            "selected": false
+          },
+          {
+            "id": "grey_808080",
+            "name": "grey_808080",
+            "count": 30,
+            "selected": false
+          },
+          {
+            "id": "multi_000000",
+            "name": "multi_000000",
+            "count": 295,
+            "selected": false
+          },
+          {
+            "id": "orange_ffa500",
+            "name": "orange_ffa500",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "pink_ffc0cb",
+            "name": "pink_ffc0cb",
+            "count": 19,
+            "selected": false
+          },
+          {
+            "id": "purple_800080",
+            "name": "purple_800080",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "red_ff0000",
+            "name": "red_ff0000",
+            "count": 45,
+            "selected": false
+          },
+          {
+            "id": "silver_c0c0c0",
+            "name": "silver_c0c0c0",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "turquoise_40e0d0",
+            "name": "turquoise_40e0d0",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "white_ffffff",
+            "name": "white_ffffff",
+            "count": 211,
+            "selected": false
+          },
+          {
+            "id": "yellow_ffff00",
+            "name": "yellow_ffff00",
+            "count": 24,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Size",
+        "id": "sizes",
+        "selectedCount": 0,
+        "type": "SIZE",
+        "groups": [
+          {
+            "name": "womenswear",
+            "facetValues": [
+              {
+                "id": "womenswear;NO_FORMAT[SML];XXS",
+                "name": "XXS",
+                "count": 365,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];XS",
+                "name": "XS",
+                "count": 678,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];S",
+                "name": "S",
+                "count": 645,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];M",
+                "name": "M",
+                "count": 624,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];L",
+                "name": "L",
+                "count": 594,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];XL",
+                "name": "XL",
+                "count": 609,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];XXL",
+                "name": "XXL",
+                "count": 60,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];4",
+                "name": "4",
+                "count": 22,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];6",
+                "name": "6",
+                "count": 23,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];8",
+                "name": "8",
+                "count": 18,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];10",
+                "name": "10",
+                "count": 17,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];12",
+                "name": "12",
+                "count": 15,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];14",
+                "name": "14",
+                "count": 14,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];16",
+                "name": "16",
+                "count": 16,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];18",
+                "name": "18",
+                "count": 14,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];20",
+                "name": "20",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric];22",
+                "name": "22",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];M/L/T",
+                "name": "M/L/T",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];XS/S/T",
+                "name": "XS/S/T",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[One size];ONESIZE",
+                "name": "ONESIZE",
+                "count": 1,
+                "selected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GarmentLengths",
+        "id": "garmentLengths",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Knee length",
+            "name": "Knee length",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Long",
+            "name": "Long",
+            "count": 99,
+            "selected": false
+          },
+          {
+            "id": "Maxi",
+            "name": "Maxi",
+            "count": 42,
+            "selected": false
+          },
+          {
+            "id": "Midi",
+            "name": "Midi",
+            "count": 292,
+            "selected": false
+          },
+          {
+            "id": "Mini",
+            "name": "Mini",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Short",
+            "name": "Short",
+            "count": 443,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ClothingStyles",
+        "id": "clothingStyles",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "A-line",
+            "name": "A-line",
+            "count": 82,
+            "selected": false
+          },
+          {
+            "id": "Babydoll",
+            "name": "Babydoll",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Balloon skirt",
+            "name": "Balloon skirt",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Bandeau",
+            "name": "Bandeau",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Blazer dress",
+            "name": "Blazer dress",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Bodycon",
+            "name": "Bodycon",
+            "count": 148,
+            "selected": false
+          },
+          {
+            "id": "Boxy",
+            "name": "Boxy",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cargo",
+            "name": "Cargo",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Circular",
+            "name": "Circular",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cold shoulder",
+            "name": "Cold shoulder",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Corset dress",
+            "name": "Corset dress",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Cutout",
+            "name": "Cutout",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Double-breasted",
+            "name": "Double-breasted",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Draped",
+            "name": "Draped",
+            "count": 82,
+            "selected": false
+          },
+          {
+            "id": "Dungaree dress",
+            "name": "Dungaree dress",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Flapper dress",
+            "name": "Flapper dress",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Flared",
+            "name": "Flared",
+            "count": 177,
+            "selected": false
+          },
+          {
+            "id": "Jumper dress",
+            "name": "Jumper dress",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Keyhole cutout",
+            "name": "Keyhole cutout",
+            "count": 45,
+            "selected": false
+          },
+          {
+            "id": "Off-the-shoulder",
+            "name": "Off-the-shoulder",
+            "count": 28,
+            "selected": false
+          },
+          {
+            "id": "One-shoulder",
+            "name": "One-shoulder",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Open back",
+            "name": "Open back",
+            "count": 22,
+            "selected": false
+          },
+          {
+            "id": "Pencil dress",
+            "name": "Pencil dress",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Plunge back",
+            "name": "Plunge back",
+            "count": 44,
+            "selected": false
+          },
+          {
+            "id": "Racer back",
+            "name": "Racer back",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Shirt dress",
+            "name": "Shirt dress",
+            "count": 68,
+            "selected": false
+          },
+          {
+            "id": "Single-breasted",
+            "name": "Single-breasted",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Skater",
+            "name": "Skater",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Slip dress",
+            "name": "Slip dress",
+            "count": 10,
+            "selected": false
+          },
+          {
+            "id": "Slit",
+            "name": "Slit",
+            "count": 53,
+            "selected": false
+          },
+          {
+            "id": "Smocked",
+            "name": "Smocked",
+            "count": 81,
+            "selected": false
+          },
+          {
+            "id": "Strapless",
+            "name": "Strapless",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Strappy dress",
+            "name": "Strappy dress",
+            "count": 139,
+            "selected": false
+          },
+          {
+            "id": "T-shirt dress",
+            "name": "T-shirt dress",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Tie-front",
+            "name": "Tie-front",
+            "count": 39,
+            "selected": false
+          },
+          {
+            "id": "Tunic",
+            "name": "Tunic",
+            "count": 33,
+            "selected": false
+          },
+          {
+            "id": "Wrapover",
+            "name": "Wrapover",
+            "count": 16,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Materials",
+        "id": "materials",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Bouclé",
+            "name": "Bouclé",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Chiffon",
+            "name": "Chiffon",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Cotton",
+            "name": "Cotton",
+            "count": 157,
+            "selected": false
+          },
+          {
+            "id": "Crêpe",
+            "name": "Crêpe",
+            "count": 42,
+            "selected": false
+          },
+          {
+            "id": "Denim",
+            "name": "Denim",
+            "count": 23,
+            "selected": false
+          },
+          {
+            "id": "French Terry",
+            "name": "French Terry",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Jersey",
+            "name": "Jersey",
+            "count": 169,
+            "selected": false
+          },
+          {
+            "id": "Lace",
+            "name": "Lace",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Linen",
+            "name": "Linen",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Lyocell",
+            "name": "Lyocell",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Mesh",
+            "name": "Mesh",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Microfibre",
+            "name": "Microfibre",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Poplin",
+            "name": "Poplin",
+            "count": 27,
+            "selected": false
+          },
+          {
+            "id": "PU material",
+            "name": "PU material",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Satin",
+            "name": "Satin",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Seersucker",
+            "name": "Seersucker",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Twill",
+            "name": "Twill",
+            "count": 29,
+            "selected": false
+          },
+          {
+            "id": "Viscose",
+            "name": "Viscose",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Voile",
+            "name": "Voile",
+            "count": 5,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Patterns",
+        "id": "patterns",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Checked",
+            "name": "Checked",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Crocodile-patterned",
+            "name": "Crocodile-patterned",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Floral",
+            "name": "Floral",
+            "count": 116,
+            "selected": false
+          },
+          {
+            "id": "Leopard-print",
+            "name": "Leopard-print",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Paisley-patterned",
+            "name": "Paisley-patterned",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Patterned",
+            "name": "Patterned",
+            "count": 100,
+            "selected": false
+          },
+          {
+            "id": "Pinstriped",
+            "name": "Pinstriped",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Snakeskin-patterned",
+            "name": "Snakeskin-patterned",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Solid colour",
+            "name": "Solid colour",
+            "count": 569,
+            "selected": false
+          },
+          {
+            "id": "Spotted",
+            "name": "Spotted",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Striped",
+            "name": "Striped",
+            "count": 29,
+            "selected": false
+          },
+          {
+            "id": "Zebra-print",
+            "name": "Zebra-print",
+            "count": 10,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "NecklineStyles",
+        "id": "necklineStyles",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Asymmetric neckline",
+            "name": "Asymmetric neckline",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Ballerina neckline",
+            "name": "Ballerina neckline",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Boat neck",
+            "name": "Boat neck",
+            "count": 51,
+            "selected": false
+          },
+          {
+            "id": "Cowl neck",
+            "name": "Cowl neck",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Crew-neck",
+            "name": "Crew-neck",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Deep neckline",
+            "name": "Deep neckline",
+            "count": 65,
+            "selected": false
+          },
+          {
+            "id": "Deep-plunge neckline",
+            "name": "Deep-plunge neckline",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Halterneck",
+            "name": "Halterneck",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Polo-neck",
+            "name": "Polo-neck",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Round neck",
+            "name": "Round neck",
+            "count": 222,
+            "selected": false
+          },
+          {
+            "id": "Square neckline",
+            "name": "Square neckline",
+            "count": 85,
+            "selected": false
+          },
+          {
+            "id": "Sweetheart neckline",
+            "name": "Sweetheart neckline",
+            "count": 33,
+            "selected": false
+          },
+          {
+            "id": "Turtleneck",
+            "name": "Turtleneck",
+            "count": 15,
+            "selected": false
+          },
+          {
+            "id": "V-neck",
+            "name": "V-neck",
+            "count": 245,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Brand",
+        "id": "brandNames",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "H&M",
+            "name": "H&M",
+            "count": 897,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Fits",
+        "id": "fits",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Loose fit",
+            "name": "Loose fit",
+            "count": 150,
+            "selected": false
+          },
+          {
+            "id": "Oversized",
+            "name": "Oversized",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "Regular fit",
+            "name": "Regular fit",
+            "count": 409,
+            "selected": false
+          },
+          {
+            "id": "Relaxed fit",
+            "name": "Relaxed fit",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Slim fit",
+            "name": "Slim fit",
+            "count": 303,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ProductTypes",
+        "id": "productTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Caftan",
+            "name": "Caftan",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Dress",
+            "name": "Dress",
+            "count": 886,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "CustomerGroups",
+        "id": "customerGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Woman",
+            "name": "Woman",
+            "count": 897,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Qualities",
+        "id": "qualities",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "H&M Premium Selection",
+            "name": "H&M Premium Selection",
+            "count": 5,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Occasions",
+        "id": "occasions",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Chinese New Year",
+            "name": "Chinese New Year",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Christmas",
+            "name": "Christmas",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Diwali",
+            "name": "Diwali",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Holi",
+            "name": "Holi",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Lunar New Year",
+            "name": "Lunar New Year",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "New year's eve",
+            "name": "New year's eve",
+            "count": 21,
+            "selected": false
+          },
+          {
+            "id": "Ramadan",
+            "name": "Ramadan",
+            "count": 11,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AssortmentTypes",
+        "id": "assortmentTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Clothing",
+            "name": "Clothing",
+            "count": 897,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AgeGroups",
+        "id": "ageGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Adult",
+            "name": "Adult",
+            "count": 897,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Concepts",
+        "id": "concepts",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "BASICS",
+            "name": "BASICS",
+            "count": 31,
+            "selected": false
+          },
+          {
+            "id": "DIVIDED",
+            "name": "DIVIDED",
+            "count": 194,
+            "selected": false
+          },
+          {
+            "id": "EVERYDAY FASHION",
+            "name": "EVERYDAY FASHION",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "H&M EDITION",
+            "name": "H&M EDITION",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "H&M Move",
+            "name": "H&M Move",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "H&M+",
+            "name": "H&M+",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "MAMA",
+            "name": "MAMA",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "MODERN CLASSIC",
+            "name": "MODERN CLASSIC",
+            "count": 3,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Collection",
+        "id": "collection",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "H&M Limited Edition",
+            "name": "H&M Limited Edition",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "H&M Studio Collection",
+            "name": "H&M Studio Collection",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "S/S 2025",
+            "name": "S/S 2025",
+            "count": 13,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Trendings",
+        "id": "trendings",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Animal print",
+            "name": "Animal print",
+            "count": 26,
+            "selected": false
+          },
+          {
+            "id": "Bohemian",
+            "name": "Bohemian",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Bows",
+            "name": "Bows",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Crocheted",
+            "name": "Crocheted",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Embroidered",
+            "name": "Embroidered",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "Floral",
+            "name": "Floral",
+            "count": 125,
+            "selected": false
+          },
+          {
+            "id": "Frill",
+            "name": "Frill",
+            "count": 41,
+            "selected": false
+          },
+          {
+            "id": "Fringes",
+            "name": "Fringes",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Glitter",
+            "name": "Glitter",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Graphic",
+            "name": "Graphic",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "Lace",
+            "name": "Lace",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Metallic",
+            "name": "Metallic",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Neon",
+            "name": "Neon",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Ombre",
+            "name": "Ombre",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Pastel colours",
+            "name": "Pastel colours",
+            "count": 21,
+            "selected": false
+          },
+          {
+            "id": "Pearls",
+            "name": "Pearls",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Pleated",
+            "name": "Pleated",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Print",
+            "name": "Print",
+            "count": 94,
+            "selected": false
+          },
+          {
+            "id": "Rhinestones",
+            "name": "Rhinestones",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Sequin",
+            "name": "Sequin",
+            "count": 21,
+            "selected": false
+          },
+          {
+            "id": "Sheer",
+            "name": "Sheer",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Shiny",
+            "name": "Shiny",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Utility",
+            "name": "Utility",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Velvet",
+            "name": "Velvet",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "SleeveLengths",
+        "id": "sleeveLengths",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "3/4 sleeve",
+            "name": "3/4 sleeve",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Extra long sleeve",
+            "name": "Extra long sleeve",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Long sleeve",
+            "name": "Long sleeve",
+            "count": 188,
+            "selected": false
+          },
+          {
+            "id": "Short sleeve",
+            "name": "Short sleeve",
+            "count": 142,
+            "selected": false
+          },
+          {
+            "id": "Sleeveless",
+            "name": "Sleeveless",
+            "count": 210,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "SleeveStyles",
+        "id": "sleeveStyles",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Balloon sleeve",
+            "name": "Balloon sleeve",
+            "count": 108,
+            "selected": false
+          },
+          {
+            "id": "Batwing sleeve",
+            "name": "Batwing sleeve",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Butterfly sleeve",
+            "name": "Butterfly sleeve",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Cap sleeve",
+            "name": "Cap sleeve",
+            "count": 25,
+            "selected": false
+          },
+          {
+            "id": "Dolman sleeve",
+            "name": "Dolman sleeve",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Flutter sleeve",
+            "name": "Flutter sleeve",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Puff sleeve",
+            "name": "Puff sleeve",
+            "count": 45,
+            "selected": false
+          },
+          {
+            "id": "Raglan sleeve",
+            "name": "Raglan sleeve",
+            "count": 85,
+            "selected": false
+          },
+          {
+            "id": "Trumpet sleeve",
+            "name": "Trumpet sleeve",
+            "count": 8,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ProductGroups",
+        "id": "productGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Functional wear",
+            "name": "Functional wear",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Loungewear",
+            "name": "Loungewear",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Sportswear",
+            "name": "Sportswear",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Swimwear",
+            "name": "Swimwear",
+            "count": 3,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "LicenseCompanies",
+        "id": "licenseCompanies",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Disney",
+            "name": "Disney",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "LicenseItems",
+        "id": "licenseItems",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Mickey Mouse",
+            "name": "Mickey Mouse",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Features",
+        "id": "features",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Built-in bra",
+            "name": "Built-in bra",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Removable pads",
+            "name": "Removable pads",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "With pocket",
+            "name": "With pocket",
+            "count": 25,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Seasonality",
+        "id": "seasonality",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Spring",
+            "name": "Spring",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Summer",
+            "name": "Summer",
+            "count": 16,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ColourShades",
+        "id": "colourShades",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Amber",
+            "name": "Amber",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Aquamarine",
+            "name": "Aquamarine",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Baby blue",
+            "name": "Baby blue",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Blue grey",
+            "name": "Blue grey",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Bright blue",
+            "name": "Bright blue",
+            "count": 39,
+            "selected": false
+          },
+          {
+            "id": "Bright green",
+            "name": "Bright green",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Bright pink",
+            "name": "Bright pink",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Bright red",
+            "name": "Bright red",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Bright yellow",
+            "name": "Bright yellow",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Burgundy",
+            "name": "Burgundy",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Burnt orange",
+            "name": "Burnt orange",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Charcoal",
+            "name": "Charcoal",
+            "count": 223,
+            "selected": false
+          },
+          {
+            "id": "Cobalt blue",
+            "name": "Cobalt blue",
+            "count": 26,
+            "selected": false
+          },
+          {
+            "id": "Coral",
+            "name": "Coral",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Cream",
+            "name": "Cream",
+            "count": 42,
+            "selected": false
+          },
+          {
+            "id": "Dark blue",
+            "name": "Dark blue",
+            "count": 29,
+            "selected": false
+          },
+          {
+            "id": "Dark green",
+            "name": "Dark green",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Dark grey",
+            "name": "Dark grey",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Dark maroon",
+            "name": "Dark maroon",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Dark red",
+            "name": "Dark red",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Dusty blue",
+            "name": "Dusty blue",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Dusty pink",
+            "name": "Dusty pink",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Dusty rose",
+            "name": "Dusty rose",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Ecru",
+            "name": "Ecru",
+            "count": 56,
+            "selected": false
+          },
+          {
+            "id": "Emerald green",
+            "name": "Emerald green",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Gold yellow",
+            "name": "Gold yellow",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Grey silver",
+            "name": "Grey silver",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Grey white",
+            "name": "Grey white",
+            "count": 40,
+            "selected": false
+          },
+          {
+            "id": "Hot pink",
+            "name": "Hot pink",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Indigo",
+            "name": "Indigo",
+            "count": 26,
+            "selected": false
+          },
+          {
+            "id": "Ivory",
+            "name": "Ivory",
+            "count": 77,
+            "selected": false
+          },
+          {
+            "id": "Khaki green",
+            "name": "Khaki green",
+            "count": 22,
+            "selected": false
+          },
+          {
+            "id": "Lemon",
+            "name": "Lemon",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Light blue",
+            "name": "Light blue",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Light green",
+            "name": "Light green",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Light pink",
+            "name": "Light pink",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Light yellow",
+            "name": "Light yellow",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Lilac",
+            "name": "Lilac",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Lime",
+            "name": "Lime",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Mahogany",
+            "name": "Mahogany",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Mint",
+            "name": "Mint",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Mustard",
+            "name": "Mustard",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Navy blue",
+            "name": "Navy blue",
+            "count": 29,
+            "selected": false
+          },
+          {
+            "id": "Neon green",
+            "name": "Neon green",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Neon pink",
+            "name": "Neon pink",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Olive",
+            "name": "Olive",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Pastel blue",
+            "name": "Pastel blue",
+            "count": 28,
+            "selected": false
+          },
+          {
+            "id": "Pastel green",
+            "name": "Pastel green",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Pastel pink",
+            "name": "Pastel pink",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Pastel purple",
+            "name": "Pastel purple",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Pastel yellow",
+            "name": "Pastel yellow",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Peach",
+            "name": "Peach",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Rose",
+            "name": "Rose",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Royal blue",
+            "name": "Royal blue",
+            "count": 39,
+            "selected": false
+          },
+          {
+            "id": "Ruby red",
+            "name": "Ruby red",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Rust",
+            "name": "Rust",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Salmon",
+            "name": "Salmon",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Sea green",
+            "name": "Sea green",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Sky blue",
+            "name": "Sky blue",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Stone",
+            "name": "Stone",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Taupe",
+            "name": "Taupe",
+            "count": 48,
+            "selected": false
+          },
+          {
+            "id": "Terracotta",
+            "name": "Terracotta",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Wheat",
+            "name": "Wheat",
+            "count": 48,
+            "selected": false
+          },
+          {
+            "id": "White grey",
+            "name": "White grey",
+            "count": 40,
+            "selected": false
+          },
+          {
+            "id": "Yellow gold",
+            "name": "Yellow gold",
+            "count": 3,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Sale",
+        "id": "sale",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "false",
+            "name": "false",
+            "count": 897,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Contexts",
+        "id": "contexts",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Beach",
+            "name": "Beach",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Casual",
+            "name": "Casual",
+            "count": 591,
+            "selected": false
+          },
+          {
+            "id": "Formal",
+            "name": "Formal",
+            "count": 25,
+            "selected": false
+          },
+          {
+            "id": "Lounge",
+            "name": "Lounge",
+            "count": 15,
+            "selected": false
+          },
+          {
+            "id": "Office wear",
+            "name": "Office wear",
+            "count": 19,
+            "selected": false
+          },
+          {
+            "id": "Party",
+            "name": "Party",
+            "count": 125,
+            "selected": false
+          },
+          {
+            "id": "Sport",
+            "name": "Sport",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Quantity",
+        "id": "quantity",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "184 g",
+            "name": "184 g",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "3",
+            "name": "3",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      }
+    ]
+  }
+}

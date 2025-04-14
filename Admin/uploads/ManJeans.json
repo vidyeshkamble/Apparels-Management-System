@@ -1,0 +1,4412 @@
+{
+    "requestDateTime": "2025-03-21T10:59:45.474Z",
+    "responseSource": "Elevate",
+    "pagination": {
+      "prevPageNum": 1,
+      "currentPage": 2,
+      "nextPageNum": 3,
+      "totalPages": 4
+    },
+    "plpList": {
+      "productList": [
+        {
+          "id": "1235448003",
+          "trackingId": "OzQ7IzsxMjM1NDQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+          "productName": "Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235448003.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235448003",
+              "url": "/en_in/productpage.1235448003.html",
+              "colorName": "Denim grey",
+              "colorCode": "5F6168",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/25/46/2546106f34bbe19d9a94e7d30fc38faec1bee98e.jpg"
+            },
+            {
+              "articleId": "1235448014",
+              "url": "/en_in/productpage.1235448014.html",
+              "colorName": "Black",
+              "colorCode": "363638",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/dc/98/dc987f075569a9e8afb546dd6288344c6cc7a614.jpg"
+            },
+            {
+              "articleId": "1235448001",
+              "url": "/en_in/productpage.1235448001.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "8898AC",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/22/03/2203bb3c23a39f3dd6978e64c84fe4cb5fbc796c.jpg"
+            },
+            {
+              "articleId": "1235448012",
+              "url": "/en_in/productpage.1235448012.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "767F99",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/51/de/51de65356b6f0492e1ccee9b0400764fdbd5b364.jpg"
+            },
+            {
+              "articleId": "1235448011",
+              "url": "/en_in/productpage.1235448011.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2d/23/2d23ae3965859942acef7b365d033f15c8cb20c6.jpg"
+            },
+            {
+              "articleId": "1235448015",
+              "url": "/en_in/productpage.1235448015.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "687483",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/99/db/99db3743db58ed5b9c5251b2cac3b3a3d8e85c18.jpg"
+            },
+            {
+              "articleId": "1235448013",
+              "url": "/en_in/productpage.1235448013.html",
+              "colorName": "Denim blue",
+              "colorCode": "9FA8B6",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/ff/ab/ffabdf131059ee043cd891621ecca62df71701c6.jpg"
+            },
+            {
+              "articleId": "1235448004",
+              "url": "/en_in/productpage.1235448004.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f2/1a/f21a4692ca5326c49219ae8278f6aee2202c4db1.jpg"
+            },
+            {
+              "articleId": "1235448002",
+              "url": "/en_in/productpage.1235448002.html",
+              "colorName": "Dark grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bc/fd/bcfd3f19e72773a735a3261355f490f6e2554238.jpg"
+            },
+            {
+              "articleId": "1235448006",
+              "url": "/en_in/productpage.1235448006.html",
+              "colorName": "Dark blue",
+              "colorCode": "3E4550",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/e4/33/e433bcf44a5c7e5e0cdb6ac37ecea245413f8c78.jpg"
+            },
+            {
+              "articleId": "1235448009",
+              "url": "/en_in/productpage.1235448009.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/fa/ef/faefbc14e35813780fa95c2316ba827b4ae0e502.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/fd/ea/fdeab87cc5309f3536c93ef2aae8bc1650275ede.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/0e/fd/0efddfeaaa6143030ff132b0e328b6c6d0298cd5.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/57/04/57043b636555c540e5980012259f91722aa0f8ed.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/03/42/034241c58ac831ba23470734b4f2a84ecd3093e7.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/c0/4b/c04bd5a9a932724afd17bb245bc9bf052a8cef42.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/c1/78/c1782e976276a870c3ca2ca5a507f371f8235d43.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim grey",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/72/28/7228351f1d4371a3ce62ec6cedc3be971bab2186.jpg",
+          "colors": "5F6168",
+          "colourShades": "Dark grey|Stone",
+          "productImage": "https://image.hm.com/assets/hm/25/46/2546106f34bbe19d9a94e7d30fc38faec1bee98e.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "grey_808080",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1263547001",
+          "trackingId": "OzQ7IzsxMjYzNTQ3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+          "productName": "Loose Cargo Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1263547001.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1263547001",
+              "url": "/en_in/productpage.1263547001.html",
+              "colorName": "Black",
+              "colorCode": "33363A",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/80/67/8067893a23b923983beda69a988a67e9983cf361.jpg"
+            },
+            {
+              "articleId": "1263547002",
+              "url": "/en_in/productpage.1263547002.html",
+              "colorName": "Light denim blue",
+              "colorCode": "798DB2",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d5/88/d588e27733daad0081a03cb71f0c09366ee18eee.jpg"
+            },
+            {
+              "articleId": "1263547003",
+              "url": "/en_in/productpage.1263547003.html",
+              "colorName": "Pale denim grey",
+              "colorCode": "94989F",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2d/5a/2d5a401ef981002f7d189de1b63ff2202558631e.jpg"
+            },
+            {
+              "articleId": "1263547004",
+              "url": "/en_in/productpage.1263547004.html",
+              "colorName": "Beige",
+              "colorCode": "B49F7C",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/6f/e8/6fe832fc1becc4086de40d75a5aafeaa05cd0cbc.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/6a/ce/6aceb2acd9c0db1ac2a19014d2faf029fa89f959.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/83/c3/83c372fc2e96fa505d8ce34011c5491b11185bf4.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/2c/c6/2cc6d3b1946c754420b3208cfc64bed9c9fe6082.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/5f/67/5f672d8f1d0661485dbe5a19ee514017f5566b45.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Black",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/ff/b1/ffb1e70f1aa72932b72413ab6fbc029f9743401a.jpg",
+          "colors": "33363A",
+          "colourShades": "Charcoal",
+          "productImage": "https://image.hm.com/assets/hm/80/67/8067893a23b923983beda69a988a67e9983cf361.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "0979945065",
+          "trackingId": "OzQ7IzswOTc5OTQ1MDY1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+          "productName": "Loose Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.0979945065.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2299,
+              "minPrice": 2299,
+              "maxPrice": 2299,
+              "formattedPrice": "Rs.2,299.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "0979945065",
+              "url": "/en_in/productpage.0979945065.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "C4CAD7",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDY1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/83/22/8322e0ff9496da6087481c14babcf925b34c39ac.jpg"
+            },
+            {
+              "articleId": "0979945064",
+              "url": "/en_in/productpage.0979945064.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "687483",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDY0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/47/ab/47ab2169f7eaad58f0e26892000e257a20f7cc90.jpg"
+            },
+            {
+              "articleId": "0979945003",
+              "url": "/en_in/productpage.0979945003.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a3/65/a3653aa0145a6408e8798410621cb1fc4f704c2b.jpg"
+            },
+            {
+              "articleId": "0979945001",
+              "url": "/en_in/productpage.0979945001.html",
+              "colorName": "Light denim blue",
+              "colorCode": "8898AC",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f5/9b/f59b0eba8d8c8a3ae6fc6d02cb5e3efa0875dd31.jpg"
+            },
+            {
+              "articleId": "0979945055",
+              "url": "/en_in/productpage.0979945055.html",
+              "colorName": "Denim grey",
+              "colorCode": "7C7D81",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDU1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/5a/f3/5af3b5258e2630e5b828386614c764e57a83848a.jpg"
+            },
+            {
+              "articleId": "0979945045",
+              "url": "/en_in/productpage.0979945045.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "737FA1",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDQ1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2c/57/2c5777c9c5a41214d5c168c4348e2ec4f7f678eb.jpg"
+            },
+            {
+              "articleId": "0979945059",
+              "url": "/en_in/productpage.0979945059.html",
+              "colorName": "Denim blue-white",
+              "colorCode": "E9E4DA",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDU5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/df/7f/df7f9cdf589939c35072867658fb7d012a8e4823.jpg"
+            },
+            {
+              "articleId": "0979945046",
+              "url": "/en_in/productpage.0979945046.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDQ2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bb/ef/bbefb82df7ae151b1b6dab79059fb01932217f1e.jpg"
+            },
+            {
+              "articleId": "0979945038",
+              "url": "/en_in/productpage.0979945038.html",
+              "colorName": "Denim grey",
+              "colorCode": "9C9EA5",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDM4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/41/d4/41d4333d220a88fa7c8bdab5e543b977771266f9.jpg"
+            },
+            {
+              "articleId": "0979945054",
+              "url": "/en_in/productpage.0979945054.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "3E4550",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDU0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a8/aa/a8aa9bc3af97cc39fc8f02eb0cc42eb7aa54095f.jpg"
+            },
+            {
+              "articleId": "0979945044",
+              "url": "/en_in/productpage.0979945044.html",
+              "colorName": "Light denim blue",
+              "colorCode": "798DB2",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDQ0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a7/d0/a7d0df477c94fb71652d5fa5a1e03582824bc24e.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/2e/75/2e750c6f3864fe215948abe7d1437027cadcc85f.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/98/e5/98e5573190d1aa4ecc111c2aac27637b7d6e8568.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/0e/e6/0ee67d69d96f7922427850047dfb6c0bdf4be5c3.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/28/48/2848e8e6379fb7caf4c0b65fb18a08076d3a91eb.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/bf/3a/bf3ada4817e4f5dec60bc9e80d39b24afac7e8f4.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Pale denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/d4/aa/d4aaaf8268d4daf0a6b45157d05422a0485ec9e3.jpg",
+          "colors": "C4CAD7",
+          "colourShades": "Baby blue|Light blue|Pastel blue",
+          "productImage": "https://image.hm.com/assets/hm/83/22/8322e0ff9496da6087481c14babcf925b34c39ac.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "0979945045",
+          "trackingId": "OzQ7IzswOTc5OTQ1MDQ1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+          "productName": "Loose Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.0979945045.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2299,
+              "minPrice": 2299,
+              "maxPrice": 2299,
+              "formattedPrice": "Rs.2,299.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "0979945045",
+              "url": "/en_in/productpage.0979945045.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "737FA1",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDQ1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2c/57/2c5777c9c5a41214d5c168c4348e2ec4f7f678eb.jpg"
+            },
+            {
+              "articleId": "0979945064",
+              "url": "/en_in/productpage.0979945064.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "687483",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDY0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/47/ab/47ab2169f7eaad58f0e26892000e257a20f7cc90.jpg"
+            },
+            {
+              "articleId": "0979945003",
+              "url": "/en_in/productpage.0979945003.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a3/65/a3653aa0145a6408e8798410621cb1fc4f704c2b.jpg"
+            },
+            {
+              "articleId": "0979945001",
+              "url": "/en_in/productpage.0979945001.html",
+              "colorName": "Light denim blue",
+              "colorCode": "8898AC",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f5/9b/f59b0eba8d8c8a3ae6fc6d02cb5e3efa0875dd31.jpg"
+            },
+            {
+              "articleId": "0979945055",
+              "url": "/en_in/productpage.0979945055.html",
+              "colorName": "Denim grey",
+              "colorCode": "7C7D81",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDU1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/5a/f3/5af3b5258e2630e5b828386614c764e57a83848a.jpg"
+            },
+            {
+              "articleId": "0979945065",
+              "url": "/en_in/productpage.0979945065.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "C4CAD7",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDY1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/83/22/8322e0ff9496da6087481c14babcf925b34c39ac.jpg"
+            },
+            {
+              "articleId": "0979945059",
+              "url": "/en_in/productpage.0979945059.html",
+              "colorName": "Denim blue-white",
+              "colorCode": "E9E4DA",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDU5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/df/7f/df7f9cdf589939c35072867658fb7d012a8e4823.jpg"
+            },
+            {
+              "articleId": "0979945046",
+              "url": "/en_in/productpage.0979945046.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDQ2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bb/ef/bbefb82df7ae151b1b6dab79059fb01932217f1e.jpg"
+            },
+            {
+              "articleId": "0979945038",
+              "url": "/en_in/productpage.0979945038.html",
+              "colorName": "Denim grey",
+              "colorCode": "9C9EA5",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDM4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/41/d4/41d4333d220a88fa7c8bdab5e543b977771266f9.jpg"
+            },
+            {
+              "articleId": "0979945054",
+              "url": "/en_in/productpage.0979945054.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "3E4550",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDU0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a8/aa/a8aa9bc3af97cc39fc8f02eb0cc42eb7aa54095f.jpg"
+            },
+            {
+              "articleId": "0979945044",
+              "url": "/en_in/productpage.0979945044.html",
+              "colorName": "Light denim blue",
+              "colorCode": "798DB2",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDQ0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a7/d0/a7d0df477c94fb71652d5fa5a1e03582824bc24e.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/1f/40/1f406a92615879351a5cc9154d26b165e3f7a5c8.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/19/38/1938d4268d69fb795d1493e5c7958f286b6579b0.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/f8/b3/f8b39d8780f945465275969e2ed644f3b5672f92.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/05/98/0598a4780138c4636f739013deffb65523a8beae.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/57/3d/573d1b19fc6b66d22c6338c343d47b6d9d82a146.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/d1/b4/d1b452fd7e04e9e63d0fe0181432c5ad288953f6.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Dark denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/7f/f5/7ff54747c2d02cd4c72142c7ceaa3d15b6549213.jpg",
+          "colors": "737FA1",
+          "colourShades": "Blue grey|Bright blue|Pastel blue|Royal blue",
+          "productImage": "https://image.hm.com/assets/hm/2c/57/2c5777c9c5a41214d5c168c4348e2ec4f7f678eb.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1263547002",
+          "trackingId": "OzQ7IzsxMjYzNTQ3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+          "productName": "Loose Cargo Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1263547002.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1263547002",
+              "url": "/en_in/productpage.1263547002.html",
+              "colorName": "Light denim blue",
+              "colorCode": "798DB2",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d5/88/d588e27733daad0081a03cb71f0c09366ee18eee.jpg"
+            },
+            {
+              "articleId": "1263547001",
+              "url": "/en_in/productpage.1263547001.html",
+              "colorName": "Black",
+              "colorCode": "33363A",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/80/67/8067893a23b923983beda69a988a67e9983cf361.jpg"
+            },
+            {
+              "articleId": "1263547003",
+              "url": "/en_in/productpage.1263547003.html",
+              "colorName": "Pale denim grey",
+              "colorCode": "94989F",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2d/5a/2d5a401ef981002f7d189de1b63ff2202558631e.jpg"
+            },
+            {
+              "articleId": "1263547004",
+              "url": "/en_in/productpage.1263547004.html",
+              "colorName": "Beige",
+              "colorCode": "B49F7C",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/6f/e8/6fe832fc1becc4086de40d75a5aafeaa05cd0cbc.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/22/f9/22f9aaa64a63437934da54066083bc529cb2fefc.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/14/ef/14ef566f65176fadddad87cb546c88e392d95a22.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ff/09/ff09833e0a60178c2f5e9825f6e41fcde36d4cfd.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/dd/90/dd904aa52cfea33cc35d4f09283dd94a70f5f428.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/4b/d3/4bd394ac64078d5e9c2cca58e2f5ecf9c6280120.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Light denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/08/a3/08a3677cf62d8cc61efff9c3e72164c2567380d0.jpg",
+          "colors": "798DB2",
+          "colourShades": "Blue grey|Bright blue|Pastel blue|Royal blue",
+          "productImage": "https://image.hm.com/assets/hm/d5/88/d588e27733daad0081a03cb71f0c09366ee18eee.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1266542002",
+          "trackingId": "OzQ7IzsxMjY2NTQyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+          "productName": "Relaxed Fit Denim trousers",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1266542002.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1266542002",
+              "url": "/en_in/productpage.1266542002.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjY2NTQyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/64/20/6420940e5afa36f219f98358442299962c9798c0.jpg"
+            },
+            {
+              "articleId": "1266542001",
+              "url": "/en_in/productpage.1266542001.html",
+              "colorName": "Light beige",
+              "colorCode": "A19878",
+              "trackingId": "OzQ7IzsxMjY2NTQyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/4a/7a/4a7a80a2900392a61bc77774201a4b3d7e917e23.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/e8/42/e8428e982c20b2938c93b30e736e86dc219f9f5f.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/bb/31/bb318f83ae582ef127f02e20efb2dcde3b6a3415.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ae/b9/aeb90f43b365aacad2e7fae13d96ea0246ee68ac.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/39/64/3964842396c8ae0de49aca162b33b51e62e79375.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ab/ba/abba6ab739056e0f6c8222dbfa1ef5672d267a9e.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Black",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/b8/45/b84579af63b9f9c9f3cfa169e4cd35181808f8ab.jpg",
+          "colors": "2E2E30",
+          "colourShades": "Charcoal",
+          "productImage": "https://image.hm.com/assets/hm/64/20/6420940e5afa36f219f98358442299962c9798c0.jpg",
+          "newArrival": true,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000",
+          "mainCatCode": "men_jeans_relaxed",
+          "sellingAttribute": "New Arrival"
+        },
+        {
+          "id": "1260176002",
+          "trackingId": "OzQ7IzsxMjYwMTc2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+          "productName": "Relaxed Fit Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1260176002.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1260176002",
+              "url": "/en_in/productpage.1260176002.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjYwMTc2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/7a/8b/7a8b1534589ebad806fc8a4ba32f62cf489deae1.jpg"
+            },
+            {
+              "articleId": "1260176001",
+              "url": "/en_in/productpage.1260176001.html",
+              "colorName": "Beige",
+              "colorCode": "A19878",
+              "trackingId": "OzQ7IzsxMjYwMTc2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/62/b6/62b61f7dbbc238f714c6768e4c93e5639be61cab.jpg"
+            },
+            {
+              "articleId": "1260176003",
+              "url": "/en_in/productpage.1260176003.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjYwMTc2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/e8/a7/e8a744971a33e3e76737c8e1b9dc4fdfa279df61.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/45/2b/452b305e2c447dd54eb15f3eab68b7a5cf40355b.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/0d/23/0d2339a1371d20e35dc7cfbbc1874e24293508fa.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/89/4f/894f25b3f7b418d8a0a59f2c6c07756626e7ae4a.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/68/95/689534bc0c97a38e6bb2cacc318405445a463d68.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ae/74/ae740076c27069d5fef5797d816981fea2dc0912.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Black",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/d8/d0/d8d08bfdfc5a80e4bb99bb5e09b9a77e5a5302f1.jpg",
+          "colors": "2E2E30",
+          "colourShades": "Charcoal",
+          "productImage": "https://image.hm.com/assets/hm/7a/8b/7a8b1534589ebad806fc8a4ba32f62cf489deae1.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000",
+          "mainCatCode": "men_jeans_relaxed"
+        },
+        {
+          "id": "1096385010",
+          "trackingId": "OzQ7IzsxMDk2Mzg1MDEwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+          "productName": "Loose Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1096385010.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 1999,
+              "minPrice": 1999,
+              "maxPrice": 1999,
+              "formattedPrice": "Rs.1,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1096385010",
+              "url": "/en_in/productpage.1096385010.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "ADBAD1",
+              "trackingId": "OzQ7IzsxMDk2Mzg1MDEwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f3/6e/f36e2e8cc503485077db27ea358f3d9486d314da.jpg"
+            },
+            {
+              "articleId": "1096385001",
+              "url": "/en_in/productpage.1096385001.html",
+              "colorName": "Black",
+              "colorCode": "272628",
+              "trackingId": "OzQ7IzsxMDk2Mzg1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d5/32/d5326eb2e11c690b755c34b6a4639854ffa0256f.jpg"
+            },
+            {
+              "articleId": "1096385014",
+              "url": "/en_in/productpage.1096385014.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMDk2Mzg1MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/6b/65/6b65372c6236f812fa9552d52d1163d4737d8ff5.jpg"
+            },
+            {
+              "articleId": "1096385011",
+              "url": "/en_in/productpage.1096385011.html",
+              "colorName": "Navy blue",
+              "colorCode": "54586D",
+              "trackingId": "OzQ7IzsxMDk2Mzg1MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/1f/1a/1f1ae169ed4cb152580106e5799e9dba886d1ec7.jpg"
+            },
+            {
+              "articleId": "1096385002",
+              "url": "/en_in/productpage.1096385002.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "4C5164",
+              "trackingId": "OzQ7IzsxMDk2Mzg1MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/31/6e/316ef8d3747079da7e2bd1b75f3e5825142f8c5d.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/07/cf/07cf9821104ba617267bff70c0b86de6e4d4068f.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/f7/64/f76432063c35cf8cc0b4b27ff021e8729c5a03c7.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Pale denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/18/b2/18b22be6ad4c6dcf87aea023baf47e7125fc1add.jpg",
+          "colors": "ADBAD1",
+          "colourShades": "Baby blue|Light blue|Pastel blue",
+          "productImage": "https://image.hm.com/assets/hm/f3/6e/f36e2e8cc503485077db27ea358f3d9486d314da.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1235448012",
+          "trackingId": "OzQ7IzsxMjM1NDQ4MDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+          "productName": "Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235448012.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235448012",
+              "url": "/en_in/productpage.1235448012.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "767F99",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/51/de/51de65356b6f0492e1ccee9b0400764fdbd5b364.jpg"
+            },
+            {
+              "articleId": "1235448014",
+              "url": "/en_in/productpage.1235448014.html",
+              "colorName": "Black",
+              "colorCode": "363638",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/dc/98/dc987f075569a9e8afb546dd6288344c6cc7a614.jpg"
+            },
+            {
+              "articleId": "1235448001",
+              "url": "/en_in/productpage.1235448001.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "8898AC",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/22/03/2203bb3c23a39f3dd6978e64c84fe4cb5fbc796c.jpg"
+            },
+            {
+              "articleId": "1235448003",
+              "url": "/en_in/productpage.1235448003.html",
+              "colorName": "Denim grey",
+              "colorCode": "5F6168",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/25/46/2546106f34bbe19d9a94e7d30fc38faec1bee98e.jpg"
+            },
+            {
+              "articleId": "1235448011",
+              "url": "/en_in/productpage.1235448011.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2d/23/2d23ae3965859942acef7b365d033f15c8cb20c6.jpg"
+            },
+            {
+              "articleId": "1235448015",
+              "url": "/en_in/productpage.1235448015.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "687483",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/99/db/99db3743db58ed5b9c5251b2cac3b3a3d8e85c18.jpg"
+            },
+            {
+              "articleId": "1235448013",
+              "url": "/en_in/productpage.1235448013.html",
+              "colorName": "Denim blue",
+              "colorCode": "9FA8B6",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/ff/ab/ffabdf131059ee043cd891621ecca62df71701c6.jpg"
+            },
+            {
+              "articleId": "1235448004",
+              "url": "/en_in/productpage.1235448004.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f2/1a/f21a4692ca5326c49219ae8278f6aee2202c4db1.jpg"
+            },
+            {
+              "articleId": "1235448002",
+              "url": "/en_in/productpage.1235448002.html",
+              "colorName": "Dark grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bc/fd/bcfd3f19e72773a735a3261355f490f6e2554238.jpg"
+            },
+            {
+              "articleId": "1235448006",
+              "url": "/en_in/productpage.1235448006.html",
+              "colorName": "Dark blue",
+              "colorCode": "3E4550",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/e4/33/e433bcf44a5c7e5e0cdb6ac37ecea245413f8c78.jpg"
+            },
+            {
+              "articleId": "1235448009",
+              "url": "/en_in/productpage.1235448009.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/fa/ef/faefbc14e35813780fa95c2316ba827b4ae0e502.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/19/9c/199c3950e1af6d69e915c37ab4884f34391ace62.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/91/ea/91eaba6a5ea4df2cba256917a612417f00589f02.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/0e/3a/0e3a8aaf81ec9bd92338f4aaf21784b744399fdd.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/50/c4/50c4744cb99a63c84d8235db944fffafd53d8302.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/21/11/21111f0db70d0f94e98b1de9dcf015cbd836d1ab.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Pale denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/19/cd/19cd7e04ce8761fc95070e42737b82187a84ad18.jpg",
+          "colors": "767F99",
+          "colourShades": "Blue grey|Bright blue|Pastel blue|Royal blue",
+          "productImage": "https://image.hm.com/assets/hm/51/de/51de65356b6f0492e1ccee9b0400764fdbd5b364.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "0979945059",
+          "trackingId": "OzQ7IzswOTc5OTQ1MDU5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+          "productName": "Loose Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.0979945059.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2299,
+              "minPrice": 2299,
+              "maxPrice": 2299,
+              "formattedPrice": "Rs.2,299.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "0979945059",
+              "url": "/en_in/productpage.0979945059.html",
+              "colorName": "Denim blue-white",
+              "colorCode": "E9E4DA",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDU5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/df/7f/df7f9cdf589939c35072867658fb7d012a8e4823.jpg"
+            },
+            {
+              "articleId": "0979945064",
+              "url": "/en_in/productpage.0979945064.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "687483",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDY0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/47/ab/47ab2169f7eaad58f0e26892000e257a20f7cc90.jpg"
+            },
+            {
+              "articleId": "0979945003",
+              "url": "/en_in/productpage.0979945003.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a3/65/a3653aa0145a6408e8798410621cb1fc4f704c2b.jpg"
+            },
+            {
+              "articleId": "0979945001",
+              "url": "/en_in/productpage.0979945001.html",
+              "colorName": "Light denim blue",
+              "colorCode": "8898AC",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f5/9b/f59b0eba8d8c8a3ae6fc6d02cb5e3efa0875dd31.jpg"
+            },
+            {
+              "articleId": "0979945055",
+              "url": "/en_in/productpage.0979945055.html",
+              "colorName": "Denim grey",
+              "colorCode": "7C7D81",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDU1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/5a/f3/5af3b5258e2630e5b828386614c764e57a83848a.jpg"
+            },
+            {
+              "articleId": "0979945065",
+              "url": "/en_in/productpage.0979945065.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "C4CAD7",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDY1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/83/22/8322e0ff9496da6087481c14babcf925b34c39ac.jpg"
+            },
+            {
+              "articleId": "0979945045",
+              "url": "/en_in/productpage.0979945045.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "737FA1",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDQ1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2c/57/2c5777c9c5a41214d5c168c4348e2ec4f7f678eb.jpg"
+            },
+            {
+              "articleId": "0979945046",
+              "url": "/en_in/productpage.0979945046.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDQ2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bb/ef/bbefb82df7ae151b1b6dab79059fb01932217f1e.jpg"
+            },
+            {
+              "articleId": "0979945038",
+              "url": "/en_in/productpage.0979945038.html",
+              "colorName": "Denim grey",
+              "colorCode": "9C9EA5",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDM4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/41/d4/41d4333d220a88fa7c8bdab5e543b977771266f9.jpg"
+            },
+            {
+              "articleId": "0979945054",
+              "url": "/en_in/productpage.0979945054.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "3E4550",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDU0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a8/aa/a8aa9bc3af97cc39fc8f02eb0cc42eb7aa54095f.jpg"
+            },
+            {
+              "articleId": "0979945044",
+              "url": "/en_in/productpage.0979945044.html",
+              "colorName": "Light denim blue",
+              "colorCode": "798DB2",
+              "trackingId": "OzQ7IzswOTc5OTQ1MDQ0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a7/d0/a7d0df477c94fb71652d5fa5a1e03582824bc24e.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/8a/df/8adfd1f8ebb969a22bba8d599a618ed90a5b6184.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/a4/92/a492e58689403522f993b5a9f7f87d0e9fa63eec.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/f2/f9/f2f96d080c20b661225b1433b5e6e74e912ad25d.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim blue-white",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/2a/9b/2a9b011888799bb1207585b81a67f0f58f2ea61d.jpg",
+          "colors": "E9E4DA",
+          "colourShades": "Cream|Grey white|Ivory|White grey",
+          "productImage": "https://image.hm.com/assets/hm/df/7f/df7f9cdf589939c35072867658fb7d012a8e4823.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "white_ffffff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1263547003",
+          "trackingId": "OzQ7IzsxMjYzNTQ3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+          "productName": "Loose Cargo Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1263547003.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1263547003",
+              "url": "/en_in/productpage.1263547003.html",
+              "colorName": "Pale denim grey",
+              "colorCode": "94989F",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2d/5a/2d5a401ef981002f7d189de1b63ff2202558631e.jpg"
+            },
+            {
+              "articleId": "1263547001",
+              "url": "/en_in/productpage.1263547001.html",
+              "colorName": "Black",
+              "colorCode": "33363A",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/80/67/8067893a23b923983beda69a988a67e9983cf361.jpg"
+            },
+            {
+              "articleId": "1263547002",
+              "url": "/en_in/productpage.1263547002.html",
+              "colorName": "Light denim blue",
+              "colorCode": "798DB2",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d5/88/d588e27733daad0081a03cb71f0c09366ee18eee.jpg"
+            },
+            {
+              "articleId": "1263547004",
+              "url": "/en_in/productpage.1263547004.html",
+              "colorName": "Beige",
+              "colorCode": "B49F7C",
+              "trackingId": "OzQ7IzsxMjYzNTQ3MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/6f/e8/6fe832fc1becc4086de40d75a5aafeaa05cd0cbc.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/e1/95/e195c9017faab17a46a327b36e4e3a1beb469ffb.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/da/38/da38fbc4e9e7e809b84ffed4bc76c4548e645fb1.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ad/f3/adf3c366f7c09a5eaf0a6ff1d80fd90b9d684d86.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/9e/46/9e466c80f6cc0af8da5122398d3d12ac4bc5879f.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/e7/fd/e7fd6268d6f282fee8467ca1116e238ad3c3e102.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Pale denim grey",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/10/e0/10e0edf4a176e96afe7b9f4f6ce143e437a8b012.jpg",
+          "colors": "94989F",
+          "colourShades": "Grey silver|Grey white|Stone|White grey",
+          "productImage": "https://image.hm.com/assets/hm/2d/5a/2d5a401ef981002f7d189de1b63ff2202558631e.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "grey_808080",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1275326002",
+          "trackingId": "OzQ7IzsxMjc1MzI2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+          "productName": "Patterned Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1275326002.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2999,
+              "minPrice": 2999,
+              "maxPrice": 2999,
+              "formattedPrice": "Rs.2,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1275326002",
+              "url": "/en_in/productpage.1275326002.html",
+              "colorName": "Denim blue/Patterned",
+              "colorCode": "58657F",
+              "trackingId": "OzQ7IzsxMjc1MzI2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/3d/17/3d17078aa6e7f4df7319fad8ad30bfccd732cf53.jpg"
+            },
+            {
+              "articleId": "1275326001",
+              "url": "/en_in/productpage.1275326001.html",
+              "colorName": "White",
+              "colorCode": "ECEDEC",
+              "trackingId": "OzQ7IzsxMjc1MzI2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/c1/df/c1df76c060a15796d4f885a96ee68b56c73d63b6.jpg"
+            }
+          ],
+          "productMarkers": [
+            {
+              "text": "H&M Premium Selection",
+              "type": "qualityMarker"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/9d/ab/9dab519b3804a5872104b53e2aff2aed296533b1.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/aa/5f/aa5f4ac41d5eaaedeccfe94265a27ef3da3e174e.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/cf/3e/cf3e0a98f1d6ecd526ec53926b17a6e23e55bf39.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/c5/d4/c5d40d72dd8b4072b7c216e253c1b344611b5463.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/2c/93/2c93c503fbb15665861451b71fdecedbdfe4ff34.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/c5/ee/c5ee8fc859b016d584526bca43ddee8aa65fbbad.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim blue/Patterned",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/e1/e7/e1e74b6eff16f1b5992372dbbcc8cb9f55fed265.jpg",
+          "colors": "58657F",
+          "colourShades": "Blue grey|Bright blue|Pastel blue|Royal blue",
+          "productImage": "https://image.hm.com/assets/hm/3d/17/3d17078aa6e7f4df7319fad8ad30bfccd732cf53.jpg",
+          "newArrival": true,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose",
+          "sellingAttribute": "New Arrival",
+          "qualityMarker": "H&M Premium Selection"
+        },
+        {
+          "id": "1233421006",
+          "trackingId": "OzQ7IzsxMjMzNDIxMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+          "productName": "Carpenter Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1233421006.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2999,
+              "minPrice": 2999,
+              "maxPrice": 2999,
+              "formattedPrice": "Rs.2,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1233421006",
+              "url": "/en_in/productpage.1233421006.html",
+              "colorName": "Denim blue-grey",
+              "colorCode": "767F99",
+              "trackingId": "OzQ7IzsxMjMzNDIxMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/c1/8e/c18e06ac87f26d30a0a1fa9d4ee9e1959635a4e3.jpg"
+            },
+            {
+              "articleId": "1233421005",
+              "url": "/en_in/productpage.1233421005.html",
+              "colorName": "Black",
+              "colorCode": "35393A",
+              "trackingId": "OzQ7IzsxMjMzNDIxMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/b9/9b/b99b9773d6cc8bc366063ab7f762e2dc7eec739a.jpg"
+            },
+            {
+              "articleId": "1233421002",
+              "url": "/en_in/productpage.1233421002.html",
+              "colorName": "Denim black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjMzNDIxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2b/7e/2b7e317cdd3efc6cf132364eb1a16cfc04e205a0.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/f3/f6/f3f6f2f24b52cb563618e45093ade64aca792a7a.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/a9/99/a99934f5daf03b428a513a68a1cc82f6f5b50e2d.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/08/d9/08d9aec1e2e6989f6385ebd0a6029914458d864c.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim blue-grey",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/59/60/5960767f61f818a23e15a6d04a8dc646feef0d9b.jpg",
+          "colors": "767F99",
+          "colourShades": "Blue grey|Bright blue|Pastel blue|Royal blue",
+          "productImage": "https://image.hm.com/assets/hm/c1/8e/c18e06ac87f26d30a0a1fa9d4ee9e1959635a4e3.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1235413011",
+          "trackingId": "OzQ7IzsxMjM1NDEzMDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+          "productName": "Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235413011.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235413011",
+              "url": "/en_in/productpage.1235413011.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "929AB5",
+              "trackingId": "OzQ7IzsxMjM1NDEzMDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/32/aa/32aab7d0f2b2dda126c13b168da7c91e636fcab6.jpg"
+            },
+            {
+              "articleId": "1235413014",
+              "url": "/en_in/productpage.1235413014.html",
+              "colorName": "Denim blue/Brown",
+              "colorCode": "717C99",
+              "trackingId": "OzQ7IzsxMjM1NDEzMDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/fb/f6/fbf654162f657c50e5ffb8e27367c0925828cc30.jpg"
+            },
+            {
+              "articleId": "1235413016",
+              "url": "/en_in/productpage.1235413016.html",
+              "colorName": "Denim blue",
+              "colorCode": "767F99",
+              "trackingId": "OzQ7IzsxMjM1NDEzMDE2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/c3/90/c39093ffb835a463a896e042985967c886533dbc.jpg"
+            },
+            {
+              "articleId": "1235413006",
+              "url": "/en_in/productpage.1235413006.html",
+              "colorName": "Vintage black",
+              "colorCode": "232327",
+              "trackingId": "OzQ7IzsxMjM1NDEzMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/42/08/420839b7b1a96db5c5a9ccc40bdb7b27479eed94.jpg"
+            },
+            {
+              "articleId": "1235413002",
+              "url": "/en_in/productpage.1235413002.html",
+              "colorName": "Black",
+              "colorCode": "29282D",
+              "trackingId": "OzQ7IzsxMjM1NDEzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/1f/19/1f195d8dad199e4c9bb2419289bcd1a730b1edc3.jpg"
+            },
+            {
+              "articleId": "1235413001",
+              "url": "/en_in/productpage.1235413001.html",
+              "colorName": "Light denim blue",
+              "colorCode": "798DB2",
+              "trackingId": "OzQ7IzsxMjM1NDEzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/19/76/197605aec5741ec2b504b8aff5c8049c76f2be72.jpg"
+            },
+            {
+              "articleId": "1235413004",
+              "url": "/en_in/productpage.1235413004.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "323842",
+              "trackingId": "OzQ7IzsxMjM1NDEzMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/74/12/7412fcb58d0667aa4242ca43fb5bca57452e4e36.jpg"
+            },
+            {
+              "articleId": "1235413003",
+              "url": "/en_in/productpage.1235413003.html",
+              "colorName": "Denim beige",
+              "colorCode": "DED8C5",
+              "trackingId": "OzQ7IzsxMjM1NDEzMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f7/42/f742b1bed3e947d189702591c288fbe1c249e8d2.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/e8/f5/e8f5f028785c2f9af980419f468bad901550ce19.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/fc/e0/fce0fbc2b41f4c308a6bef81f49f40f6727be916.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/6b/e3/6be3024d3eeaeb4b98ec69edd0f1e9354c84e124.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Pale denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/8c/25/8c252ac72926113b68bd0d8380dceb742448ab49.jpg",
+          "colors": "929AB5",
+          "colourShades": "Baby blue|Dusty blue|Light blue",
+          "productImage": "https://image.hm.com/assets/hm/32/aa/32aab7d0f2b2dda126c13b168da7c91e636fcab6.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1260176003",
+          "trackingId": "OzQ7IzsxMjYwMTc2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+          "productName": "Relaxed Fit Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1260176003.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1260176003",
+              "url": "/en_in/productpage.1260176003.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjYwMTc2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/e8/a7/e8a744971a33e3e76737c8e1b9dc4fdfa279df61.jpg"
+            },
+            {
+              "articleId": "1260176001",
+              "url": "/en_in/productpage.1260176001.html",
+              "colorName": "Beige",
+              "colorCode": "A19878",
+              "trackingId": "OzQ7IzsxMjYwMTc2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/62/b6/62b61f7dbbc238f714c6768e4c93e5639be61cab.jpg"
+            },
+            {
+              "articleId": "1260176002",
+              "url": "/en_in/productpage.1260176002.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjYwMTc2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/7a/8b/7a8b1534589ebad806fc8a4ba32f62cf489deae1.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/3d/35/3d35739ab7faf099a6f2d8f8fb4e34bbbebe5ebd.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/40/42/4042ffee88d9b2cd92bee0ccc03797e2adc85a69.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/fa/7a/fa7a3c5e66c865bb727bf2daf78a71957a8cd299.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/39/68/396897e1d44386b53101dd4432cdd245f2294deb.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/cb/e8/cbe8e2991719ab5bf49f29c33f9c5aadd3002ddd.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Dark denim grey",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/3a/0f/3a0fb35855ff6b5601e43df339d4c98b4e2f838d.jpg",
+          "colors": "494A4F",
+          "colourShades": "Charcoal|Dark grey",
+          "productImage": "https://image.hm.com/assets/hm/e8/a7/e8a744971a33e3e76737c8e1b9dc4fdfa279df61.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "grey_808080",
+          "mainCatCode": "men_jeans_relaxed"
+        },
+        {
+          "id": "1275323002",
+          "trackingId": "OzQ7IzsxMjc1MzIzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+          "productName": "Loose Straight High Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1275323002.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1275323002",
+              "url": "/en_in/productpage.1275323002.html",
+              "colorName": "Light grey",
+              "colorCode": "E8E9E7",
+              "trackingId": "OzQ7IzsxMjc1MzIzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/53/e9/53e967b9e64103afee3e52ca692bc101c92b7be5.jpg"
+            },
+            {
+              "articleId": "1275323001",
+              "url": "/en_in/productpage.1275323001.html",
+              "colorName": "Denim blue",
+              "colorCode": "8898BA",
+              "trackingId": "OzQ7IzsxMjc1MzIzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/52/b6/52b682585762e91819f2a248378cea934e07cbf6.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/f9/b5/f9b5d38cd77b0b4654853f88a5d0042c97a931db.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/d5/75/d57515905a4edb036d041c87cb925ee0cff8e332.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/cc/66/cc66966512ad56e14031cf576947518c8010466d.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/63/d8/63d853085dd0778d6b6a15e785c20e365781d500.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/70/ae/70aecd9373a0d8cc548e68151c6fac313899981b.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Light grey",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/eb/ae/ebae9826857ca65f3aba775a388b81b899aa8da8.jpg",
+          "colors": "E8E9E7",
+          "productImage": "https://image.hm.com/assets/hm/53/e9/53e967b9e64103afee3e52ca692bc101c92b7be5.jpg",
+          "newArrival": true,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "grey_808080|white_ffffff",
+          "mainCatCode": "men_jeans_loose",
+          "sellingAttribute": "New Arrival"
+        },
+        {
+          "id": "1235414005",
+          "trackingId": "OzQ7IzsxMjM1NDE0MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+          "productName": "Baggy Cargo Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235414005.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2999,
+              "minPrice": 2999,
+              "maxPrice": 2999,
+              "formattedPrice": "Rs.2,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235414005",
+              "url": "/en_in/productpage.1235414005.html",
+              "colorName": "Denim grey",
+              "colorCode": "ABB0B2",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d5/1e/d51e184a06268245acfb0ac0d68f46d9ec52b3da.jpg"
+            },
+            {
+              "articleId": "1235414003",
+              "url": "/en_in/productpage.1235414003.html",
+              "colorName": "Dark blue",
+              "colorCode": "323842",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/59/e0/59e077db6cf1a8a30a03cc643feab6d2ab86fca0.jpg"
+            },
+            {
+              "articleId": "1235414007",
+              "url": "/en_in/productpage.1235414007.html",
+              "colorName": "Denim blue",
+              "colorCode": "5F6475",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/20/8a/208a1bffcdd2f97f9ef251aee60346459b3b4059.jpg"
+            },
+            {
+              "articleId": "1235414002",
+              "url": "/en_in/productpage.1235414002.html",
+              "colorName": "Black",
+              "colorCode": "29282D",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/ac/c1/acc1783071941c1d913290944981c0d8e58465a9.jpg"
+            },
+            {
+              "articleId": "1235414004",
+              "url": "/en_in/productpage.1235414004.html",
+              "colorName": "Beige",
+              "colorCode": "DED8C5",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/32/32/32321b54a59a826cc13a027bec5a14fe295be188.jpg"
+            },
+            {
+              "articleId": "1235414001",
+              "url": "/en_in/productpage.1235414001.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2e/15/2e159ab409dd3393a69093e83cd8b2df92c44765.jpg"
+            },
+            {
+              "articleId": "1235414006",
+              "url": "/en_in/productpage.1235414006.html",
+              "colorName": "Denim brown",
+              "colorCode": "4B3935",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/1f/55/1f553d7b01d313bb0847adebd378e5948d98a19c.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/d0/b2/d0b299a77a7baae203967351cd654417d2cd895c.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/bd/b1/bdb1a4f1885d7adbe0084889eb6e7ecc16f38d62.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/9e/2f/9e2fae19e70fa2e2208b2403abab3760d336d6ad.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/1c/56/1c56824a3c3f47226f22bd9b16c6578fc53a5b39.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/03/8c/038cec9bba993642cbf83b37dd2313a0d10efa94.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim grey",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/ad/7d/ad7de9895eab8bcfe6265af85a71b8189d7425fa.jpg",
+          "colors": "ABB0B2",
+          "colourShades": "Grey silver|Grey white|Stone|White grey",
+          "productImage": "https://image.hm.com/assets/hm/d5/1e/d51e184a06268245acfb0ac0d68f46d9ec52b3da.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "grey_808080",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1235414003",
+          "trackingId": "OzQ7IzsxMjM1NDE0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+          "productName": "Baggy Cargo Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235414003.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2999,
+              "minPrice": 2999,
+              "maxPrice": 2999,
+              "formattedPrice": "Rs.2,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235414003",
+              "url": "/en_in/productpage.1235414003.html",
+              "colorName": "Dark blue",
+              "colorCode": "323842",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/59/e0/59e077db6cf1a8a30a03cc643feab6d2ab86fca0.jpg"
+            },
+            {
+              "articleId": "1235414005",
+              "url": "/en_in/productpage.1235414005.html",
+              "colorName": "Denim grey",
+              "colorCode": "ABB0B2",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d5/1e/d51e184a06268245acfb0ac0d68f46d9ec52b3da.jpg"
+            },
+            {
+              "articleId": "1235414007",
+              "url": "/en_in/productpage.1235414007.html",
+              "colorName": "Denim blue",
+              "colorCode": "5F6475",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/20/8a/208a1bffcdd2f97f9ef251aee60346459b3b4059.jpg"
+            },
+            {
+              "articleId": "1235414002",
+              "url": "/en_in/productpage.1235414002.html",
+              "colorName": "Black",
+              "colorCode": "29282D",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/ac/c1/acc1783071941c1d913290944981c0d8e58465a9.jpg"
+            },
+            {
+              "articleId": "1235414004",
+              "url": "/en_in/productpage.1235414004.html",
+              "colorName": "Beige",
+              "colorCode": "DED8C5",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/32/32/32321b54a59a826cc13a027bec5a14fe295be188.jpg"
+            },
+            {
+              "articleId": "1235414001",
+              "url": "/en_in/productpage.1235414001.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2e/15/2e159ab409dd3393a69093e83cd8b2df92c44765.jpg"
+            },
+            {
+              "articleId": "1235414006",
+              "url": "/en_in/productpage.1235414006.html",
+              "colorName": "Denim brown",
+              "colorCode": "4B3935",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/1f/55/1f553d7b01d313bb0847adebd378e5948d98a19c.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/2b/02/2b025dabbf9548b17dde870d12efba1a53c02faa.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/cf/78/cf787a3ad3ffebbfb014caf6615fcf5684fb8ebc.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/f4/33/f433642828626b73da10c46c83c0fbf79b77f912.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/dd/2c/dd2c491cc14c5ae5e9289f4ec501f51df4ebb288.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/42/af/42af96c5d383d7a5131302096beed1c7b33ae460.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/17/9b/179b99c455a4856e49847b3116c74c3accc5683a.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Dark blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/a0/be/a0becb020151145fd41249e73300b9ccf3b7328f.jpg",
+          "colors": "323842",
+          "colourShades": "Bright blue|Cobalt blue|Dark blue|Indigo|Navy blue|Royal blue",
+          "productImage": "https://image.hm.com/assets/hm/59/e0/59e077db6cf1a8a30a03cc643feab6d2ab86fca0.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1252606007",
+          "trackingId": "OzQ7IzsxMjUyNjA2MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+          "productName": "Super Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1252606007.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1252606007",
+              "url": "/en_in/productpage.1252606007.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjUyNjA2MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/08/f1/08f117a9f4b902f7c25f33b69056aae1ed87c93e.jpg"
+            },
+            {
+              "articleId": "1252606004",
+              "url": "/en_in/productpage.1252606004.html",
+              "colorName": "Denim grey",
+              "colorCode": "7C7D81",
+              "trackingId": "OzQ7IzsxMjUyNjA2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f8/d8/f8d811a7a0fddc6c749bb2826e01599147280f67.jpg"
+            },
+            {
+              "articleId": "1252606002",
+              "url": "/en_in/productpage.1252606002.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjUyNjA2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/8b/1b/8b1bf9a55bfabe577bf191183b3a179780286106.jpg"
+            },
+            {
+              "articleId": "1252606001",
+              "url": "/en_in/productpage.1252606001.html",
+              "colorName": "Denim black",
+              "colorCode": "363638",
+              "trackingId": "OzQ7IzsxMjUyNjA2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a6/34/a63439a77e153d4e3aa08efa54b63f080e5c2c93.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/0d/43/0d4365233fc1dcff3526b08e0fbcc0e9c549d61c.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/38/b5/38b5d689882ad5f6555ddb1c22dc68700642217c.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/2f/a1/2fa120d4b56d191086bfaf34fe6752397ea1ea15.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Black",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/ef/68/ef681a2930a29613e8ece53c0a789cd4e83be62f.jpg",
+          "colors": "2E2E30",
+          "colourShades": "Charcoal",
+          "productImage": "https://image.hm.com/assets/hm/08/f1/08f117a9f4b902f7c25f33b69056aae1ed87c93e.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1235448011",
+          "trackingId": "OzQ7IzsxMjM1NDQ4MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+          "productName": "Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235448011.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235448011",
+              "url": "/en_in/productpage.1235448011.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2d/23/2d23ae3965859942acef7b365d033f15c8cb20c6.jpg"
+            },
+            {
+              "articleId": "1235448014",
+              "url": "/en_in/productpage.1235448014.html",
+              "colorName": "Black",
+              "colorCode": "363638",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/dc/98/dc987f075569a9e8afb546dd6288344c6cc7a614.jpg"
+            },
+            {
+              "articleId": "1235448001",
+              "url": "/en_in/productpage.1235448001.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "8898AC",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/22/03/2203bb3c23a39f3dd6978e64c84fe4cb5fbc796c.jpg"
+            },
+            {
+              "articleId": "1235448003",
+              "url": "/en_in/productpage.1235448003.html",
+              "colorName": "Denim grey",
+              "colorCode": "5F6168",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/25/46/2546106f34bbe19d9a94e7d30fc38faec1bee98e.jpg"
+            },
+            {
+              "articleId": "1235448012",
+              "url": "/en_in/productpage.1235448012.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "767F99",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/51/de/51de65356b6f0492e1ccee9b0400764fdbd5b364.jpg"
+            },
+            {
+              "articleId": "1235448015",
+              "url": "/en_in/productpage.1235448015.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "687483",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/99/db/99db3743db58ed5b9c5251b2cac3b3a3d8e85c18.jpg"
+            },
+            {
+              "articleId": "1235448013",
+              "url": "/en_in/productpage.1235448013.html",
+              "colorName": "Denim blue",
+              "colorCode": "9FA8B6",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/ff/ab/ffabdf131059ee043cd891621ecca62df71701c6.jpg"
+            },
+            {
+              "articleId": "1235448004",
+              "url": "/en_in/productpage.1235448004.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f2/1a/f21a4692ca5326c49219ae8278f6aee2202c4db1.jpg"
+            },
+            {
+              "articleId": "1235448002",
+              "url": "/en_in/productpage.1235448002.html",
+              "colorName": "Dark grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bc/fd/bcfd3f19e72773a735a3261355f490f6e2554238.jpg"
+            },
+            {
+              "articleId": "1235448006",
+              "url": "/en_in/productpage.1235448006.html",
+              "colorName": "Dark blue",
+              "colorCode": "3E4550",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/e4/33/e433bcf44a5c7e5e0cdb6ac37ecea245413f8c78.jpg"
+            },
+            {
+              "articleId": "1235448009",
+              "url": "/en_in/productpage.1235448009.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/fa/ef/faefbc14e35813780fa95c2316ba827b4ae0e502.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/57/09/57096ed7011d30cb58ce938bd5107d3cd9e0ab50.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/90/61/906181f173ae03b07748fbe715db74bc87e530e5.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/01/fd/01fd93af982e0d9488c70f8c873ed18bea27625a.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Dark denim grey",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/e5/ee/e5eeec316e8d63f10984056ae235abd8ebd17f8c.jpg",
+          "colors": "494A4F",
+          "colourShades": "Charcoal|Dark grey",
+          "productImage": "https://image.hm.com/assets/hm/2d/23/2d23ae3965859942acef7b365d033f15c8cb20c6.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "grey_808080",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1275326001",
+          "trackingId": "OzQ7IzsxMjc1MzI2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+          "productName": "Patterned Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1275326001.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2999,
+              "minPrice": 2999,
+              "maxPrice": 2999,
+              "formattedPrice": "Rs.2,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1275326001",
+              "url": "/en_in/productpage.1275326001.html",
+              "colorName": "White",
+              "colorCode": "ECEDEC",
+              "trackingId": "OzQ7IzsxMjc1MzI2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/c1/df/c1df76c060a15796d4f885a96ee68b56c73d63b6.jpg"
+            },
+            {
+              "articleId": "1275326002",
+              "url": "/en_in/productpage.1275326002.html",
+              "colorName": "Denim blue/Patterned",
+              "colorCode": "58657F",
+              "trackingId": "OzQ7IzsxMjc1MzI2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/3d/17/3d17078aa6e7f4df7319fad8ad30bfccd732cf53.jpg"
+            }
+          ],
+          "productMarkers": [
+            {
+              "text": "H&M Premium Selection",
+              "type": "qualityMarker"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/7b/94/7b941ef076eb23ae95680867c54b90c3019028c8.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/e7/3a/e73a621c0e5b8e56e24187a2b053ca1c77d8a3c6.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ea/40/ea40a2fd9b0dd657f299c8feafadeb1da66a77f4.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/fe/95/fe95bb945b4b6e28081f0505daf6ba4f277ebed3.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/2b/5f/2b5f7f82c45098127644ca3f8b9d321844794058.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/4c/02/4c020f76828ee86d1c191d364df47c6fb21bdacf.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "White",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/55/60/556024352ed3e56346c5342275e5bf58c0021f88.jpg",
+          "colors": "ECEDEC",
+          "productImage": "https://image.hm.com/assets/hm/c1/df/c1df76c060a15796d4f885a96ee68b56c73d63b6.jpg",
+          "newArrival": true,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "white_ffffff",
+          "mainCatCode": "men_jeans_loose",
+          "sellingAttribute": "New Arrival",
+          "qualityMarker": "H&M Premium Selection"
+        },
+        {
+          "id": "1235422007",
+          "trackingId": "OzQ7IzsxMjM1NDIyMDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+          "productName": "Relaxed Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235422007.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235422007",
+              "url": "/en_in/productpage.1235422007.html",
+              "colorName": "Cream",
+              "colorCode": "EDE9D7",
+              "trackingId": "OzQ7IzsxMjM1NDIyMDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f0/e2/f0e2af033a86a736f236c86b7398f0e94640468e.jpg"
+            },
+            {
+              "articleId": "1235422009",
+              "url": "/en_in/productpage.1235422009.html",
+              "colorName": "Denim black",
+              "colorCode": "35393A",
+              "trackingId": "OzQ7IzsxMjM1NDIyMDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/5b/a0/5ba0eb5481eb53fdd8de6a50f94dd49e79b56380.jpg"
+            },
+            {
+              "articleId": "1235422008",
+              "url": "/en_in/productpage.1235422008.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "242327",
+              "trackingId": "OzQ7IzsxMjM1NDIyMDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/eb/d3/ebd3b75558bf2901a5dc0a285eba61cb60cbeec5.jpg"
+            },
+            {
+              "articleId": "1235422011",
+              "url": "/en_in/productpage.1235422011.html",
+              "colorName": "Orange",
+              "colorCode": "976F55",
+              "trackingId": "OzQ7IzsxMjM1NDIyMDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/8e/78/8e781f23f49698f2b3d99e628f83d31729cf289c.jpg"
+            },
+            {
+              "articleId": "1235422010",
+              "url": "/en_in/productpage.1235422010.html",
+              "colorName": "Denim blue",
+              "colorCode": "6C7A95",
+              "trackingId": "OzQ7IzsxMjM1NDIyMDEwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/ae/17/ae17a17aa80fae1527577161e92ef0072a3888d6.jpg"
+            },
+            {
+              "articleId": "1235422001",
+              "url": "/en_in/productpage.1235422001.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjM1NDIyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a0/42/a0421f81b699d38e07eb967feed18582e94782e3.jpg"
+            },
+            {
+              "articleId": "1235422006",
+              "url": "/en_in/productpage.1235422006.html",
+              "colorName": "Dark brown",
+              "colorCode": "3F3838",
+              "trackingId": "OzQ7IzsxMjM1NDIyMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/74/39/74390bb1c7d62b505f6f86f9a71caf72252b0f39.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/09/b8/09b84c83551503a8e941ca017883cd59a44d58e3.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ca/34/ca34e22aeb165df4a4417111a1ac6c2abb34759b.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/7a/3b/7a3ba5486d057f08275e194617a697d3603acfca.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Cream",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/8b/33/8b333b023d6f2471dd6b939fa07b982271ad80dd.jpg",
+          "colors": "EDE9D7",
+          "colourShades": "Cream|Grey white|Ivory|White grey",
+          "productImage": "https://image.hm.com/assets/hm/f0/e2/f0e2af033a86a736f236c86b7398f0e94640468e.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "white_ffffff",
+          "mainCatCode": "men_jeans_relaxed"
+        },
+        {
+          "id": "1024711032",
+          "trackingId": "OzQ7IzsxMDI0NzExMDMyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+          "productName": "Slim Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1024711032.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2299,
+              "minPrice": 2299,
+              "maxPrice": 2299,
+              "formattedPrice": "Rs.2,299.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1024711032",
+              "url": "/en_in/productpage.1024711032.html",
+              "colorName": "Light denim blue",
+              "colorCode": "ADBAD1",
+              "trackingId": "OzQ7IzsxMDI0NzExMDMyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/cc/e7/cce7fe7e13fec53de270aeae6a3fff1cd76670bf.jpg"
+            },
+            {
+              "articleId": "1024711023",
+              "url": "/en_in/productpage.1024711023.html",
+              "colorName": "Light denim blue",
+              "colorCode": "8898AC",
+              "trackingId": "OzQ7IzsxMDI0NzExMDIzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f4/03/f403bc299bbab547fd258277e2d464aaf9efcf6a.jpg"
+            },
+            {
+              "articleId": "1024711033",
+              "url": "/en_in/productpage.1024711033.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "4C5164",
+              "trackingId": "OzQ7IzsxMDI0NzExMDMzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d0/92/d09275ac9d0e4b0f11191122bba18c50f0dee7f4.jpg"
+            },
+            {
+              "articleId": "1024711014",
+              "url": "/en_in/productpage.1024711014.html",
+              "colorName": "Black",
+              "colorCode": "383638",
+              "trackingId": "OzQ7IzsxMDI0NzExMDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/db/fb/dbfbc515a4da41b7bcc224c02edfd41386558e3f.jpg"
+            },
+            {
+              "articleId": "1024711028",
+              "url": "/en_in/productpage.1024711028.html",
+              "colorName": "Denim blue",
+              "colorCode": "B1BED7",
+              "trackingId": "OzQ7IzsxMDI0NzExMDI4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/49/ae/49ae5d9cc19aa2a1e7f1d47bfcbc439949efa9a1.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/36/27/3627dd5eb811f4cd94f98a7e69715556bf94292b.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/d8/63/d86397d30eb8d5d6e31c65f808eac36f3a62db49.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/48/c9/48c9ddca47a59249599a9cf15ebc7fe7a4bae978.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/b5/d4/b5d4296f458ca71bfa085e5b711ebb82f9d18225.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/dd/37/dd37dbcd34a9a0634e39466db8c9ecb9a533bec4.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Light denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/a9/20/a920d2a8e5d237765cc3b85563819840bb215238.jpg",
+          "colors": "ADBAD1",
+          "colourShades": "Baby blue|Light blue|Pastel blue",
+          "productImage": "https://image.hm.com/assets/hm/cc/e7/cce7fe7e13fec53de270aeae6a3fff1cd76670bf.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_slim"
+        },
+        {
+          "id": "1252606004",
+          "trackingId": "OzQ7IzsxMjUyNjA2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+          "productName": "Super Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1252606004.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1252606004",
+              "url": "/en_in/productpage.1252606004.html",
+              "colorName": "Denim grey",
+              "colorCode": "7C7D81",
+              "trackingId": "OzQ7IzsxMjUyNjA2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f8/d8/f8d811a7a0fddc6c749bb2826e01599147280f67.jpg"
+            },
+            {
+              "articleId": "1252606007",
+              "url": "/en_in/productpage.1252606007.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjUyNjA2MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/08/f1/08f117a9f4b902f7c25f33b69056aae1ed87c93e.jpg"
+            },
+            {
+              "articleId": "1252606002",
+              "url": "/en_in/productpage.1252606002.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjUyNjA2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/8b/1b/8b1bf9a55bfabe577bf191183b3a179780286106.jpg"
+            },
+            {
+              "articleId": "1252606001",
+              "url": "/en_in/productpage.1252606001.html",
+              "colorName": "Denim black",
+              "colorCode": "363638",
+              "trackingId": "OzQ7IzsxMjUyNjA2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a6/34/a63439a77e153d4e3aa08efa54b63f080e5c2c93.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/63/df/63dfe1194f1270913224910d63cbaff2f8628860.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/0a/84/0a84af97fff23f04383007b8cca5730e6a68be21.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/7a/08/7a08f6b19c2b28ce7e615e35ec443a0d51433bdb.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim grey",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/34/39/34394351a1cac7645b79dd43ab219553d0e0fa2d.jpg",
+          "colors": "7C7D81",
+          "colourShades": "Dark grey|Stone",
+          "productImage": "https://image.hm.com/assets/hm/f8/d8/f8d811a7a0fddc6c749bb2826e01599147280f67.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "grey_808080",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1261442001",
+          "trackingId": "OzQ7IzsxMjYxNDQyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+          "productName": "Wide High Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1261442001.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1261442001",
+              "url": "/en_in/productpage.1261442001.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjYxNDQyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d7/bc/d7bcb5aecf1497877fbe133cb07351ebb37c70bd.jpg"
+            },
+            {
+              "articleId": "1261442002",
+              "url": "/en_in/productpage.1261442002.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjYxNDQyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/b9/8e/b98e6c7a16385011a6fed9180e72ae48ca73ffa8.jpg"
+            },
+            {
+              "articleId": "1261442003",
+              "url": "/en_in/productpage.1261442003.html",
+              "colorName": "Dark grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjYxNDQyMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/be/44/be449e7b510b4594ff44b79551ff494ecf44d501.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/85/99/85994321242e302ff6504d70b8b30d9f316bcc0c.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/0b/73/0b739f97c7c6358babdac37c78b6854307291cdc.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/fb/86/fb86066ae838f17ac667f6883c96b81c2987738b.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/b6/28/b62849afe6faabf053d141224f54f9179fd7e2e9.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/57/04/5704c5dcbdf35eb61b0111ab1613f94a0aede84a.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Black",
+          "isPreShopping": false,
+          "isOnline": true,
+          "videoId": "76b13b9420dbcc7a2160bcccc9ef0cd9158b95f9",
+          "modelImage": "https://image.hm.com/assets/hm/c4/0c/c40c6758632a34f5f61838b49a7869116210da96.jpg",
+          "colors": "2E2E30",
+          "colourShades": "Charcoal",
+          "productImage": "https://image.hm.com/assets/hm/d7/bc/d7bcb5aecf1497877fbe133cb07351ebb37c70bd.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1235414007",
+          "trackingId": "OzQ7IzsxMjM1NDE0MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+          "productName": "Baggy Cargo Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235414007.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2999,
+              "minPrice": 2999,
+              "maxPrice": 2999,
+              "formattedPrice": "Rs.2,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235414007",
+              "url": "/en_in/productpage.1235414007.html",
+              "colorName": "Denim blue",
+              "colorCode": "5F6475",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/20/8a/208a1bffcdd2f97f9ef251aee60346459b3b4059.jpg"
+            },
+            {
+              "articleId": "1235414005",
+              "url": "/en_in/productpage.1235414005.html",
+              "colorName": "Denim grey",
+              "colorCode": "ABB0B2",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d5/1e/d51e184a06268245acfb0ac0d68f46d9ec52b3da.jpg"
+            },
+            {
+              "articleId": "1235414003",
+              "url": "/en_in/productpage.1235414003.html",
+              "colorName": "Dark blue",
+              "colorCode": "323842",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/59/e0/59e077db6cf1a8a30a03cc643feab6d2ab86fca0.jpg"
+            },
+            {
+              "articleId": "1235414002",
+              "url": "/en_in/productpage.1235414002.html",
+              "colorName": "Black",
+              "colorCode": "29282D",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/ac/c1/acc1783071941c1d913290944981c0d8e58465a9.jpg"
+            },
+            {
+              "articleId": "1235414004",
+              "url": "/en_in/productpage.1235414004.html",
+              "colorName": "Beige",
+              "colorCode": "DED8C5",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/32/32/32321b54a59a826cc13a027bec5a14fe295be188.jpg"
+            },
+            {
+              "articleId": "1235414001",
+              "url": "/en_in/productpage.1235414001.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2e/15/2e159ab409dd3393a69093e83cd8b2df92c44765.jpg"
+            },
+            {
+              "articleId": "1235414006",
+              "url": "/en_in/productpage.1235414006.html",
+              "colorName": "Denim brown",
+              "colorCode": "4B3935",
+              "trackingId": "OzQ7IzsxMjM1NDE0MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/1f/55/1f553d7b01d313bb0847adebd378e5948d98a19c.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/fb/78/fb78a6b7754408b1dc1a8f1bfc9e2114f1d05541.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/a2/18/a218150b0dccdaae1cebd9cbdb079908c4f7413c.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/be/31/be3119ad7328cdcafd17e372ce4d7e65bb0d72e2.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/29/16/29161e98252ae8f7f1ca5d5f7b4d3dbc236dd792.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/42/35/4235ca62bcef36de889b74ba52b77b86186c4a7f.jpg",
+          "colors": "5F6475",
+          "colourShades": "Bright blue|Cobalt blue|Dark blue|Indigo|Navy blue|Royal blue",
+          "productImage": "https://image.hm.com/assets/hm/20/8a/208a1bffcdd2f97f9ef251aee60346459b3b4059.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1233421005",
+          "trackingId": "OzQ7IzsxMjMzNDIxMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+          "productName": "Carpenter Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1233421005.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2999,
+              "minPrice": 2999,
+              "maxPrice": 2999,
+              "formattedPrice": "Rs.2,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1233421005",
+              "url": "/en_in/productpage.1233421005.html",
+              "colorName": "Black",
+              "colorCode": "35393A",
+              "trackingId": "OzQ7IzsxMjMzNDIxMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/b9/9b/b99b9773d6cc8bc366063ab7f762e2dc7eec739a.jpg"
+            },
+            {
+              "articleId": "1233421006",
+              "url": "/en_in/productpage.1233421006.html",
+              "colorName": "Denim blue-grey",
+              "colorCode": "767F99",
+              "trackingId": "OzQ7IzsxMjMzNDIxMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/c1/8e/c18e06ac87f26d30a0a1fa9d4ee9e1959635a4e3.jpg"
+            },
+            {
+              "articleId": "1233421002",
+              "url": "/en_in/productpage.1233421002.html",
+              "colorName": "Denim black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjMzNDIxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2b/7e/2b7e317cdd3efc6cf132364eb1a16cfc04e205a0.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/64/c6/64c68a03e5b27191de342386fecc712fc100d085.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/f4/77/f4779d68a5940de3ebea74071d6f63b88fb0ee21.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ba/fd/bafd5fa3d12440568424c7012b24f21178b00da5.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/eb/5f/eb5ffea6f9e45e39140b845fa5b3170da3c322a9.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/2d/b9/2db96165ecbfcf8f8f3a1b7ee000b71a85966bc7.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Black",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/37/a8/37a8cb449e1e18741763706cec3f618a3613668b.jpg",
+          "colors": "35393A",
+          "colourShades": "Charcoal",
+          "productImage": "https://image.hm.com/assets/hm/b9/9b/b99b9773d6cc8bc366063ab7f762e2dc7eec739a.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1008549029",
+          "trackingId": "OzQ7IzsxMDA4NTQ5MDI5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+          "productName": "Straight Regular Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1008549029.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 1799,
+              "minPrice": 1799,
+              "maxPrice": 1799,
+              "formattedPrice": "Rs.1,799.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1008549029",
+              "url": "/en_in/productpage.1008549029.html",
+              "colorName": "Vintage black",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMDA4NTQ5MDI5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/83/91/839161d3d8ea1f78bdb530cb705fff16b7c15092.jpg"
+            },
+            {
+              "articleId": "1008549006",
+              "url": "/en_in/productpage.1008549006.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMDA4NTQ5MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/98/95/9895bda40e87ba0de3bbc035c673f9215d2258eb.jpg"
+            },
+            {
+              "articleId": "1008549032",
+              "url": "/en_in/productpage.1008549032.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "68759A",
+              "trackingId": "OzQ7IzsxMDA4NTQ5MDMyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/8b/ea/8bea8bac07ed75596e5597f6d2997f07cfd81fac.jpg"
+            },
+            {
+              "articleId": "1008549005",
+              "url": "/en_in/productpage.1008549005.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "4C5164",
+              "trackingId": "OzQ7IzsxMDA4NTQ5MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/e8/f7/e8f7d40cb9c5fa91f9b88a6e34f39cf0064c3d12.jpg"
+            },
+            {
+              "articleId": "1008549030",
+              "url": "/en_in/productpage.1008549030.html",
+              "colorName": "Light denim blue",
+              "colorCode": "C8D0DB",
+              "trackingId": "OzQ7IzsxMDA4NTQ5MDMwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f7/70/f7705e9558c4b1aec042472e4da2aa8b1e4b48a3.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/ae/98/ae9838d633de5f181dd6efcdb9f0607a4db33cb2.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/38/9f/389f56d79f629e454c32bec1e6e5feeecaf7b1ac.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/34/94/349446986aa4ac008144d0a0849c23ed716a39e8.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/94/4e/944ea42e3e0e0bba984694e45056ff74e02abe10.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/74/b6/74b6e93a5cb66ad08e5397f53ec5b0b05f281d75.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/e3/a0/e3a0caf607348410316c7b0f3f9c80f9474cf8e2.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Vintage black",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/84/bc/84bc5bb42ebb606ad2b1320d7182224ae32400a5.jpg",
+          "colors": "494A4F",
+          "colourShades": "Charcoal|Dark grey",
+          "productImage": "https://image.hm.com/assets/hm/83/91/839161d3d8ea1f78bdb530cb705fff16b7c15092.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000|grey_808080",
+          "mainCatCode": "men_jeans_regular"
+        },
+        {
+          "id": "1206884001",
+          "trackingId": "OzQ7IzsxMjA2ODg0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+          "productName": "Bootcut Loose Cargo Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1206884001.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 5999,
+              "minPrice": 5999,
+              "maxPrice": 5999,
+              "formattedPrice": "Rs.5,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1206884001",
+              "url": "/en_in/productpage.1206884001.html",
+              "colorName": "Denim black/Basquiat",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjA2ODg0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a0/bb/a0bbe0617b2f2dbaa7fcebe484423ebbf510f1af.jpg"
+            }
+          ],
+          "productMarkers": [
+            {
+              "text": "H&M x Basquiat x Ev&Tela",
+              "type": "collectionMarker"
+            }
+          ],
+          "images": [],
+          "hasVideo": false,
+          "colorName": "Denim black/Basquiat",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/a0/bb/a0bbe0617b2f2dbaa7fcebe484423ebbf510f1af.jpg",
+          "colors": "494A4F",
+          "productImage": "https://image.hm.com/assets/hm/a0/bb/a0bbe0617b2f2dbaa7fcebe484423ebbf510f1af.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000|multi_000000",
+          "mainCatCode": "men_jeans_bootcut",
+          "collectionMarker": "H&M x Basquiat x Ev&Tela"
+        },
+        {
+          "id": "1233421002",
+          "trackingId": "OzQ7IzsxMjMzNDIxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+          "productName": "Carpenter Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1233421002.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2999,
+              "minPrice": 2999,
+              "maxPrice": 2999,
+              "formattedPrice": "Rs.2,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1233421002",
+              "url": "/en_in/productpage.1233421002.html",
+              "colorName": "Denim black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjMzNDIxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2b/7e/2b7e317cdd3efc6cf132364eb1a16cfc04e205a0.jpg"
+            },
+            {
+              "articleId": "1233421006",
+              "url": "/en_in/productpage.1233421006.html",
+              "colorName": "Denim blue-grey",
+              "colorCode": "767F99",
+              "trackingId": "OzQ7IzsxMjMzNDIxMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/c1/8e/c18e06ac87f26d30a0a1fa9d4ee9e1959635a4e3.jpg"
+            },
+            {
+              "articleId": "1233421005",
+              "url": "/en_in/productpage.1233421005.html",
+              "colorName": "Black",
+              "colorCode": "35393A",
+              "trackingId": "OzQ7IzsxMjMzNDIxMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/b9/9b/b99b9773d6cc8bc366063ab7f762e2dc7eec739a.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/3a/8b/3a8b69acedc42d117203a014d1fb712e1eb3e04b.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/4c/24/4c24ade9192ca515c7fdf971db6beedcebd55e1d.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/cf/a6/cfa6d63da78eeddf4e8836579008ed06c4b3b6c3.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/f7/77/f777610239b06cf93cc21b59897d51c1b8c4ae25.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ee/0d/ee0d27409599fb7d27f319e46b1d47f735f43511.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/19/19/1919d1ba4d205147e10710ff2c3ec92115800ca8.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim black",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/28/46/2846bfe916cd0abe4bcf9694f930866ceaaeff29.jpg",
+          "colors": "2E2E30",
+          "colourShades": "Charcoal",
+          "productImage": "https://image.hm.com/assets/hm/2b/7e/2b7e317cdd3efc6cf132364eb1a16cfc04e205a0.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1275327001",
+          "trackingId": "OzQ7IzsxMjc1MzI3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+          "productName": "Super Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1275327001.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2999,
+              "minPrice": 2999,
+              "maxPrice": 2999,
+              "formattedPrice": "Rs.2,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1275327001",
+              "url": "/en_in/productpage.1275327001.html",
+              "colorName": "Denim blue/Patterned",
+              "colorCode": "58657F",
+              "trackingId": "OzQ7IzsxMjc1MzI3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/6a/0a/6a0ab76a5f2b3de964eb74f97fc52e7581018775.jpg"
+            },
+            {
+              "articleId": "1275327002",
+              "url": "/en_in/productpage.1275327002.html",
+              "colorName": "Light grey",
+              "colorCode": "EDEEEC",
+              "trackingId": "OzQ7IzsxMjc1MzI3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a9/b9/a9b9def1984b2712b68e85fa6c602bc7170dd5ac.jpg"
+            }
+          ],
+          "productMarkers": [
+            {
+              "text": "H&M Premium Selection",
+              "type": "qualityMarker"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/48/69/48692533e9e9bbd6c6ae7da14add6e5c06b1f50f.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/6b/69/6b69d91fd509524e1a650d4f645f067a0acc9fec.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/3e/fd/3efd68d682e101038ac6e6f99263bd45bcb4378f.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/f2/64/f264795dd057786babfa7c66dcbafbe38b0fb3b0.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/d1/35/d1352f8740d81bc750e32c29ddf1f568d523d058.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim blue/Patterned",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/97/d7/97d7d0488f1dd818734761bf4d7fdc1d19c940d4.jpg",
+          "colors": "58657F",
+          "colourShades": "Blue grey|Bright blue|Pastel blue|Royal blue",
+          "productImage": "https://image.hm.com/assets/hm/6a/0a/6a0ab76a5f2b3de964eb74f97fc52e7581018775.jpg",
+          "newArrival": true,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose",
+          "sellingAttribute": "New Arrival",
+          "qualityMarker": "H&M Premium Selection"
+        },
+        {
+          "id": "1235448015",
+          "trackingId": "OzQ7IzsxMjM1NDQ4MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+          "productName": "Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235448015.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235448015",
+              "url": "/en_in/productpage.1235448015.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "687483",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/99/db/99db3743db58ed5b9c5251b2cac3b3a3d8e85c18.jpg"
+            },
+            {
+              "articleId": "1235448014",
+              "url": "/en_in/productpage.1235448014.html",
+              "colorName": "Black",
+              "colorCode": "363638",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/dc/98/dc987f075569a9e8afb546dd6288344c6cc7a614.jpg"
+            },
+            {
+              "articleId": "1235448001",
+              "url": "/en_in/productpage.1235448001.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "8898AC",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/22/03/2203bb3c23a39f3dd6978e64c84fe4cb5fbc796c.jpg"
+            },
+            {
+              "articleId": "1235448003",
+              "url": "/en_in/productpage.1235448003.html",
+              "colorName": "Denim grey",
+              "colorCode": "5F6168",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/25/46/2546106f34bbe19d9a94e7d30fc38faec1bee98e.jpg"
+            },
+            {
+              "articleId": "1235448012",
+              "url": "/en_in/productpage.1235448012.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "767F99",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/51/de/51de65356b6f0492e1ccee9b0400764fdbd5b364.jpg"
+            },
+            {
+              "articleId": "1235448011",
+              "url": "/en_in/productpage.1235448011.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2d/23/2d23ae3965859942acef7b365d033f15c8cb20c6.jpg"
+            },
+            {
+              "articleId": "1235448013",
+              "url": "/en_in/productpage.1235448013.html",
+              "colorName": "Denim blue",
+              "colorCode": "9FA8B6",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/ff/ab/ffabdf131059ee043cd891621ecca62df71701c6.jpg"
+            },
+            {
+              "articleId": "1235448004",
+              "url": "/en_in/productpage.1235448004.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f2/1a/f21a4692ca5326c49219ae8278f6aee2202c4db1.jpg"
+            },
+            {
+              "articleId": "1235448002",
+              "url": "/en_in/productpage.1235448002.html",
+              "colorName": "Dark grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bc/fd/bcfd3f19e72773a735a3261355f490f6e2554238.jpg"
+            },
+            {
+              "articleId": "1235448006",
+              "url": "/en_in/productpage.1235448006.html",
+              "colorName": "Dark blue",
+              "colorCode": "3E4550",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/e4/33/e433bcf44a5c7e5e0cdb6ac37ecea245413f8c78.jpg"
+            },
+            {
+              "articleId": "1235448009",
+              "url": "/en_in/productpage.1235448009.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/fa/ef/faefbc14e35813780fa95c2316ba827b4ae0e502.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/4a/b1/4ab16318a8e26e32a9438944dd56d975e0c7042c.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/fc/01/fc016d2ec7fde388e87a78755990c3ae046a049a.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/f4/7d/f47d752b0d3d6d23a8061c46b3af43f58f4f9087.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/da/f1/daf1f37001f659d6ebbcfa856840cd1e359e91ca.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/03/00/0300fff62e1d082f24d428ce31cde5e6999e497a.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/39/21/3921ca6473c8d50d8403157be2ca8c8d57e57c66.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Dark denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/1a/db/1adb0736e63e945b2ae73f606c6717142d39b663.jpg",
+          "colors": "687483",
+          "colourShades": "Bright blue",
+          "productImage": "https://image.hm.com/assets/hm/99/db/99db3743db58ed5b9c5251b2cac3b3a3d8e85c18.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1256082001",
+          "trackingId": "OzQ7IzsxMjU2MDgyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+          "productName": "Super Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1256082001.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1256082001",
+              "url": "/en_in/productpage.1256082001.html",
+              "colorName": "Vintage black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjU2MDgyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/eb/13/eb136d31cc6058f0700772e9dc20152aa5114fca.jpg"
+            },
+            {
+              "articleId": "1256082006",
+              "url": "/en_in/productpage.1256082006.html",
+              "colorName": "Black",
+              "colorCode": "2E2E30",
+              "trackingId": "OzQ7IzsxMjU2MDgyMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/98/b0/98b0f1d6c8223734bab804edbb286d100b089213.jpg"
+            },
+            {
+              "articleId": "1256082003",
+              "url": "/en_in/productpage.1256082003.html",
+              "colorName": "Beige",
+              "colorCode": "D0C2AA",
+              "trackingId": "OzQ7IzsxMjU2MDgyMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/a5/62/a562c1e990bd74acee01abd04e3d2b27bf610cc4.jpg"
+            },
+            {
+              "articleId": "1256082002",
+              "url": "/en_in/productpage.1256082002.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjU2MDgyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/b7/18/b718f8180facb6adf29dcbd8a59851a32916aae2.jpg"
+            },
+            {
+              "articleId": "1256082007",
+              "url": "/en_in/productpage.1256082007.html",
+              "colorName": "Denim blue",
+              "colorCode": "4C5A71",
+              "trackingId": "OzQ7IzsxMjU2MDgyMDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bc/9c/bc9c4aea178c610757ced0ee42662443c41c1be1.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/ee/87/ee87120f86a3ac21fa2afbcf43cda938db2bce43.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/6e/11/6e11ccf3eee48b1369f039632f17fa054494df9f.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/a0/60/a060cee2e7349aa505011ee1153332bbef0a6f44.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/c3/bb/c3bb9896844a55911452779898f2d6aaf7f15c85.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/3f/c2/3fc2285dc95e9409c35f9bb27969c69fc9f15503.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/d8/0b/d80bf8664390a5e94f0cf94a18fc4374c12d3e8b.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Vintage black",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/e3/46/e346716022c41b9916ca3d779012f156d2e41356.jpg",
+          "colors": "2E2E30",
+          "colourShades": "Charcoal",
+          "productImage": "https://image.hm.com/assets/hm/eb/13/eb136d31cc6058f0700772e9dc20152aa5114fca.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "black_000000",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1024256006",
+          "trackingId": "OzQ7IzsxMDI0MjU2MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+          "productName": "Slim Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1024256006.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 1999,
+              "minPrice": 1999,
+              "maxPrice": 1999,
+              "formattedPrice": "Rs.1,999.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1024256006",
+              "url": "/en_in/productpage.1024256006.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "4C5164",
+              "trackingId": "OzQ7IzsxMDI0MjU2MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2a/ad/2aad62ca50a2f35306ad0d7dc663ce28a29922d7.jpg"
+            },
+            {
+              "articleId": "1024256001",
+              "url": "/en_in/productpage.1024256001.html",
+              "colorName": "Black",
+              "colorCode": "272628",
+              "trackingId": "OzQ7IzsxMDI0MjU2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/d2/b6/d2b600f3bcfc2f061a1e7ec6353fa0e0bcd2f092.jpg"
+            },
+            {
+              "articleId": "1024256012",
+              "url": "/en_in/productpage.1024256012.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "C8D0DB",
+              "trackingId": "OzQ7IzsxMDI0MjU2MDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/13/f1/13f142ee0bf1812a3c4596a2fcaf14147631a2ae.jpg"
+            },
+            {
+              "articleId": "1024256016",
+              "url": "/en_in/productpage.1024256016.html",
+              "colorName": "Dark grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMDI0MjU2MDE2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bc/85/bc85585fc0150145050cbd479d65d299f5bc8c54.jpg"
+            },
+            {
+              "articleId": "1024256014",
+              "url": "/en_in/productpage.1024256014.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "68759A",
+              "trackingId": "OzQ7IzsxMDI0MjU2MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/c2/91/c29138b7a1fbf71632aa649f5aaea8bdb6ef8bee.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/0a/2f/0a2fc2dcda01ef6f3559291f901f692fb12633da.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/14/2b/142bd66dd54eab9acccdb844571f3f33e2e04a68.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/6a/01/6a01fd737280f5415353683731b4db78893f4855.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/da/a0/daa0ffaaefa306b1e66cb17928229ab1705085f8.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Dark denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/58/49/5849bfc8c37862153f4cd7fe24feb8cc8ad57280.jpg",
+          "colors": "4C5164",
+          "productImage": "https://image.hm.com/assets/hm/2a/ad/2aad62ca50a2f35306ad0d7dc663ce28a29922d7.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_slim"
+        },
+        {
+          "id": "1235448004",
+          "trackingId": "OzQ7IzsxMjM1NDQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+          "productName": "Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1235448004.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1235448004",
+              "url": "/en_in/productpage.1235448004.html",
+              "colorName": "Denim blue",
+              "colorCode": "79829D",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f2/1a/f21a4692ca5326c49219ae8278f6aee2202c4db1.jpg"
+            },
+            {
+              "articleId": "1235448014",
+              "url": "/en_in/productpage.1235448014.html",
+              "colorName": "Black",
+              "colorCode": "363638",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/dc/98/dc987f075569a9e8afb546dd6288344c6cc7a614.jpg"
+            },
+            {
+              "articleId": "1235448001",
+              "url": "/en_in/productpage.1235448001.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "8898AC",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/22/03/2203bb3c23a39f3dd6978e64c84fe4cb5fbc796c.jpg"
+            },
+            {
+              "articleId": "1235448003",
+              "url": "/en_in/productpage.1235448003.html",
+              "colorName": "Denim grey",
+              "colorCode": "5F6168",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/25/46/2546106f34bbe19d9a94e7d30fc38faec1bee98e.jpg"
+            },
+            {
+              "articleId": "1235448012",
+              "url": "/en_in/productpage.1235448012.html",
+              "colorName": "Pale denim blue",
+              "colorCode": "767F99",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/51/de/51de65356b6f0492e1ccee9b0400764fdbd5b364.jpg"
+            },
+            {
+              "articleId": "1235448011",
+              "url": "/en_in/productpage.1235448011.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/2d/23/2d23ae3965859942acef7b365d033f15c8cb20c6.jpg"
+            },
+            {
+              "articleId": "1235448015",
+              "url": "/en_in/productpage.1235448015.html",
+              "colorName": "Dark denim blue",
+              "colorCode": "687483",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/99/db/99db3743db58ed5b9c5251b2cac3b3a3d8e85c18.jpg"
+            },
+            {
+              "articleId": "1235448013",
+              "url": "/en_in/productpage.1235448013.html",
+              "colorName": "Denim blue",
+              "colorCode": "9FA8B6",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/ff/ab/ffabdf131059ee043cd891621ecca62df71701c6.jpg"
+            },
+            {
+              "articleId": "1235448002",
+              "url": "/en_in/productpage.1235448002.html",
+              "colorName": "Dark grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/bc/fd/bcfd3f19e72773a735a3261355f490f6e2554238.jpg"
+            },
+            {
+              "articleId": "1235448006",
+              "url": "/en_in/productpage.1235448006.html",
+              "colorName": "Dark blue",
+              "colorCode": "3E4550",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/e4/33/e433bcf44a5c7e5e0cdb6ac37ecea245413f8c78.jpg"
+            },
+            {
+              "articleId": "1235448009",
+              "url": "/en_in/productpage.1235448009.html",
+              "colorName": "Dark denim grey",
+              "colorCode": "494A4F",
+              "trackingId": "OzQ7IzsxMjM1NDQ4MDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/fa/ef/faefbc14e35813780fa95c2316ba827b4ae0e502.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/16/af/16af7fa83898a6c42f55ad4b5873d47f10223ad5.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/5b/8f/5b8f93705b1ae92b3394374c1e734852e3a3c01e.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/77/51/775176ace7ab5b5ac9ca3f08cae5f20899daaccf.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/26/14/261420bd795b78e3230a6b7f99c91503e3b808c7.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/39/a2/39a2a20b5a94c1490d4dc53777bc4ee8f0d4c170.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim blue",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/3e/ec/3eecfdb15fad13c51182236deb61a17578fa9f4d.jpg",
+          "colors": "79829D",
+          "colourShades": "Blue grey|Bright blue|Pastel blue|Royal blue",
+          "productImage": "https://image.hm.com/assets/hm/f2/1a/f21a4692ca5326c49219ae8278f6aee2202c4db1.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "blue_0000ff",
+          "mainCatCode": "men_jeans_loose"
+        },
+        {
+          "id": "1260177002",
+          "trackingId": "OzQ7IzsxMjYwMTc3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+          "productName": "Super Baggy Jeans",
+          "external": false,
+          "brandName": "H&M",
+          "url": "/en_in/productpage.1260177002.html",
+          "showPriceMarker": false,
+          "prices": [
+            {
+              "priceType": "whitePrice",
+              "price": 2699,
+              "minPrice": 2699,
+              "maxPrice": 2699,
+              "formattedPrice": "Rs.2,699.00"
+            }
+          ],
+          "availability": {
+            "stockState": "Available",
+            "comingSoon": false
+          },
+          "swatches": [
+            {
+              "articleId": "1260177002",
+              "url": "/en_in/productpage.1260177002.html",
+              "colorName": "Denim beige",
+              "colorCode": "A79985",
+              "trackingId": "OzQ7IzsxMjYwMTc3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/f7/cd/f7cdf31cedea275661507d839052ddbc9e0a17e3.jpg"
+            },
+            {
+              "articleId": "1260177001",
+              "url": "/en_in/productpage.1260177001.html",
+              "colorName": "Black",
+              "colorCode": "363638",
+              "trackingId": "OzQ7IzsxMjYwMTc3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+              "productImage": "https://image.hm.com/assets/hm/58/4e/584ee89ca533bbd50b0af80ad9856b5bdec4239b.jpg"
+            }
+          ],
+          "productMarkers": [],
+          "images": [
+            {
+              "url": "https://image.hm.com/assets/hm/38/39/38390a8c025772d7d727f93872fee498228d2fbf.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/ab/c0/abc018d95519095d9cb29eeb6c8403950ef2c18f.jpg"
+            },
+            {
+              "url": "https://image.hm.com/assets/hm/c5/c4/c5c4349183d2c90ac5e07096f0753dd9ba7ffbce.jpg"
+            }
+          ],
+          "hasVideo": false,
+          "colorName": "Denim beige",
+          "isPreShopping": false,
+          "isOnline": true,
+          "modelImage": "https://image.hm.com/assets/hm/7d/8a/7d8abe1b4c3d7b58c4848109f3db0cc2a9efc010.jpg",
+          "colors": "A79985",
+          "colourShades": "Ecru|Taupe|Wheat",
+          "productImage": "https://image.hm.com/assets/hm/f7/cd/f7cdf31cedea275661507d839052ddbc9e0a17e3.jpg",
+          "newArrival": false,
+          "isLiquidPixelUrl": false,
+          "colorWithNames": "beige_f5f5dc",
+          "mainCatCode": "men_jeans"
+        }
+      ],
+      "sortOptions": {
+        "selected": "RELEVANCE",
+        "options": [
+          {
+            "id": "RELEVANCE",
+            "label": "Relevance"
+          },
+          {
+            "id": "NEWEST_FIRST",
+            "label": "New"
+          },
+          {
+            "id": "PRICE_DESCENDING",
+            "label": "Highest price"
+          },
+          {
+            "id": "PRICE_ASCENDING",
+            "label": "Lowest price"
+          },
+          {
+            "id": "DISCOUNT",
+            "label": "Discount"
+          }
+        ]
+      },
+      "numberOfHits": 125,
+      "sliceRanges": [],
+      "facets": [
+        {
+          "name": "Price",
+          "id": "priceRange",
+          "selectedCount": 0,
+          "type": "RANGE",
+          "min": 1799,
+          "max": 5999
+        },
+        {
+          "name": "ColorWithNames",
+          "id": "colorWithNames",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "beige_f5f5dc",
+              "name": "beige_f5f5dc",
+              "count": 8,
+              "selected": false
+            },
+            {
+              "id": "black_000000",
+              "name": "black_000000",
+              "count": 34,
+              "selected": false
+            },
+            {
+              "id": "blue_0000ff",
+              "name": "blue_0000ff",
+              "count": 56,
+              "selected": false
+            },
+            {
+              "id": "brown_a52a2a",
+              "name": "brown_a52a2a",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "grey_808080",
+              "name": "grey_808080",
+              "count": 24,
+              "selected": false
+            },
+            {
+              "id": "multi_000000",
+              "name": "multi_000000",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "id": "orange_ffa500",
+              "name": "orange_ffa500",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "white_ffffff",
+              "name": "white_ffffff",
+              "count": 6,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Size",
+          "id": "sizes",
+          "selectedCount": 0,
+          "type": "SIZE",
+          "groups": [
+            {
+              "name": "menswear",
+              "facetValues": [
+                {
+                  "id": "menswear;NO_FORMAT[SML];XS",
+                  "name": "XS",
+                  "count": 2,
+                  "selected": false
+                },
+                {
+                  "id": "menswear;NO_FORMAT[SML];S",
+                  "name": "S",
+                  "count": 2,
+                  "selected": false
+                },
+                {
+                  "id": "menswear;NO_FORMAT[SML];L",
+                  "name": "L",
+                  "count": 2,
+                  "selected": false
+                },
+                {
+                  "id": "menswear;NO_FORMAT[SML];XL",
+                  "name": "XL",
+                  "count": 2,
+                  "selected": false
+                }
+              ]
+            },
+            {
+              "name": "waist",
+              "facetValues": [
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];28/30",
+                  "name": "28/30",
+                  "count": 63,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];28/32",
+                  "name": "28/32",
+                  "count": 1,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];29/28",
+                  "name": "29/28",
+                  "count": 3,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];29/30",
+                  "name": "29/30",
+                  "count": 86,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];29/32",
+                  "name": "29/32",
+                  "count": 2,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];30/28",
+                  "name": "30/28",
+                  "count": 3,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];30/30",
+                  "name": "30/30",
+                  "count": 94,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];30/32",
+                  "name": "30/32",
+                  "count": 28,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];31/28",
+                  "name": "31/28",
+                  "count": 3,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];31/30",
+                  "name": "31/30",
+                  "count": 92,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];31/32",
+                  "name": "31/32",
+                  "count": 28,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];32/28",
+                  "name": "32/28",
+                  "count": 4,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];32/30",
+                  "name": "32/30",
+                  "count": 94,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];32/32",
+                  "name": "32/32",
+                  "count": 26,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];32/34",
+                  "name": "32/34",
+                  "count": 1,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];33/30",
+                  "name": "33/30",
+                  "count": 101,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];33/32",
+                  "name": "33/32",
+                  "count": 28,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];33/34",
+                  "name": "33/34",
+                  "count": 1,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];34/30",
+                  "name": "34/30",
+                  "count": 93,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];34/32",
+                  "name": "34/32",
+                  "count": 22,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];34/34",
+                  "name": "34/34",
+                  "count": 1,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];36/30",
+                  "name": "36/30",
+                  "count": 91,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];36/32",
+                  "name": "36/32",
+                  "count": 9,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];36/34",
+                  "name": "36/34",
+                  "count": 1,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];38/30",
+                  "name": "38/30",
+                  "count": 83,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];40/30",
+                  "name": "40/30",
+                  "count": 61,
+                  "selected": false
+                },
+                {
+                  "id": "waist;NO_FORMAT[Numeric/Numeric];42/32",
+                  "name": "42/32",
+                  "count": 1,
+                  "selected": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GarmentLengths",
+          "id": "garmentLengths",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Extra-long legs",
+              "name": "Extra-long legs",
+              "count": 25,
+              "selected": false
+            },
+            {
+              "id": "Long",
+              "name": "Long",
+              "count": 100,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "ClothingStyles",
+          "id": "clothingStyles",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Baggy",
+              "name": "Baggy",
+              "count": 51,
+              "selected": false
+            },
+            {
+              "id": "Balloon leg",
+              "name": "Balloon leg",
+              "count": 30,
+              "selected": false
+            },
+            {
+              "id": "Bootcut",
+              "name": "Bootcut",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "Cargo",
+              "name": "Cargo",
+              "count": 18,
+              "selected": false
+            },
+            {
+              "id": "Carpenter",
+              "name": "Carpenter",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "id": "Flared",
+              "name": "Flared",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "id": "Joggers",
+              "name": "Joggers",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "id": "Pull-on trousers",
+              "name": "Pull-on trousers",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "id": "Stacked",
+              "name": "Stacked",
+              "count": 40,
+              "selected": false
+            },
+            {
+              "id": "Straight leg",
+              "name": "Straight leg",
+              "count": 38,
+              "selected": false
+            },
+            {
+              "id": "Tapered",
+              "name": "Tapered",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "id": "Wide leg",
+              "name": "Wide leg",
+              "count": 4,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Materials",
+          "id": "materials",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Cotton",
+              "name": "Cotton",
+              "count": 118,
+              "selected": false
+            },
+            {
+              "id": "Denim",
+              "name": "Denim",
+              "count": 122,
+              "selected": false
+            },
+            {
+              "id": "Twill",
+              "name": "Twill",
+              "count": 3,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Patterns",
+          "id": "patterns",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Patterned",
+              "name": "Patterned",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "id": "Solid colour",
+              "name": "Solid colour",
+              "count": 114,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Brand",
+          "id": "brandNames",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "H&M",
+              "name": "H&M",
+              "count": 125,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Fits",
+          "id": "fits",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Loose fit",
+              "name": "Loose fit",
+              "count": 76,
+              "selected": false
+            },
+            {
+              "id": "Oversized",
+              "name": "Oversized",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "id": "Regular fit",
+              "name": "Regular fit",
+              "count": 16,
+              "selected": false
+            },
+            {
+              "id": "Relaxed fit",
+              "name": "Relaxed fit",
+              "count": 19,
+              "selected": false
+            },
+            {
+              "id": "Skinny fit",
+              "name": "Skinny fit",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "id": "Slim fit",
+              "name": "Slim fit",
+              "count": 8,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "WaistRises",
+          "id": "waistRises",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "High waist",
+              "name": "High waist",
+              "count": 14,
+              "selected": false
+            },
+            {
+              "id": "Regular waist",
+              "name": "Regular waist",
+              "count": 111,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "ProductTypes",
+          "id": "productTypes",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Jeans",
+              "name": "Jeans",
+              "count": 125,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "CustomerGroups",
+          "id": "customerGroups",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Man",
+              "name": "Man",
+              "count": 125,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Qualities",
+          "id": "qualities",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "H&M Premium Selection",
+              "name": "H&M Premium Selection",
+              "count": 4,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "AssortmentTypes",
+          "id": "assortmentTypes",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Clothing",
+              "name": "Clothing",
+              "count": 125,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "AgeGroups",
+          "id": "ageGroups",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Adult",
+              "name": "Adult",
+              "count": 125,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Concepts",
+          "id": "concepts",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "DENIM",
+              "name": "DENIM",
+              "count": 123,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Collection",
+          "id": "collection",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "H&M x Basquiat x Ev&Tela",
+              "name": "H&M x Basquiat x Ev&Tela",
+              "count": 2,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Trendings",
+          "id": "trendings",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Grunge",
+              "name": "Grunge",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "Print",
+              "name": "Print",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "Utility",
+              "name": "Utility",
+              "count": 8,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "ColourShades",
+          "id": "colourShades",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Amber",
+              "name": "Amber",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "Baby blue",
+              "name": "Baby blue",
+              "count": 14,
+              "selected": false
+            },
+            {
+              "id": "Blue grey",
+              "name": "Blue grey",
+              "count": 25,
+              "selected": false
+            },
+            {
+              "id": "Bright blue",
+              "name": "Bright blue",
+              "count": 34,
+              "selected": false
+            },
+            {
+              "id": "Burnt orange",
+              "name": "Burnt orange",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "Charcoal",
+              "name": "Charcoal",
+              "count": 36,
+              "selected": false
+            },
+            {
+              "id": "Cobalt blue",
+              "name": "Cobalt blue",
+              "count": 7,
+              "selected": false
+            },
+            {
+              "id": "Cream",
+              "name": "Cream",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "id": "Dark blue",
+              "name": "Dark blue",
+              "count": 10,
+              "selected": false
+            },
+            {
+              "id": "Dark grey",
+              "name": "Dark grey",
+              "count": 18,
+              "selected": false
+            },
+            {
+              "id": "Dusty blue",
+              "name": "Dusty blue",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "id": "Ecru",
+              "name": "Ecru",
+              "count": 8,
+              "selected": false
+            },
+            {
+              "id": "Grey silver",
+              "name": "Grey silver",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "id": "Grey white",
+              "name": "Grey white",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "id": "Indigo",
+              "name": "Indigo",
+              "count": 7,
+              "selected": false
+            },
+            {
+              "id": "Ivory",
+              "name": "Ivory",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "id": "Light blue",
+              "name": "Light blue",
+              "count": 14,
+              "selected": false
+            },
+            {
+              "id": "Mahogany",
+              "name": "Mahogany",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "Navy blue",
+              "name": "Navy blue",
+              "count": 7,
+              "selected": false
+            },
+            {
+              "id": "Pastel blue",
+              "name": "Pastel blue",
+              "count": 38,
+              "selected": false
+            },
+            {
+              "id": "Royal blue",
+              "name": "Royal blue",
+              "count": 32,
+              "selected": false
+            },
+            {
+              "id": "Rust",
+              "name": "Rust",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "Stone",
+              "name": "Stone",
+              "count": 9,
+              "selected": false
+            },
+            {
+              "id": "Taupe",
+              "name": "Taupe",
+              "count": 7,
+              "selected": false
+            },
+            {
+              "id": "Terracotta",
+              "name": "Terracotta",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "id": "Wheat",
+              "name": "Wheat",
+              "count": 7,
+              "selected": false
+            },
+            {
+              "id": "White grey",
+              "name": "White grey",
+              "count": 5,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Sale",
+          "id": "sale",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "false",
+              "name": "false",
+              "count": 125,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Contexts",
+          "id": "contexts",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Casual",
+              "name": "Casual",
+              "count": 80,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "Department",
+          "id": "department",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "men",
+              "name": "men",
+              "count": 125,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "SustCompositionMaterials",
+          "id": "sustCompositionMaterials",
+          "selectedCount": 0,
+          "type": "TEXT",
+          "filterValues": [
+            {
+              "id": "Organic cotton",
+              "name": "Organic cotton",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "id": "Recycled cotton",
+              "name": "Recycled cotton",
+              "count": 101,
+              "selected": false
+            },
+            {
+              "id": "Recycled polyester",
+              "name": "Recycled polyester",
+              "count": 77,
+              "selected": false
+            }
+          ]
+        }
+      ]
+    }
+  }

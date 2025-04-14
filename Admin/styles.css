@@ -1,0 +1,71 @@
+/* Reset some basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f9;
+    color: #333;
+}
+
+.admin-container {
+    width: 80%;
+    margin: 2em auto;
+    background: white;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.admin-header {
+    background: #007bff;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+.admin-content {
+    display: flex;
+    min-height: 400px;
+}
+
+.admin-sidebar {
+    width: 25%;
+    background: #343a40;
+    color: white;
+    padding: 1em;
+}
+
+.admin-sidebar ul {
+    list-style: none;
+}
+
+.admin-sidebar ul li {
+    margin: 1em 0;
+}
+
+.admin-sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.admin-sidebar ul li a:hover {
+    text-decoration: underline;
+}
+
+.admin-main {
+    width: 75%;
+    padding: 2em;
+}
+
+.admin-footer {
+    background: #007bff;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    font-size: 0.9em;
+}

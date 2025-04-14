@@ -1,0 +1,4565 @@
+{
+  "requestDateTime": "2025-03-24T10:40:12.860Z",
+  "responseSource": "Elevate",
+  "pagination": {
+    "prevPageNum": 1,
+    "currentPage": 2,
+    "nextPageNum": 3,
+    "totalPages": 10
+  },
+  "plpList": {
+    "productList": [
+      {
+        "id": "1248348002",
+        "trackingId": "OzQ7IzsxMjQ4MzQ4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cotton chinos",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1248348002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1248348002",
+            "url": "/en_in/productpage.1248348002.html",
+            "colorName": "Beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e9/f4/e9f45400532211112149cd991e6e1b59f978bb80.jpg"
+          },
+          {
+            "articleId": "1248348006",
+            "url": "/en_in/productpage.1248348006.html",
+            "colorName": "Cream",
+            "colorCode": "F0EFEC",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b0/cc/b0ccc69f42b0a7319c59d5299e67afba4705de33.jpg"
+          },
+          {
+            "articleId": "1248348004",
+            "url": "/en_in/productpage.1248348004.html",
+            "colorName": "Beige",
+            "colorCode": "AA9A81",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/05/ea/05eaf4f96d11a3cb3ef7124aeaf4a94f6c9260a3.jpg"
+          },
+          {
+            "articleId": "1248348003",
+            "url": "/en_in/productpage.1248348003.html",
+            "colorName": "Navy blue",
+            "colorCode": "272930",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/72/9d/729d4bc34c3391f4f26d1d29bc1d4f09408c78df.jpg"
+          },
+          {
+            "articleId": "1248348001",
+            "url": "/en_in/productpage.1248348001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cc/10/cc109004e5c65785da8f95e14e5d2b24a81b2092.jpg"
+          },
+          {
+            "articleId": "1248348007",
+            "url": "/en_in/productpage.1248348007.html",
+            "colorName": "Dark grey",
+            "colorCode": "383A3D",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/44/ec/44ec24c147cba520aa0f8ad673fc6a1fa6364bd0.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/d3/62/d362e741107d47b727db0fb6d49ef5c8db1f3a05.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9d/ad/9dad3a4f2c9434bb32d6d7ee5b12e2984fd036ae.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e6/a9/e6a925f2165c9e66c0c07f10ed1f86affe4fbe1b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/70/59/7059d432f7cc753a516ead1714f585fae53907f1.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/8c/7f/8c7fd44a52b6613442e1627a723a0caa461d4557.jpg",
+        "colors": "B5AFA0",
+        "colourShades": "Ecru|Taupe|Wheat",
+        "productImage": "https://image.hm.com/assets/hm/e9/f4/e9f45400532211112149cd991e6e1b59f978bb80.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_trousers_chinos_slim_all"
+      },
+      {
+        "id": "1253395003",
+        "trackingId": "OzQ7IzsxMjUzMzk1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Tailored trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1253395003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1799,
+            "minPrice": 1799,
+            "maxPrice": 1799,
+            "formattedPrice": "Rs.1,799.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1253395003",
+            "url": "/en_in/productpage.1253395003.html",
+            "colorName": "Dark grey",
+            "colorCode": "504F53",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/66/1a/661ac5e9a13f7395ab918b7837144e3e9498875c.jpg"
+          },
+          {
+            "articleId": "1253395001",
+            "url": "/en_in/productpage.1253395001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/db/57/db577720495912fd7a8c51473aa4c3c152bb29b7.jpg"
+          },
+          {
+            "articleId": "1253395004",
+            "url": "/en_in/productpage.1253395004.html",
+            "colorName": "Beige",
+            "colorCode": "7C746B",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/16/f5/16f5b7f1957a92bf7483ecd3442d221ae5523af5.jpg"
+          },
+          {
+            "articleId": "1253395002",
+            "url": "/en_in/productpage.1253395002.html",
+            "colorName": "Grey",
+            "colorCode": "6C6D6E",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/38/c2/38c26d541a1029e0e7c9ffea4b38434b23d5fe2d.jpg"
+          },
+          {
+            "articleId": "1253395005",
+            "url": "/en_in/productpage.1253395005.html",
+            "colorName": "Beige",
+            "colorCode": "A9A39B",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/d3/17/d317a60cdfab4c15ca91553fb28b9a4c792c2ce4.jpg"
+          },
+          {
+            "articleId": "1253395006",
+            "url": "/en_in/productpage.1253395006.html",
+            "colorName": "Navy blue",
+            "colorCode": "2B2C32",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/6e/ea/6eeacee958f7a988e297875ff20b04196535d5b4.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/2b/d1/2bd14588b29e9ba5a9869889da72549191943b7e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/21/e8/21e8b34a8451f19164d460a7eba14d1d99a837d3.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a7/53/a75336f075e66f2212cd286d04290f6a61e4acd8.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/81/a5/81a57eb7853ea09908263713cc8db90720e13de1.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark grey",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/6d/28/6d28227ba40dc3e670575cc671c843e3be5498e8.jpg",
+        "colors": "504F53",
+        "productImage": "https://image.hm.com/assets/hm/66/1a/661ac5e9a13f7395ab918b7837144e3e9498875c.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "grey_808080",
+        "mainCatCode": "men_trousers_dressed"
+      },
+      {
+        "id": "1258907001",
+        "trackingId": "OzQ7IzsxMjU4OTA3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Linen suit trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1258907001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1258907001",
+            "url": "/en_in/productpage.1258907001.html",
+            "colorName": "Light beige",
+            "colorCode": "EFEFDF",
+            "trackingId": "OzQ7IzsxMjU4OTA3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ce/da/ceda9e2b9788309f95de3ab7fa5010eb58c564f2.jpg"
+          },
+          {
+            "articleId": "1258907003",
+            "url": "/en_in/productpage.1258907003.html",
+            "colorName": "Light green",
+            "colorCode": "8D8C81",
+            "trackingId": "OzQ7IzsxMjU4OTA3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/79/29/792968ed031040afc9d80bfcb08e4d60fc44e2bd.jpg"
+          },
+          {
+            "articleId": "1258907004",
+            "url": "/en_in/productpage.1258907004.html",
+            "colorName": "Dark beige",
+            "colorCode": "726A5D",
+            "trackingId": "OzQ7IzsxMjU4OTA3MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/7b/a0/7ba091b4f70a74f46c24aa750514a3a23db17ac2.jpg"
+          },
+          {
+            "articleId": "1258907002",
+            "url": "/en_in/productpage.1258907002.html",
+            "colorName": "Navy blue",
+            "colorCode": "29272B",
+            "trackingId": "OzQ7IzsxMjU4OTA3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/87/81/87815aa378380f4a88ae15479f8899b109d6769c.jpg"
+          }
+        ],
+        "productMarkers": [
+          {
+            "text": "H&M Premium Selection",
+            "type": "qualityMarker"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/6e/c5/6ec5cc859a27dc726766ed54de45223ec32c2045.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/50/16/5016da954af380d6319cd914e6758341a861ae21.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1c/4e/1c4ef5d6e0c70b2b917ae86d5538545644b071d8.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/d7/d6/d7d6890a756605bb007e1cc036efa505d1c460fc.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/7e/00/7e00ea7a7cb9ce493787ec9b77b08dcc83e3908f.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/0b/bf/0bbf2d4be60d145fd88bf97b9c5c8df186d5cd7b.jpg",
+        "colors": "EFEFDF",
+        "productImage": "https://image.hm.com/assets/hm/ce/da/ceda9e2b9788309f95de3ab7fa5010eb58c564f2.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_blazerssuits_trousers",
+        "sellingAttribute": "New Arrival",
+        "qualityMarker": "H&M Premium Selection"
+      },
+      {
+        "id": "1259396002",
+        "trackingId": "OzQ7IzsxMjU5Mzk2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+        "productName": "Relaxed Fit Seersucker trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1259396002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1259396002",
+            "url": "/en_in/productpage.1259396002.html",
+            "colorName": "Beige",
+            "colorCode": "AA9A81",
+            "trackingId": "OzQ7IzsxMjU5Mzk2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2c/a5/2ca5958ee089521d77b57cb5c8c7f6cb89edb643.jpg"
+          },
+          {
+            "articleId": "1259396001",
+            "url": "/en_in/productpage.1259396001.html",
+            "colorName": "Navy blue",
+            "colorCode": "29272B",
+            "trackingId": "OzQ7IzsxMjU5Mzk2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/41/91/41910727488cb3ff485a27c2a5817ed7183a639f.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/40/a8/40a8f073c75c3ec6b9f11a7253868c92aefabfdf.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/53/af/53afd56e30d6ebd71381da660d3a21d47834abac.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e9/93/e99337481c79aff8facb98261f090c521abb771a.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/55/9d/559dca4557b896998a040709d396aaf727adc1aa.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/d7/71/d771c78f4b9654f548497dca104866e8f78b1ed3.jpg",
+        "colors": "AA9A81",
+        "colourShades": "Ecru|Taupe|Wheat",
+        "productImage": "https://image.hm.com/assets/hm/2c/a5/2ca5958ee089521d77b57cb5c8c7f6cb89edb643.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_trousers_casual",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1253395006",
+        "trackingId": "OzQ7IzsxMjUzMzk1MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Tailored trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1253395006.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1799,
+            "minPrice": 1799,
+            "maxPrice": 1799,
+            "formattedPrice": "Rs.1,799.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1253395006",
+            "url": "/en_in/productpage.1253395006.html",
+            "colorName": "Navy blue",
+            "colorCode": "2B2C32",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/6e/ea/6eeacee958f7a988e297875ff20b04196535d5b4.jpg"
+          },
+          {
+            "articleId": "1253395001",
+            "url": "/en_in/productpage.1253395001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/db/57/db577720495912fd7a8c51473aa4c3c152bb29b7.jpg"
+          },
+          {
+            "articleId": "1253395004",
+            "url": "/en_in/productpage.1253395004.html",
+            "colorName": "Beige",
+            "colorCode": "7C746B",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/16/f5/16f5b7f1957a92bf7483ecd3442d221ae5523af5.jpg"
+          },
+          {
+            "articleId": "1253395002",
+            "url": "/en_in/productpage.1253395002.html",
+            "colorName": "Grey",
+            "colorCode": "6C6D6E",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/38/c2/38c26d541a1029e0e7c9ffea4b38434b23d5fe2d.jpg"
+          },
+          {
+            "articleId": "1253395005",
+            "url": "/en_in/productpage.1253395005.html",
+            "colorName": "Beige",
+            "colorCode": "A9A39B",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/d3/17/d317a60cdfab4c15ca91553fb28b9a4c792c2ce4.jpg"
+          },
+          {
+            "articleId": "1253395003",
+            "url": "/en_in/productpage.1253395003.html",
+            "colorName": "Dark grey",
+            "colorCode": "504F53",
+            "trackingId": "OzQ7IzsxMjUzMzk1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/66/1a/661ac5e9a13f7395ab918b7837144e3e9498875c.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/99/70/99700104df3e8d3e9eb582c7c2d916e80d40a2b6.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1f/8a/1f8ab22d30cdbb2fe4f42dd05f907e85e34c0231.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c3/fb/c3fb2740d8c8d53b7e8f16c2b688e5fd5c176d9b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/2b/e4/2be4ad2236003b077782fe47c034e44ca8740e86.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/62/15/62157b24758f136bdef74ef17b5f16a875d5ff14.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Navy blue",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/e6/1e/e61eafd6837a03009242374444e06819bd2b07ad.jpg",
+        "colors": "2B2C32",
+        "colourShades": "Dark blue|Navy blue",
+        "productImage": "https://image.hm.com/assets/hm/6e/ea/6eeacee958f7a988e297875ff20b04196535d5b4.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blue_0000ff",
+        "mainCatCode": "men_trousers_dressed"
+      },
+      {
+        "id": "1200760009",
+        "trackingId": "OzQ7IzsxMjAwNzYwMDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Sweatpants",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1200760009.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1200760009",
+            "url": "/en_in/productpage.1200760009.html",
+            "colorName": "Light grey marl",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzQ7IzsxMjAwNzYwMDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/25/c5/25c5124d94ad23951b2d92842738a2684a5ac7b9.jpg"
+          },
+          {
+            "articleId": "1200760001",
+            "url": "/en_in/productpage.1200760001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjAwNzYwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e1/04/e10479ff5d122c2e4920b3547b0960395c274588.jpg"
+          },
+          {
+            "articleId": "1200760005",
+            "url": "/en_in/productpage.1200760005.html",
+            "colorName": "Dark grey",
+            "colorCode": "5C595B",
+            "trackingId": "OzQ7IzsxMjAwNzYwMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/79/32/7932db924158da9b627c11ef0da41ddc5eeaddf5.jpg"
+          },
+          {
+            "articleId": "1200760006",
+            "url": "/en_in/productpage.1200760006.html",
+            "colorName": "Light beige",
+            "colorCode": "C0BBAD",
+            "trackingId": "OzQ7IzsxMjAwNzYwMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b6/a3/b6a3f1b64886c39b1f5c9cd5f573263e412fc365.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/9c/7e/9c7e1c7af2b889a86715d350da3a25110f6d3ee0.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/0e/aa/0eaa3bfe01999cb2eb9841ef659dd45ef609f9e9.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/5f/8d/5f8da167a1345edd18904c420b5e8608cc395083.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light grey marl",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/4a/7e/4a7efcb0857745cbd164f74b85384c8ce82a7c33.jpg",
+        "colors": "AFAFAF",
+        "productImage": "https://image.hm.com/assets/hm/25/c5/25c5124d94ad23951b2d92842738a2684a5ac7b9.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "grey_808080",
+        "mainCatCode": "men_trousers_trousers_regular_all"
+      },
+      {
+        "id": "0970817039",
+        "trackingId": "OzQ7IzswOTcwODE3MDM5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Sweatpants",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.0970817039.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0970817039",
+            "url": "/en_in/productpage.0970817039.html",
+            "colorName": "Dark blue",
+            "colorCode": "23263B",
+            "trackingId": "OzQ7IzswOTcwODE3MDM5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b1/f8/b1f8da05ef4ca00cacd35e8332e0497515e5c64d.jpg"
+          },
+          {
+            "articleId": "0970817001",
+            "url": "/en_in/productpage.0970817001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzswOTcwODE3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/97/b6/97b69c0b846fa9ea5a42a21c5dc0b4d423108993.jpg"
+          },
+          {
+            "articleId": "0970817024",
+            "url": "/en_in/productpage.0970817024.html",
+            "colorName": "Cream",
+            "colorCode": "C0BBAD",
+            "trackingId": "OzQ7IzswOTcwODE3MDI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/91/ba/91bac1e7765e54e7bad8691510a36ffac5a4f529.jpg"
+          },
+          {
+            "articleId": "0970817037",
+            "url": "/en_in/productpage.0970817037.html",
+            "colorName": "Light grey marl",
+            "colorCode": "C8C8C8",
+            "trackingId": "OzQ7IzswOTcwODE3MDM3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9d/6f/9d6f1bc5ceffc912c71cce00389db440ba45c247.jpg"
+          },
+          {
+            "articleId": "0970817047",
+            "url": "/en_in/productpage.0970817047.html",
+            "colorName": "Black",
+            "colorCode": "323232",
+            "trackingId": "OzQ7IzswOTcwODE3MDQ3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f7/e1/f7e19b3af3c2588eb955adaa2271ffdca90f28f8.jpg"
+          },
+          {
+            "articleId": "0970817042",
+            "url": "/en_in/productpage.0970817042.html",
+            "colorName": "Dark greige",
+            "colorCode": "5C595B",
+            "trackingId": "OzQ7IzswOTcwODE3MDQyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ac/20/ac209aca738fe29ee524b5050f6ce24c3adb074a.jpg"
+          },
+          {
+            "articleId": "0970817018",
+            "url": "/en_in/productpage.0970817018.html",
+            "colorName": "Light grey marl",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzQ7IzswOTcwODE3MDE4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cb/e7/cbe73e982b3d962a538cb1eddf5597f1533eb65c.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/5b/92/5b9269cfc93fee19453ba42105beb92ac180c2f6.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c1/49/c149137f9d78b061804d98cbae575e4b03d1bf9b.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark blue",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/d9/d5/d9d5b328821f31b1031d5fb765ecf43e6895bc64.jpg",
+        "colors": "23263B",
+        "colourShades": "Bright blue|Cobalt blue|Dark blue|Indigo|Navy blue|Royal blue",
+        "productImage": "https://image.hm.com/assets/hm/b1/f8/b1f8da05ef4ca00cacd35e8332e0497515e5c64d.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blue_0000ff",
+        "mainCatCode": "men_trousers_trousers_regular_all"
+      },
+      {
+        "id": "0970817024",
+        "trackingId": "OzQ7IzswOTcwODE3MDI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Sweatpants",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.0970817024.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0970817024",
+            "url": "/en_in/productpage.0970817024.html",
+            "colorName": "Cream",
+            "colorCode": "C0BBAD",
+            "trackingId": "OzQ7IzswOTcwODE3MDI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/91/ba/91bac1e7765e54e7bad8691510a36ffac5a4f529.jpg"
+          },
+          {
+            "articleId": "0970817001",
+            "url": "/en_in/productpage.0970817001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzswOTcwODE3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/97/b6/97b69c0b846fa9ea5a42a21c5dc0b4d423108993.jpg"
+          },
+          {
+            "articleId": "0970817039",
+            "url": "/en_in/productpage.0970817039.html",
+            "colorName": "Dark blue",
+            "colorCode": "23263B",
+            "trackingId": "OzQ7IzswOTcwODE3MDM5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b1/f8/b1f8da05ef4ca00cacd35e8332e0497515e5c64d.jpg"
+          },
+          {
+            "articleId": "0970817037",
+            "url": "/en_in/productpage.0970817037.html",
+            "colorName": "Light grey marl",
+            "colorCode": "C8C8C8",
+            "trackingId": "OzQ7IzswOTcwODE3MDM3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9d/6f/9d6f1bc5ceffc912c71cce00389db440ba45c247.jpg"
+          },
+          {
+            "articleId": "0970817047",
+            "url": "/en_in/productpage.0970817047.html",
+            "colorName": "Black",
+            "colorCode": "323232",
+            "trackingId": "OzQ7IzswOTcwODE3MDQ3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f7/e1/f7e19b3af3c2588eb955adaa2271ffdca90f28f8.jpg"
+          },
+          {
+            "articleId": "0970817042",
+            "url": "/en_in/productpage.0970817042.html",
+            "colorName": "Dark greige",
+            "colorCode": "5C595B",
+            "trackingId": "OzQ7IzswOTcwODE3MDQyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ac/20/ac209aca738fe29ee524b5050f6ce24c3adb074a.jpg"
+          },
+          {
+            "articleId": "0970817018",
+            "url": "/en_in/productpage.0970817018.html",
+            "colorName": "Light grey marl",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzQ7IzswOTcwODE3MDE4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cb/e7/cbe73e982b3d962a538cb1eddf5597f1533eb65c.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/2e/0d/2e0dadfe59584f1f2e543df2b3b6d0fade1369de.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/63/06/6306edb38b8d52dde4d6d6dde012822f6495a4be.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/24/43/24431df5b3f35d880aae73d876cfd61715962034.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Cream",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/f1/73/f1736868d24811edd23573f35598a0785e16a406.jpg",
+        "colors": "C0BBAD",
+        "colourShades": "Ecru|Ivory|Taupe|Wheat",
+        "productImage": "https://image.hm.com/assets/hm/91/ba/91bac1e7765e54e7bad8691510a36ffac5a4f529.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc|white_ffffff",
+        "mainCatCode": "men_trousers_trousers_regular_all"
+      },
+      {
+        "id": "1259391002",
+        "trackingId": "OzQ7IzsxMjU5MzkxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+        "productName": "Relaxed Fit Cargo trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1259391002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1259391002",
+            "url": "/en_in/productpage.1259391002.html",
+            "colorName": "Dark beige",
+            "colorCode": "736A63",
+            "trackingId": "OzQ7IzsxMjU5MzkxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e7/11/e711385b11f44bcce006b48be4049e7aeac1eaf0.jpg"
+          },
+          {
+            "articleId": "1259391003",
+            "url": "/en_in/productpage.1259391003.html",
+            "colorName": "Pistachio green",
+            "colorCode": "919587",
+            "trackingId": "OzQ7IzsxMjU5MzkxMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/07/e8/07e830cdcd19db436fb2d0352eb98d840839b421.jpg"
+          },
+          {
+            "articleId": "1259391001",
+            "url": "/en_in/productpage.1259391001.html",
+            "colorName": "Dark grey",
+            "colorCode": "343738",
+            "trackingId": "OzQ7IzsxMjU5MzkxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/55/40/5540c3c03bdb5e0312f2efa1de4bd6fd28f01b3a.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/3e/b8/3eb842c812154097fa9633b1d03185ad2382090d.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e6/68/e668f68dc3409cd18bea196d56f2ab413997b2f6.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/aa/bc/aabc137f154900a1389c32a7406cb997d6fc1423.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/4d/a5/4da5db08bec6d37f2159356d0d6dad93c65ee893.jpg",
+        "colors": "736A63",
+        "productImage": "https://image.hm.com/assets/hm/e7/11/e711385b11f44bcce006b48be4049e7aeac1eaf0.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_trousers_cargo",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1259382002",
+        "trackingId": "OzQ7IzsxMjU5MzgyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1259382002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1259382002",
+            "url": "/en_in/productpage.1259382002.html",
+            "colorName": "White",
+            "colorCode": "EEEDE4",
+            "trackingId": "OzQ7IzsxMjU5MzgyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/a1/68/a168b935c889413e24c649d0238121c112f71101.jpg"
+          },
+          {
+            "articleId": "1259382001",
+            "url": "/en_in/productpage.1259382001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjU5MzgyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cb/0b/cb0b11c88546d2186a0cc3492654b0c65bae6c10.jpg"
+          },
+          {
+            "articleId": "1259382004",
+            "url": "/en_in/productpage.1259382004.html",
+            "colorName": "Dark beige",
+            "colorCode": "726A5D",
+            "trackingId": "OzQ7IzsxMjU5MzgyMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/7f/3e/7f3e111321d9e9bd84997b7bafb3b86346e96c51.jpg"
+          },
+          {
+            "articleId": "1259382003",
+            "url": "/en_in/productpage.1259382003.html",
+            "colorName": "Dark grey",
+            "colorCode": "6E6E6E",
+            "trackingId": "OzQ7IzsxMjU5MzgyMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/eb/9f/eb9f02e74f0922e0485d19b40a653e71fb3d5d35.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/6f/52/6f5285f7f2c5bff2e137c08b646a4d59cd008ca5.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/3b/88/3b881012c4a4847d5b9ea6f61c8d7c2d0d9ec4de.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9a/d3/9ad36e9a3283543785a2924a515f8dea6abf9eb0.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "White",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/fa/a7/faa7e32907a51e2343a77b3d3903dc045139ad06.jpg",
+        "colors": "EEEDE4",
+        "colourShades": "Cream|Grey white|Ivory|White grey",
+        "productImage": "https://image.hm.com/assets/hm/a1/68/a168b935c889413e24c649d0238121c112f71101.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "white_ffffff",
+        "mainCatCode": "men_trousers_casual",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1002227002",
+        "trackingId": "OzQ7IzsxMDAyMjI3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cargo joggers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1002227002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1002227002",
+            "url": "/en_in/productpage.1002227002.html",
+            "colorName": "Khaki green",
+            "colorCode": "545349",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2d/8a/2d8a0ff67d37c3916b74961f71746d57b8447ca2.jpg"
+          },
+          {
+            "articleId": "1002227001",
+            "url": "/en_in/productpage.1002227001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ea/d7/ead79a8422df6e29abb8e0057c7dbf2d6658bf4c.jpg"
+          },
+          {
+            "articleId": "1002227003",
+            "url": "/en_in/productpage.1002227003.html",
+            "colorName": "Dark grey",
+            "colorCode": "54575B",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/64/4e/644e0da8077a66e64e102df11a0a9b212ec60df7.jpg"
+          },
+          {
+            "articleId": "1002227023",
+            "url": "/en_in/productpage.1002227023.html",
+            "colorName": "Beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDIzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/fe/6b/fe6bc91aa52db12b70257c81f113d3a5175f7e67.jpg"
+          },
+          {
+            "articleId": "1002227020",
+            "url": "/en_in/productpage.1002227020.html",
+            "colorName": "Dark beige",
+            "colorCode": "868074",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDIwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/93/a4/93a45b6b878c64731c501ba3d72f9a20036fb6ce.jpg"
+          },
+          {
+            "articleId": "1002227011",
+            "url": "/en_in/productpage.1002227011.html",
+            "colorName": "Beige",
+            "colorCode": "A39B86",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/17/8a/178a9b720681ef75eb8a2a95904283a3a5f8854c.jpg"
+          },
+          {
+            "articleId": "1002227013",
+            "url": "/en_in/productpage.1002227013.html",
+            "colorName": "White",
+            "colorCode": "C9C8C2",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/66/07/660740532368338c273791d92e308e445a5af9c5.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/e7/73/e7737dc4c20017152751038fecfdb3de3ff33d25.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/14/a7/14a776230e0b3cb3bfce46318cb56a67fecd6480.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c4/e3/c4e38674ac47e97e3a85792c4fadb4f0b13f749d.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Khaki green",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/af/a1/afa1892ecc648ec4c7d0c6310062e86edb967786.jpg",
+        "colors": "545349",
+        "colourShades": "Khaki green",
+        "productImage": "https://image.hm.com/assets/hm/2d/8a/2d8a0ff67d37c3916b74961f71746d57b8447ca2.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "green_008000",
+        "mainCatCode": "men_trousers_cargo"
+      },
+      {
+        "id": "1248348004",
+        "trackingId": "OzQ7IzsxMjQ4MzQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cotton chinos",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1248348004.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1248348004",
+            "url": "/en_in/productpage.1248348004.html",
+            "colorName": "Beige",
+            "colorCode": "AA9A81",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/05/ea/05eaf4f96d11a3cb3ef7124aeaf4a94f6c9260a3.jpg"
+          },
+          {
+            "articleId": "1248348006",
+            "url": "/en_in/productpage.1248348006.html",
+            "colorName": "Cream",
+            "colorCode": "F0EFEC",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b0/cc/b0ccc69f42b0a7319c59d5299e67afba4705de33.jpg"
+          },
+          {
+            "articleId": "1248348002",
+            "url": "/en_in/productpage.1248348002.html",
+            "colorName": "Beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e9/f4/e9f45400532211112149cd991e6e1b59f978bb80.jpg"
+          },
+          {
+            "articleId": "1248348003",
+            "url": "/en_in/productpage.1248348003.html",
+            "colorName": "Navy blue",
+            "colorCode": "272930",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/72/9d/729d4bc34c3391f4f26d1d29bc1d4f09408c78df.jpg"
+          },
+          {
+            "articleId": "1248348001",
+            "url": "/en_in/productpage.1248348001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cc/10/cc109004e5c65785da8f95e14e5d2b24a81b2092.jpg"
+          },
+          {
+            "articleId": "1248348007",
+            "url": "/en_in/productpage.1248348007.html",
+            "colorName": "Dark grey",
+            "colorCode": "383A3D",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/44/ec/44ec24c147cba520aa0f8ad673fc6a1fa6364bd0.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/85/4f/854f05e5edde495ba0d43239744aa4c9374b623e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/06/a2/06a2c81ad4da0e9212a32234da50ee1e6ad88311.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c8/36/c8367adfe9d4a2f7ba6cc8a765d74f160003a683.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/44/0c/440c7276f1a3a02b736b1d5ba7bfe3997ec9be74.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/ea/3b/ea3b864ab5e3094a3bf80ae7372d3516c9c2d5fb.jpg",
+        "colors": "AA9A81",
+        "colourShades": "Ecru|Taupe|Wheat",
+        "productImage": "https://image.hm.com/assets/hm/05/ea/05eaf4f96d11a3cb3ef7124aeaf4a94f6c9260a3.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_trousers_chinos_slim_all"
+      },
+      {
+        "id": "1253393001",
+        "trackingId": "OzQ7IzsxMjUzMzkzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cargo trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1253393001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1253393001",
+            "url": "/en_in/productpage.1253393001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/79/2f/792fe16855b51a42a7d0cd22daaf3f864d9f0f60.jpg"
+          },
+          {
+            "articleId": "1253393005",
+            "url": "/en_in/productpage.1253393005.html",
+            "colorName": "White",
+            "colorCode": "EEEDE4",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/aa/92/aa927721828f484515634f58ef1452009b2d585e.jpg"
+          },
+          {
+            "articleId": "1253393003",
+            "url": "/en_in/productpage.1253393003.html",
+            "colorName": "Dark grey",
+            "colorCode": "525457",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/aa/d5/aad5ca7d7a93d8fe62e69c53f132fe43c2bbf2d9.jpg"
+          },
+          {
+            "articleId": "1253393002",
+            "url": "/en_in/productpage.1253393002.html",
+            "colorName": "Khaki green",
+            "colorCode": "5C6054",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/58/fa/58fab7faaf4e3e4fb58270fc33f1fdc8d76b98b9.jpg"
+          },
+          {
+            "articleId": "1253393004",
+            "url": "/en_in/productpage.1253393004.html",
+            "colorName": "Light beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/05/c7/05c77945e320c96cbb4144dea4d8a44081dccd71.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/bc/d9/bcd94a13a5b17ce80d6d5e2f3065475974539d94.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/de/07/de0757c4de0d78fb11d6ab5f6b6347401d691e24.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/04/29/0429d3a9174dab467f445397d35080a0d44ccd6b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/8a/67/8a67ed5821ae5f4fdaac2f505f5d359aa8d0ec1f.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/b9/61/b96140fdf18a277e0c3cb86344af92bb81d9e8df.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/79/2f/792fe16855b51a42a7d0cd22daaf3f864d9f0f60.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "men_trousers_cargo"
+      },
+      {
+        "id": "1259379001",
+        "trackingId": "OzQ7IzsxMjU5Mzc5MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+        "productName": "Relaxed Fit Tailored linen-blend trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1259379001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1259379001",
+            "url": "/en_in/productpage.1259379001.html",
+            "colorName": "Cream",
+            "colorCode": "E9E4DA",
+            "trackingId": "OzQ7IzsxMjU5Mzc5MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b5/f0/b5f0c6c77eedc81316f5024937c24fe901a40ff0.jpg"
+          },
+          {
+            "articleId": "1259379002",
+            "url": "/en_in/productpage.1259379002.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjU5Mzc5MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/fa/c5/fac599f1e4e806c9140dfb1c90bda8378d226b6e.jpg"
+          },
+          {
+            "articleId": "1259379003",
+            "url": "/en_in/productpage.1259379003.html",
+            "colorName": "Brown",
+            "colorCode": "3F3838",
+            "trackingId": "OzQ7IzsxMjU5Mzc5MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/dc/a5/dca5d8796aa1e900b55f7e6a83d507f79d41a5a3.jpg"
+          }
+        ],
+        "productMarkers": [
+          {
+            "text": "H&M Premium Selection",
+            "type": "qualityMarker"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/7b/0f/7b0f8f87110a14fb9d5dbbb3d7a3ca3a178bae63.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9e/5d/9e5d794fbd04a3229888ce4a78f60f171c8a9928.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/25/8a/258a54ec21f21d79df52d7f674b6220069f75ef6.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Cream",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/59/60/5960141555e6b4d4a23262ba8bb0d2d3ade2713f.jpg",
+        "colors": "E9E4DA",
+        "colourShades": "Cream|Grey white|Ivory|White grey",
+        "productImage": "https://image.hm.com/assets/hm/b5/f0/b5f0c6c77eedc81316f5024937c24fe901a40ff0.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "white_ffffff",
+        "mainCatCode": "men_trousers_dressed",
+        "sellingAttribute": "New Arrival",
+        "qualityMarker": "H&M Premium Selection"
+      },
+      {
+        "id": "1253393005",
+        "trackingId": "OzQ7IzsxMjUzMzkzMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cargo trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1253393005.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1253393005",
+            "url": "/en_in/productpage.1253393005.html",
+            "colorName": "White",
+            "colorCode": "EEEDE4",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/aa/92/aa927721828f484515634f58ef1452009b2d585e.jpg"
+          },
+          {
+            "articleId": "1253393001",
+            "url": "/en_in/productpage.1253393001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/79/2f/792fe16855b51a42a7d0cd22daaf3f864d9f0f60.jpg"
+          },
+          {
+            "articleId": "1253393003",
+            "url": "/en_in/productpage.1253393003.html",
+            "colorName": "Dark grey",
+            "colorCode": "525457",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/aa/d5/aad5ca7d7a93d8fe62e69c53f132fe43c2bbf2d9.jpg"
+          },
+          {
+            "articleId": "1253393002",
+            "url": "/en_in/productpage.1253393002.html",
+            "colorName": "Khaki green",
+            "colorCode": "5C6054",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/58/fa/58fab7faaf4e3e4fb58270fc33f1fdc8d76b98b9.jpg"
+          },
+          {
+            "articleId": "1253393004",
+            "url": "/en_in/productpage.1253393004.html",
+            "colorName": "Light beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/05/c7/05c77945e320c96cbb4144dea4d8a44081dccd71.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/43/99/43996ea217dbf1e62c39b5c3cc509b019fb6315f.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/58/4a/584aec178e6d9237cfab59b774235978039480aa.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/d7/fe/d7fea4e1aea9c4940b094443c37a64db74fcc298.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1a/19/1a19fbf82f23d6e0ac6be1ee0c26991534f6fdff.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "White",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/1e/2b/1e2be11ea17b124a9df2d25d1b7b594f51ef83f2.jpg",
+        "colors": "EEEDE4",
+        "colourShades": "Cream|Grey white|Ivory|White grey",
+        "productImage": "https://image.hm.com/assets/hm/aa/92/aa927721828f484515634f58ef1452009b2d585e.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "white_ffffff",
+        "mainCatCode": "men_trousers_cargo",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1253393003",
+        "trackingId": "OzQ7IzsxMjUzMzkzMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cargo trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1253393003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1253393003",
+            "url": "/en_in/productpage.1253393003.html",
+            "colorName": "Dark grey",
+            "colorCode": "525457",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/aa/d5/aad5ca7d7a93d8fe62e69c53f132fe43c2bbf2d9.jpg"
+          },
+          {
+            "articleId": "1253393001",
+            "url": "/en_in/productpage.1253393001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/79/2f/792fe16855b51a42a7d0cd22daaf3f864d9f0f60.jpg"
+          },
+          {
+            "articleId": "1253393005",
+            "url": "/en_in/productpage.1253393005.html",
+            "colorName": "White",
+            "colorCode": "EEEDE4",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/aa/92/aa927721828f484515634f58ef1452009b2d585e.jpg"
+          },
+          {
+            "articleId": "1253393002",
+            "url": "/en_in/productpage.1253393002.html",
+            "colorName": "Khaki green",
+            "colorCode": "5C6054",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/58/fa/58fab7faaf4e3e4fb58270fc33f1fdc8d76b98b9.jpg"
+          },
+          {
+            "articleId": "1253393004",
+            "url": "/en_in/productpage.1253393004.html",
+            "colorName": "Light beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMjUzMzkzMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/05/c7/05c77945e320c96cbb4144dea4d8a44081dccd71.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/cc/24/cc244fb63a0f466b1e4808a68d8d3d503c59ade4.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f5/7d/f57d178099627e8a27ece11bbd27ae51c8adfe0d.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9b/b4/9bb4e87c3c62ee34a10f56794d2d5417a9eadb7d.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/56/68/56684b88af13d00a7931db9fb27995aa5cd0eb3c.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/03/80/038030785b08fad365e7e54365b895482643f556.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark grey",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/51/03/5103e2aa107d06bb3233fd76fb5f016f35859c88.jpg",
+        "colors": "525457",
+        "colourShades": "Charcoal|Dark grey",
+        "productImage": "https://image.hm.com/assets/hm/aa/d5/aad5ca7d7a93d8fe62e69c53f132fe43c2bbf2d9.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "grey_808080",
+        "mainCatCode": "men_trousers_cargo"
+      },
+      {
+        "id": "1259376001",
+        "trackingId": "OzQ7IzsxMjU5Mzc2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Belted twill trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1259376001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1259376001",
+            "url": "/en_in/productpage.1259376001.html",
+            "colorName": "Dark grey",
+            "colorCode": "4F5155",
+            "trackingId": "OzQ7IzsxMjU5Mzc2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2b/64/2b64649e3cb1ecd2a3e4a040b14538853eaa3ace.jpg"
+          },
+          {
+            "articleId": "1259376003",
+            "url": "/en_in/productpage.1259376003.html",
+            "colorName": "Dark beige",
+            "colorCode": "726A5D",
+            "trackingId": "OzQ7IzsxMjU5Mzc2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzUzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/3f/0a/3f0a4183721478d004e5d722589659735d78ff76.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/97/64/9764254019432d29de7140bf0691f6a8d1cb9d79.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/eb/68/eb68899cc4d268c97d6df7d57987b5bde3506f7b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/4a/4b/4a4b5994484b28d22059f51a5dd247a2479dccb2.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/41/b3/41b3eb93b3532b111901f77de20e6fdd498aaa31.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/da/9d/da9d0b28f9c2ee8a5327011f381870cd0f41e94c.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark grey",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/68/1a/681a3aad5a61f3ad18b548d061055d4272d8a8eb.jpg",
+        "colors": "4F5155",
+        "colourShades": "Charcoal|Dark grey",
+        "productImage": "https://image.hm.com/assets/hm/2b/64/2b64649e3cb1ecd2a3e4a040b14538853eaa3ace.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "grey_808080",
+        "mainCatCode": "men_trousers_dressed",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1268101002",
+        "trackingId": "OzQ7IzsxMjY4MTAxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Lyocell-blend trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1268101002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1268101002",
+            "url": "/en_in/productpage.1268101002.html",
+            "colorName": "Beige",
+            "colorCode": "AA9A81",
+            "trackingId": "OzQ7IzsxMjY4MTAxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/6d/77/6d776c232f2c4b6baa6e932d69e354ac3bd5f403.jpg"
+          },
+          {
+            "articleId": "1268101001",
+            "url": "/en_in/productpage.1268101001.html",
+            "colorName": "White",
+            "colorCode": "E9E4DA",
+            "trackingId": "OzQ7IzsxMjY4MTAxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b4/2a/b42a18fa09d7b9b61bffbb5f3e6f50949e8ab097.jpg"
+          },
+          {
+            "articleId": "1268101003",
+            "url": "/en_in/productpage.1268101003.html",
+            "colorName": "Navy blue",
+            "colorCode": "29272B",
+            "trackingId": "OzQ7IzsxMjY4MTAxMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/fd/8b/fd8b6be68edf4b903a139f7164615500b7e2e5b8.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/ef/9e/ef9e167d9d3613082906888dd79b5707f2052842.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a0/c3/a0c38412ae646d70a9b9e6ccfa3e31090dc7a399.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a9/ea/a9eadbbbb2d9cae66d3585a830a63904668b741d.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/84/df/84df31a24415405865d3cc28517bcf7d1e906772.jpg",
+        "colors": "AA9A81",
+        "colourShades": "Ecru|Taupe|Wheat",
+        "productImage": "https://image.hm.com/assets/hm/6d/77/6d776c232f2c4b6baa6e932d69e354ac3bd5f403.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_trousers_chinos_regular_all",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1002227001",
+        "trackingId": "OzQ7IzsxMDAyMjI3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cargo joggers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1002227001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1002227001",
+            "url": "/en_in/productpage.1002227001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ea/d7/ead79a8422df6e29abb8e0057c7dbf2d6658bf4c.jpg"
+          },
+          {
+            "articleId": "1002227002",
+            "url": "/en_in/productpage.1002227002.html",
+            "colorName": "Khaki green",
+            "colorCode": "545349",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2d/8a/2d8a0ff67d37c3916b74961f71746d57b8447ca2.jpg"
+          },
+          {
+            "articleId": "1002227003",
+            "url": "/en_in/productpage.1002227003.html",
+            "colorName": "Dark grey",
+            "colorCode": "54575B",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/64/4e/644e0da8077a66e64e102df11a0a9b212ec60df7.jpg"
+          },
+          {
+            "articleId": "1002227023",
+            "url": "/en_in/productpage.1002227023.html",
+            "colorName": "Beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDIzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/fe/6b/fe6bc91aa52db12b70257c81f113d3a5175f7e67.jpg"
+          },
+          {
+            "articleId": "1002227020",
+            "url": "/en_in/productpage.1002227020.html",
+            "colorName": "Dark beige",
+            "colorCode": "868074",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDIwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/93/a4/93a45b6b878c64731c501ba3d72f9a20036fb6ce.jpg"
+          },
+          {
+            "articleId": "1002227011",
+            "url": "/en_in/productpage.1002227011.html",
+            "colorName": "Beige",
+            "colorCode": "A39B86",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/17/8a/178a9b720681ef75eb8a2a95904283a3a5f8854c.jpg"
+          },
+          {
+            "articleId": "1002227013",
+            "url": "/en_in/productpage.1002227013.html",
+            "colorName": "White",
+            "colorCode": "C9C8C2",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/66/07/660740532368338c273791d92e308e445a5af9c5.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/84/e1/84e1f4ebee2af1d11e17585df6a4b701338fb727.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/06/07/0607d4e5a71410b5219d9f879bd86355f4e90823.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a9/c0/a9c04188488bd973ba6520827685143500efd13f.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e5/30/e53005223b71a43def49cd40dd337b5d3b77ee00.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/48/09/4809f7e24be9d596ca767ad545b7774aff7d91f2.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/ea/d7/ead79a8422df6e29abb8e0057c7dbf2d6658bf4c.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "men_trousers_cargo"
+      },
+      {
+        "id": "1232125001",
+        "trackingId": "OzQ7IzsxMjMyMTI1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Suit trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1232125001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2299,
+            "minPrice": 2299,
+            "maxPrice": 2299,
+            "formattedPrice": "Rs.2,299.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1232125001",
+            "url": "/en_in/productpage.1232125001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjMyMTI1MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/93/73/937380d767a4664457f711b44028baa5e11a1050.jpg"
+          },
+          {
+            "articleId": "1232125005",
+            "url": "/en_in/productpage.1232125005.html",
+            "colorName": "Beige",
+            "colorCode": "C1AC93",
+            "trackingId": "OzQ7IzsxMjMyMTI1MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2a/dc/2adce86fd3cc08a8809df7e14e93f0413e10cfcc.jpg"
+          },
+          {
+            "articleId": "1232125004",
+            "url": "/en_in/productpage.1232125004.html",
+            "colorName": "Dark grey/Pinstriped",
+            "colorCode": "3A3A3D",
+            "trackingId": "OzQ7IzsxMjMyMTI1MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/a9/76/a9763835989ef7eace872cb0b0057bf3b0ad2e3a.jpg"
+          },
+          {
+            "articleId": "1232125002",
+            "url": "/en_in/productpage.1232125002.html",
+            "colorName": "Dark grey",
+            "colorCode": "383A3D",
+            "trackingId": "OzQ7IzsxMjMyMTI1MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/69/8b/698bee5c95394a90ce90fb70d6ed140160d93d00.jpg"
+          },
+          {
+            "articleId": "1232125006",
+            "url": "/en_in/productpage.1232125006.html",
+            "colorName": "White",
+            "colorCode": "E9E4DA",
+            "trackingId": "OzQ7IzsxMjMyMTI1MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/0c/cf/0ccfeb145ad996c6b1882aa6d5cdae1116d0772a.jpg"
+          },
+          {
+            "articleId": "1232125003",
+            "url": "/en_in/productpage.1232125003.html",
+            "colorName": "Navy blue",
+            "colorCode": "2B2C32",
+            "trackingId": "OzQ7IzsxMjMyMTI1MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f6/da/f6da2ce391e017f9251c5173afcec2651fe25e38.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/9e/dd/9edd181794c511ae55ec6385d7c1ea57a1c0594f.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/d0/98/d098d1bd1512f4c554dbbe16a0e3dc93d5bb0358.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/b9/8f/b98fd5438cdfe384ee239bf50031b0d9dee70774.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/be/98/be983707866325b1e462831a62aa1d0ec98b3e6d.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/e5/ef/e5ef74f2be455c49370d2077ddebaad1908e314b.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/93/73/937380d767a4664457f711b44028baa5e11a1050.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "men_blazerssuits_trousers"
+      },
+      {
+        "id": "1259394002",
+        "trackingId": "OzQ7IzsxMjU5Mzk0MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+        "productName": "Relaxed Fit Poplin trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1259394002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1259394002",
+            "url": "/en_in/productpage.1259394002.html",
+            "colorName": "Navy blue",
+            "colorCode": "29272B",
+            "trackingId": "OzQ7IzsxMjU5Mzk0MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/5a/55/5a55ad529275148a240053c5ace310a8b23d4b69.jpg"
+          },
+          {
+            "articleId": "1259394001",
+            "url": "/en_in/productpage.1259394001.html",
+            "colorName": "Light beige",
+            "colorCode": "DCD9CE",
+            "trackingId": "OzQ7IzsxMjU5Mzk0MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f7/d6/f7d660af490c246794f95653761f831294d4407b.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/a5/8f/a58ff8898b4136a8cc6a9c04949b6c2e755b602a.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/43/9d/439d3c6ba120bc5b13a29992b88003ba991de907.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f2/cd/f2cd2a1935ddf817146ac8f4e5ce0ec7e21c97b2.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/4d/ba/4dbab219a5317f50d5def5e73bf323b24b2d4c46.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/39/63/39632481ca998556cb9f5ac7be2f67e283bfbfaa.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Navy blue",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/d4/59/d459d51a37f3e31712686efe920ea4b193914bc4.jpg",
+        "colors": "29272B",
+        "colourShades": "Dark blue|Navy blue",
+        "productImage": "https://image.hm.com/assets/hm/5a/55/5a55ad529275148a240053c5ace310a8b23d4b69.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blue_0000ff",
+        "mainCatCode": "men_trousers_casual"
+      },
+      {
+        "id": "1274582001",
+        "trackingId": "OzQ7IzsxMjc0NTgyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+        "productName": "Relaxed Fit Lyocell trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1274582001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1799,
+            "minPrice": 1799,
+            "maxPrice": 1799,
+            "formattedPrice": "Rs.1,799.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1274582001",
+            "url": "/en_in/productpage.1274582001.html",
+            "colorName": "Beige",
+            "colorCode": "A9A39B",
+            "trackingId": "OzQ7IzsxMjc0NTgyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/18/d0/18d0bfd152fcb49d16594abbc20865a078287664.jpg"
+          },
+          {
+            "articleId": "1274582002",
+            "url": "/en_in/productpage.1274582002.html",
+            "colorName": "Navy blue",
+            "colorCode": "1A2840",
+            "trackingId": "OzQ7IzsxMjc0NTgyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f9/da/f9da1d2926c4c5c9f54bc1ec184c3ee5e5297227.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/f5/b1/f5b18c7e16348c8ab9c425fb477005d2c51d645c.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/96/53/96530f9c4215f98d96484f2506e48145b85bce01.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f7/8e/f78ef59e1579f05b072759c4244db8768d8c5a7c.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/ae/75/ae755930a7b7f47b94f459c11a6276954c0bf02b.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/3d/03/3d03228fda83f4cfa7a9d5214a7dd0c8aea6e8e9.jpg",
+        "colors": "A9A39B",
+        "colourShades": "Ecru|Stone",
+        "productImage": "https://image.hm.com/assets/hm/18/d0/18d0bfd152fcb49d16594abbc20865a078287664.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_underwearloungewear_loungewear",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1259381003",
+        "trackingId": "OzQ7IzsxMjU5MzgxMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Tailored linen-blend trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1259381003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1259381003",
+            "url": "/en_in/productpage.1259381003.html",
+            "colorName": "Light beige",
+            "colorCode": "E9E4DA",
+            "trackingId": "OzQ7IzsxMjU5MzgxMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/86/aa/86aa6349d58ccebb5fcac231d25d0fa69c8c8a32.jpg"
+          },
+          {
+            "articleId": "1259381002",
+            "url": "/en_in/productpage.1259381002.html",
+            "colorName": "Beige",
+            "colorCode": "726A5D",
+            "trackingId": "OzQ7IzsxMjU5MzgxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ad/ca/adcad15b3ea47b031b5c972e367edb15ec225588.jpg"
+          },
+          {
+            "articleId": "1259381001",
+            "url": "/en_in/productpage.1259381001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjU5MzgxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/a6/8e/a68ec98cb51671d4450194b72e6148018aba0775.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/08/61/08619fdc608f2e2cf711ab70a85d7877ae53b891.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/40/2d/402d9c9dc6655263d3934f198a86aac68c8245ea.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/79/4a/794a3724282cfb2eec9ecf8c6e97b2bc5c6bfa2d.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/77/8e/778e4c5a6b5053b1b7e4ea2727671c072cb06dbe.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/2b/f5/2bf5d43e2c136ea10c8eb749632364062c08a479.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/20/48/2048ae5805da132a48ca022f498e5ad84a3c7c1b.jpg",
+        "colors": "E9E4DA",
+        "colourShades": "Cream|Grey white|Ivory|White grey",
+        "productImage": "https://image.hm.com/assets/hm/86/aa/86aa6349d58ccebb5fcac231d25d0fa69c8c8a32.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "white_ffffff",
+        "mainCatCode": "men_trousers_dressed",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1236096005",
+        "trackingId": "OzQ7IzsxMjM2MDk2MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Twill trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1236096005.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1236096005",
+            "url": "/en_in/productpage.1236096005.html",
+            "colorName": "Dark beige",
+            "colorCode": "726A5D",
+            "trackingId": "OzQ7IzsxMjM2MDk2MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/42/d2/42d22be390ef03a39f652c85892df71a3b6053a4.jpg"
+          },
+          {
+            "articleId": "1236096001",
+            "url": "/en_in/productpage.1236096001.html",
+            "colorName": "Navy blue",
+            "colorCode": "2B2C32",
+            "trackingId": "OzQ7IzsxMjM2MDk2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/5a/73/5a73879bc97f97f018d248c0f6695aa8176b2e10.jpg"
+          },
+          {
+            "articleId": "1236096004",
+            "url": "/en_in/productpage.1236096004.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjM2MDk2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9c/56/9c566864e9a7fbbeacda882f6f9b744bbed6a191.jpg"
+          },
+          {
+            "articleId": "1236096006",
+            "url": "/en_in/productpage.1236096006.html",
+            "colorName": "Light beige",
+            "colorCode": "C8C5C5",
+            "trackingId": "OzQ7IzsxMjM2MDk2MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/5e/61/5e61db654d96cd3d68db746738de95d3135fedd1.jpg"
+          },
+          {
+            "articleId": "1236096002",
+            "url": "/en_in/productpage.1236096002.html",
+            "colorName": "White",
+            "colorCode": "E9E4DA",
+            "trackingId": "OzQ7IzsxMjM2MDk2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/00/d3/00d3344d2dde4d7b57e3912846a8a58a4cdb8845.jpg"
+          },
+          {
+            "articleId": "1236096003",
+            "url": "/en_in/productpage.1236096003.html",
+            "colorName": "Grey",
+            "colorCode": "989799",
+            "trackingId": "OzQ7IzsxMjM2MDk2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/36/9d/369d7243565fca43d3c7b132d8fc9bee83953580.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/b5/f5/b5f5b514ee94527d622de70619b604714848bac2.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/2f/62/2f62c3c1fbecb4ab1079f32b916408ddeedfbdbb.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c4/ed/c4ede26d325127020c0457b0dd10aeab56543c8e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/71/34/71349b2024395c78045b8f15d67f900d2b2a4eb4.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/e4/33/e4331e18eb257908320808d047038bae463b414d.jpg",
+        "colors": "726A5D",
+        "productImage": "https://image.hm.com/assets/hm/42/d2/42d22be390ef03a39f652c85892df71a3b6053a4.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_trousers_casual"
+      },
+      {
+        "id": "1231066001",
+        "trackingId": "OzQ7IzsxMjMxMDY2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+        "productName": "Relaxed Fit Cargo trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1231066001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1231066001",
+            "url": "/en_in/productpage.1231066001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjMxMDY2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/3c/5d/3c5dce36aa109183b167d8b3241f4e08840d7e81.jpg"
+          },
+          {
+            "articleId": "1231066004",
+            "url": "/en_in/productpage.1231066004.html",
+            "colorName": "Dark brown",
+            "colorCode": "3F3838",
+            "trackingId": "OzQ7IzsxMjMxMDY2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9c/96/9c96acf27e1cc9e1ec3873bb727c5ee9a37db5cc.jpg"
+          },
+          {
+            "articleId": "1231066003",
+            "url": "/en_in/productpage.1231066003.html",
+            "colorName": "Khaki green",
+            "colorCode": "5C6054",
+            "trackingId": "OzQ7IzsxMjMxMDY2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e1/ba/e1ba8019115057061a2c8bd6df7f493e9e6e669c.jpg"
+          },
+          {
+            "articleId": "1231066002",
+            "url": "/en_in/productpage.1231066002.html",
+            "colorName": "Beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMjMxMDY2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/3e/1a/3e1aa5e9172a02b9f2669bc1ce452bea43c543be.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/38/9b/389b0322da621e93a44f9ed6e954f0da987d1900.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/20/d4/20d4e07b10292bc645f2d8e10d02108bff1b9cf5.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e6/74/e6741dfad98b4ad185372ca1baa81fedd260f3be.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/22/74/22745e639ac29e8ecb2aed9ebd63779e8a049c03.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/3c/5d/3c5dce36aa109183b167d8b3241f4e08840d7e81.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "men_trousers_cargo"
+      },
+      {
+        "id": "1248348003",
+        "trackingId": "OzQ7IzsxMjQ4MzQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cotton chinos",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1248348003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1999,
+            "minPrice": 1999,
+            "maxPrice": 1999,
+            "formattedPrice": "Rs.1,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1248348003",
+            "url": "/en_in/productpage.1248348003.html",
+            "colorName": "Navy blue",
+            "colorCode": "272930",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/72/9d/729d4bc34c3391f4f26d1d29bc1d4f09408c78df.jpg"
+          },
+          {
+            "articleId": "1248348006",
+            "url": "/en_in/productpage.1248348006.html",
+            "colorName": "Cream",
+            "colorCode": "F0EFEC",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b0/cc/b0ccc69f42b0a7319c59d5299e67afba4705de33.jpg"
+          },
+          {
+            "articleId": "1248348002",
+            "url": "/en_in/productpage.1248348002.html",
+            "colorName": "Beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e9/f4/e9f45400532211112149cd991e6e1b59f978bb80.jpg"
+          },
+          {
+            "articleId": "1248348004",
+            "url": "/en_in/productpage.1248348004.html",
+            "colorName": "Beige",
+            "colorCode": "AA9A81",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/05/ea/05eaf4f96d11a3cb3ef7124aeaf4a94f6c9260a3.jpg"
+          },
+          {
+            "articleId": "1248348001",
+            "url": "/en_in/productpage.1248348001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cc/10/cc109004e5c65785da8f95e14e5d2b24a81b2092.jpg"
+          },
+          {
+            "articleId": "1248348007",
+            "url": "/en_in/productpage.1248348007.html",
+            "colorName": "Dark grey",
+            "colorCode": "383A3D",
+            "trackingId": "OzQ7IzsxMjQ4MzQ4MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/44/ec/44ec24c147cba520aa0f8ad673fc6a1fa6364bd0.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/88/5c/885c50583c5a8d5cc14b6028de734c3c38f5dc2d.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/b0/8c/b08c519fa51b07e59503f0326878b73e186017a1.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/db/06/db06d3063fa3809cc31c36b2f9ac0e3e7cc781bf.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e9/da/e9da4e1092f70526968d2f11c8daf521318690eb.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/14/3e/143e39e408015671914e3cc623bb198a5ef12077.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Navy blue",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/d3/ca/d3caed13a31509eb8aedbd0ffdb55888b33e0807.jpg",
+        "colors": "272930",
+        "colourShades": "Bright blue|Cobalt blue|Dark blue|Indigo|Navy blue|Royal blue",
+        "productImage": "https://image.hm.com/assets/hm/72/9d/729d4bc34c3391f4f26d1d29bc1d4f09408c78df.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blue_0000ff",
+        "mainCatCode": "men_trousers_chinos_slim_all"
+      },
+      {
+        "id": "1259379002",
+        "trackingId": "OzQ7IzsxMjU5Mzc5MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+        "productName": "Relaxed Fit Tailored linen-blend trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1259379002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1259379002",
+            "url": "/en_in/productpage.1259379002.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjU5Mzc5MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/fa/c5/fac599f1e4e806c9140dfb1c90bda8378d226b6e.jpg"
+          },
+          {
+            "articleId": "1259379001",
+            "url": "/en_in/productpage.1259379001.html",
+            "colorName": "Cream",
+            "colorCode": "E9E4DA",
+            "trackingId": "OzQ7IzsxMjU5Mzc5MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b5/f0/b5f0c6c77eedc81316f5024937c24fe901a40ff0.jpg"
+          },
+          {
+            "articleId": "1259379003",
+            "url": "/en_in/productpage.1259379003.html",
+            "colorName": "Brown",
+            "colorCode": "3F3838",
+            "trackingId": "OzQ7IzsxMjU5Mzc5MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzYzOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/dc/a5/dca5d8796aa1e900b55f7e6a83d507f79d41a5a3.jpg"
+          }
+        ],
+        "productMarkers": [
+          {
+            "text": "H&M Premium Selection",
+            "type": "qualityMarker"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/43/e3/43e3b9bb0199c1a6762c2f5a603fe0a354499e6e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/5b/ea/5bea8962b4172833fe831111036f251ac2407c9e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/0b/97/0b972b3f00b7067a62a66a5041d7f178ec1294aa.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1c/47/1c4799aba82af992ba5ed9c680d09d2df28d0172.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/c3/89/c389b42d038e3361d48c7a459683f225f689d55f.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/fa/c5/fac599f1e4e806c9140dfb1c90bda8378d226b6e.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "men_trousers_dressed",
+        "sellingAttribute": "New Arrival",
+        "qualityMarker": "H&M Premium Selection"
+      },
+      {
+        "id": "1074402001",
+        "trackingId": "OzQ7IzsxMDc0NDAyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cotton twill trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1074402001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1074402001",
+            "url": "/en_in/productpage.1074402001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMDc0NDAyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cd/d7/cdd7aea4d00fc65196abef349fa469ee23b3d22b.jpg"
+          },
+          {
+            "articleId": "1074402021",
+            "url": "/en_in/productpage.1074402021.html",
+            "colorName": "White",
+            "colorCode": "F0EFEC",
+            "trackingId": "OzQ7IzsxMDc0NDAyMDIxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/d3/3d/d33d59690249344b9689c8e666e67e42ab85c3f8.jpg"
+          },
+          {
+            "articleId": "1074402003",
+            "url": "/en_in/productpage.1074402003.html",
+            "colorName": "Dark grey",
+            "colorCode": "383A3D",
+            "trackingId": "OzQ7IzsxMDc0NDAyMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/54/53/54537f837a0320b0cffa7c6dc107335ab3400978.jpg"
+          },
+          {
+            "articleId": "1074402004",
+            "url": "/en_in/productpage.1074402004.html",
+            "colorName": "Khaki green",
+            "colorCode": "57564B",
+            "trackingId": "OzQ7IzsxMDc0NDAyMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/8d/0e/8d0e8fdc22994338a6b81caca6d2238badfe6651.jpg"
+          },
+          {
+            "articleId": "1074402014",
+            "url": "/en_in/productpage.1074402014.html",
+            "colorName": "Light beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMDc0NDAyMDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/81/f3/81f39c6d8ab4cdef0c9af7b64d0478ddb567bbd2.jpg"
+          },
+          {
+            "articleId": "1074402002",
+            "url": "/en_in/productpage.1074402002.html",
+            "colorName": "Navy blue",
+            "colorCode": "393A45",
+            "trackingId": "OzQ7IzsxMDc0NDAyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/af/0e/af0e72d9d59fa303d86f0238f0b2da3e8c665a60.jpg"
+          },
+          {
+            "articleId": "1074402008",
+            "url": "/en_in/productpage.1074402008.html",
+            "colorName": "Light grey",
+            "colorCode": "BFC2C1",
+            "trackingId": "OzQ7IzsxMDc0NDAyMDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY0OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ee/be/eebe9270965f6d47cf875961ce6a73764393d5f5.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/2b/c0/2bc02e3cd53194ae62a3c951e1642305c1f9b7a9.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/37/6b/376b379098939a8470506703483ede3a24b89429.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/78/54/7854599b72ed9453125ddff1dc18d77ea1d8ae7d.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1d/ab/1dab7bc92d47515a8462b35a8599b68d82362144.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a1/ee/a1ee965fe8a36968f37a566867d4e77a5db6f9c5.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/3b/98/3b985322904386ac83336868ea4c50d699f203b6.jpg",
+        "colors": "272628",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/cd/d7/cdd7aea4d00fc65196abef349fa469ee23b3d22b.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "men_trousers_casual"
+      },
+      {
+        "id": "1253406001",
+        "trackingId": "OzQ7IzsxMjUzNDA2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Linen trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1253406001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 3999,
+            "minPrice": 3999,
+            "maxPrice": 3999,
+            "formattedPrice": "Rs.3,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1253406001",
+            "url": "/en_in/productpage.1253406001.html",
+            "colorName": "Light beige",
+            "colorCode": "EFEFDF",
+            "trackingId": "OzQ7IzsxMjUzNDA2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ca/82/ca822eb7662c30817c383b13aff2014a2ab704ef.jpg"
+          },
+          {
+            "articleId": "1253406005",
+            "url": "/en_in/productpage.1253406005.html",
+            "colorName": "White",
+            "colorCode": "FFFFFF",
+            "trackingId": "OzQ7IzsxMjUzNDA2MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/5a/d4/5ad4bcc26516c84b234c6d3e93d281ed8083545c.jpg"
+          },
+          {
+            "articleId": "1253406002",
+            "url": "/en_in/productpage.1253406002.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjUzNDA2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/30/f5/30f57dc82cf707992c4819391e382b86a1aca39c.jpg"
+          },
+          {
+            "articleId": "1253406004",
+            "url": "/en_in/productpage.1253406004.html",
+            "colorName": "Dark beige",
+            "colorCode": "726A5D",
+            "trackingId": "OzQ7IzsxMjUzNDA2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f1/e2/f1e237b6558be9049a9052fec15a0e2cc0f26201.jpg"
+          },
+          {
+            "articleId": "1253406003",
+            "url": "/en_in/productpage.1253406003.html",
+            "colorName": "Navy blue",
+            "colorCode": "2B2C32",
+            "trackingId": "OzQ7IzsxMjUzNDA2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/96/7e/967e73558c89b8c52417b9d517cab031df392994.jpg"
+          },
+          {
+            "articleId": "1253406006",
+            "url": "/en_in/productpage.1253406006.html",
+            "colorName": "Dark grey",
+            "colorCode": "42444B",
+            "trackingId": "OzQ7IzsxMjUzNDA2MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY1OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/7e/38/7e38143b116351e8568ffd480fec780d84128630.jpg"
+          }
+        ],
+        "productMarkers": [
+          {
+            "text": "H&M Premium Selection",
+            "type": "qualityMarker"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/50/54/5054e1d015ddd3f48c030fd3b4c46e2b82742bb5.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/26/d1/26d1ffdc6dc31ede6e96a62724d02d4c13709926.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/bf/f7/bff76c62abc57c3cc0e2cf1b588683f5fba98e64.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/01/ed/01ed126892dd27305945a1ace4e5d77b19cb72ef.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/59/f7/59f7af2f3935649437219128452b8370b6df4878.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/59/23/5923dc817f1290cfd1b59a73bbcc5c9f3e8dc0aa.jpg",
+        "colors": "EFEFDF",
+        "productImage": "https://image.hm.com/assets/hm/ca/82/ca822eb7662c30817c383b13aff2014a2ab704ef.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_trousers_casual",
+        "qualityMarker": "H&M Premium Selection"
+      },
+      {
+        "id": "1200760005",
+        "trackingId": "OzQ7IzsxMjAwNzYwMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Sweatpants",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1200760005.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1200760005",
+            "url": "/en_in/productpage.1200760005.html",
+            "colorName": "Dark grey",
+            "colorCode": "5C595B",
+            "trackingId": "OzQ7IzsxMjAwNzYwMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/79/32/7932db924158da9b627c11ef0da41ddc5eeaddf5.jpg"
+          },
+          {
+            "articleId": "1200760001",
+            "url": "/en_in/productpage.1200760001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjAwNzYwMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e1/04/e10479ff5d122c2e4920b3547b0960395c274588.jpg"
+          },
+          {
+            "articleId": "1200760009",
+            "url": "/en_in/productpage.1200760009.html",
+            "colorName": "Light grey marl",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzQ7IzsxMjAwNzYwMDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/25/c5/25c5124d94ad23951b2d92842738a2684a5ac7b9.jpg"
+          },
+          {
+            "articleId": "1200760006",
+            "url": "/en_in/productpage.1200760006.html",
+            "colorName": "Light beige",
+            "colorCode": "C0BBAD",
+            "trackingId": "OzQ7IzsxMjAwNzYwMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY2OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b6/a3/b6a3f1b64886c39b1f5c9cd5f573263e412fc365.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/77/81/778187eef8e848b9eae17c2fd0daf9ef3d8cef2b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f4/c3/f4c3bf0ca908505d4169a3e926bfafc5b724f478.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c8/a8/c8a81c5603b42a592fb553ed26f3ed9e1fd1d4b0.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/2e/96/2e966bfbdf9a3ff266b618421cd7ca421664a261.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark grey",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/d2/3c/d23c368b0a1f1bc36632e26a64dd082d31f1e89e.jpg",
+        "colors": "5C595B",
+        "colourShades": "Dark grey|Stone",
+        "productImage": "https://image.hm.com/assets/hm/79/32/7932db924158da9b627c11ef0da41ddc5eeaddf5.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "grey_808080",
+        "mainCatCode": "men_trousers_trousers_regular_all"
+      },
+      {
+        "id": "0970817037",
+        "trackingId": "OzQ7IzswOTcwODE3MDM3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Sweatpants",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.0970817037.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0970817037",
+            "url": "/en_in/productpage.0970817037.html",
+            "colorName": "Light grey marl",
+            "colorCode": "C8C8C8",
+            "trackingId": "OzQ7IzswOTcwODE3MDM3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9d/6f/9d6f1bc5ceffc912c71cce00389db440ba45c247.jpg"
+          },
+          {
+            "articleId": "0970817001",
+            "url": "/en_in/productpage.0970817001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzswOTcwODE3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/97/b6/97b69c0b846fa9ea5a42a21c5dc0b4d423108993.jpg"
+          },
+          {
+            "articleId": "0970817039",
+            "url": "/en_in/productpage.0970817039.html",
+            "colorName": "Dark blue",
+            "colorCode": "23263B",
+            "trackingId": "OzQ7IzswOTcwODE3MDM5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b1/f8/b1f8da05ef4ca00cacd35e8332e0497515e5c64d.jpg"
+          },
+          {
+            "articleId": "0970817024",
+            "url": "/en_in/productpage.0970817024.html",
+            "colorName": "Cream",
+            "colorCode": "C0BBAD",
+            "trackingId": "OzQ7IzswOTcwODE3MDI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/91/ba/91bac1e7765e54e7bad8691510a36ffac5a4f529.jpg"
+          },
+          {
+            "articleId": "0970817047",
+            "url": "/en_in/productpage.0970817047.html",
+            "colorName": "Black",
+            "colorCode": "323232",
+            "trackingId": "OzQ7IzswOTcwODE3MDQ3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f7/e1/f7e19b3af3c2588eb955adaa2271ffdca90f28f8.jpg"
+          },
+          {
+            "articleId": "0970817042",
+            "url": "/en_in/productpage.0970817042.html",
+            "colorName": "Dark greige",
+            "colorCode": "5C595B",
+            "trackingId": "OzQ7IzswOTcwODE3MDQyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ac/20/ac209aca738fe29ee524b5050f6ce24c3adb074a.jpg"
+          },
+          {
+            "articleId": "0970817018",
+            "url": "/en_in/productpage.0970817018.html",
+            "colorName": "Light grey marl",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzQ7IzswOTcwODE3MDE4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY3OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cb/e7/cbe73e982b3d962a538cb1eddf5597f1533eb65c.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/d6/fb/d6fb5db6fc08b793ba56e1258992af80cfb01136.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Light grey marl",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/9d/6f/9d6f1bc5ceffc912c71cce00389db440ba45c247.jpg",
+        "colors": "C8C8C8",
+        "productImage": "https://image.hm.com/assets/hm/9d/6f/9d6f1bc5ceffc912c71cce00389db440ba45c247.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "grey_808080",
+        "mainCatCode": "men_trousers_trousers_regular_all"
+      },
+      {
+        "id": "1259382003",
+        "trackingId": "OzQ7IzsxMjU5MzgyMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1259382003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1259382003",
+            "url": "/en_in/productpage.1259382003.html",
+            "colorName": "Dark grey",
+            "colorCode": "6E6E6E",
+            "trackingId": "OzQ7IzsxMjU5MzgyMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/eb/9f/eb9f02e74f0922e0485d19b40a653e71fb3d5d35.jpg"
+          },
+          {
+            "articleId": "1259382001",
+            "url": "/en_in/productpage.1259382001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjU5MzgyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cb/0b/cb0b11c88546d2186a0cc3492654b0c65bae6c10.jpg"
+          },
+          {
+            "articleId": "1259382004",
+            "url": "/en_in/productpage.1259382004.html",
+            "colorName": "Dark beige",
+            "colorCode": "726A5D",
+            "trackingId": "OzQ7IzsxMjU5MzgyMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/7f/3e/7f3e111321d9e9bd84997b7bafb3b86346e96c51.jpg"
+          },
+          {
+            "articleId": "1259382002",
+            "url": "/en_in/productpage.1259382002.html",
+            "colorName": "White",
+            "colorCode": "EEEDE4",
+            "trackingId": "OzQ7IzsxMjU5MzgyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY4OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/a1/68/a168b935c889413e24c649d0238121c112f71101.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/79/0e/790ea00ec14695af67e0541246e2f127a5e0f400.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/52/3e/523e3527521e52e8902edafcfd7f756c2c2399b5.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/8b/69/8b69c4841142e1945b8fbcef128106a7f052ed64.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/ef/44/ef44bf8cf9188aa42c9e0e92410a0ec5d4c14529.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/22/df/22dff16ba8ff8a77843c7d5ac59ed490e74118c0.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark grey",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/03/13/0313ce0e472255dcfe27f32d6f64d2320fba38f9.jpg",
+        "colors": "6E6E6E",
+        "colourShades": "Charcoal|Dark grey",
+        "productImage": "https://image.hm.com/assets/hm/eb/9f/eb9f02e74f0922e0485d19b40a653e71fb3d5d35.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "grey_808080",
+        "mainCatCode": "men_trousers_casual",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "1258152001",
+        "trackingId": "OzQ7IzsxMjU4MTUyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+        "productName": "Loose Fit Tailored trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1258152001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1258152001",
+            "url": "/en_in/productpage.1258152001.html",
+            "colorName": "Dark beige",
+            "colorCode": "726A5D",
+            "trackingId": "OzQ7IzsxMjU4MTUyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/65/02/65027ac7ebdc14c1422f037cd457cb64af41e116.jpg"
+          },
+          {
+            "articleId": "1258152002",
+            "url": "/en_in/productpage.1258152002.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMjU4MTUyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/1d/8e/1d8e7e29eb8172fa33da463a507e67099f870ee0.jpg"
+          },
+          {
+            "articleId": "1258152004",
+            "url": "/en_in/productpage.1258152004.html",
+            "colorName": "Dark grey",
+            "colorCode": "6E6E6E",
+            "trackingId": "OzQ7IzsxMjU4MTUyMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY5OzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b5/23/b523c37351fa8973b09623c0b222eadd82891e78.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/cd/9a/cd9abbde1e2c060e25f15432627b5a7272a2f9e5.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/bf/17/bf17f90dc6ceb9f28fe161dd8124e31cf4ef9ef7.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/b4/13/b413e220d1ee22d7bcb86ebc49285749d50480fa.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/d2/88/d2888237524f8b0231ea85118b73bccebffd488e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/b4/1e/b41eb4c0dbcb2a4d2ce738931ed9a77edfc6a6e1.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark beige",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/bc/14/bc148b6cd79ae73faa77a74b64ab2f9170540701.jpg",
+        "colors": "726A5D",
+        "productImage": "https://image.hm.com/assets/hm/65/02/65027ac7ebdc14c1422f037cd457cb64af41e116.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "beige_f5f5dc",
+        "mainCatCode": "men_trousers_casual"
+      },
+      {
+        "id": "1268101001",
+        "trackingId": "OzQ7IzsxMjY4MTAxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Lyocell-blend trousers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1268101001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2999,
+            "minPrice": 2999,
+            "maxPrice": 2999,
+            "formattedPrice": "Rs.2,999.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1268101001",
+            "url": "/en_in/productpage.1268101001.html",
+            "colorName": "White",
+            "colorCode": "E9E4DA",
+            "trackingId": "OzQ7IzsxMjY4MTAxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b4/2a/b42a18fa09d7b9b61bffbb5f3e6f50949e8ab097.jpg"
+          },
+          {
+            "articleId": "1268101002",
+            "url": "/en_in/productpage.1268101002.html",
+            "colorName": "Beige",
+            "colorCode": "AA9A81",
+            "trackingId": "OzQ7IzsxMjY4MTAxMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/6d/77/6d776c232f2c4b6baa6e932d69e354ac3bd5f403.jpg"
+          },
+          {
+            "articleId": "1268101003",
+            "url": "/en_in/productpage.1268101003.html",
+            "colorName": "Navy blue",
+            "colorCode": "29272B",
+            "trackingId": "OzQ7IzsxMjY4MTAxMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcwOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/fd/8b/fd8b6be68edf4b903a139f7164615500b7e2e5b8.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/8b/4c/8b4cad41d9b5b90865eb2d50d8cde1779b36f0c9.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/6a/ba/6abac791400fcafbfc9a28a03c995a7d5c22cd48.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/ce/65/ce65b9cfa8f03adbf2fcf87a96ceb2820b982493.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "White",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/45/4c/454cdf1483a6d6141fc657706e206f818bf6b2a2.jpg",
+        "colors": "E9E4DA",
+        "colourShades": "Cream|Grey white|Ivory|White grey",
+        "productImage": "https://image.hm.com/assets/hm/b4/2a/b42a18fa09d7b9b61bffbb5f3e6f50949e8ab097.jpg",
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "white_ffffff",
+        "mainCatCode": "men_trousers_chinos_regular_all",
+        "sellingAttribute": "New Arrival"
+      },
+      {
+        "id": "0970817047",
+        "trackingId": "OzQ7IzswOTcwODE3MDQ3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+        "productName": "Regular Fit Sweatpants",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.0970817047.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1499,
+            "minPrice": 1499,
+            "maxPrice": 1499,
+            "formattedPrice": "Rs.1,499.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0970817047",
+            "url": "/en_in/productpage.0970817047.html",
+            "colorName": "Black",
+            "colorCode": "323232",
+            "trackingId": "OzQ7IzswOTcwODE3MDQ3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/f7/e1/f7e19b3af3c2588eb955adaa2271ffdca90f28f8.jpg"
+          },
+          {
+            "articleId": "0970817001",
+            "url": "/en_in/productpage.0970817001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzswOTcwODE3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/97/b6/97b69c0b846fa9ea5a42a21c5dc0b4d423108993.jpg"
+          },
+          {
+            "articleId": "0970817039",
+            "url": "/en_in/productpage.0970817039.html",
+            "colorName": "Dark blue",
+            "colorCode": "23263B",
+            "trackingId": "OzQ7IzswOTcwODE3MDM5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b1/f8/b1f8da05ef4ca00cacd35e8332e0497515e5c64d.jpg"
+          },
+          {
+            "articleId": "0970817024",
+            "url": "/en_in/productpage.0970817024.html",
+            "colorName": "Cream",
+            "colorCode": "C0BBAD",
+            "trackingId": "OzQ7IzswOTcwODE3MDI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/91/ba/91bac1e7765e54e7bad8691510a36ffac5a4f529.jpg"
+          },
+          {
+            "articleId": "0970817037",
+            "url": "/en_in/productpage.0970817037.html",
+            "colorName": "Light grey marl",
+            "colorCode": "C8C8C8",
+            "trackingId": "OzQ7IzswOTcwODE3MDM3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/9d/6f/9d6f1bc5ceffc912c71cce00389db440ba45c247.jpg"
+          },
+          {
+            "articleId": "0970817042",
+            "url": "/en_in/productpage.0970817042.html",
+            "colorName": "Dark greige",
+            "colorCode": "5C595B",
+            "trackingId": "OzQ7IzswOTcwODE3MDQyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ac/20/ac209aca738fe29ee524b5050f6ce24c3adb074a.jpg"
+          },
+          {
+            "articleId": "0970817018",
+            "url": "/en_in/productpage.0970817018.html",
+            "colorName": "Light grey marl",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzQ7IzswOTcwODE3MDE4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcxOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cb/e7/cbe73e982b3d962a538cb1eddf5597f1533eb65c.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/9c/91/9c914132b8a16da470bae6d9cdbef2cefd9a5903.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/71/1e/711e79c43c3769e2cac0bb2b7332882cd35000a8.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Black",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/74/d6/74d64db83304702a2ac4eb4a75927c660d0316f5.jpg",
+        "colors": "323232",
+        "colourShades": "Charcoal",
+        "productImage": "https://image.hm.com/assets/hm/f7/e1/f7e19b3af3c2588eb955adaa2271ffdca90f28f8.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "black_000000",
+        "mainCatCode": "men_trousers_trousers_regular_all"
+      },
+      {
+        "id": "1002227003",
+        "trackingId": "OzQ7IzsxMDAyMjI3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+        "productName": "Slim Fit Cargo joggers",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/en_in/productpage.1002227003.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2699,
+            "minPrice": 2699,
+            "maxPrice": 2699,
+            "formattedPrice": "Rs.2,699.00"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1002227003",
+            "url": "/en_in/productpage.1002227003.html",
+            "colorName": "Dark grey",
+            "colorCode": "54575B",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/64/4e/644e0da8077a66e64e102df11a0a9b212ec60df7.jpg"
+          },
+          {
+            "articleId": "1002227002",
+            "url": "/en_in/productpage.1002227002.html",
+            "colorName": "Khaki green",
+            "colorCode": "545349",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2d/8a/2d8a0ff67d37c3916b74961f71746d57b8447ca2.jpg"
+          },
+          {
+            "articleId": "1002227001",
+            "url": "/en_in/productpage.1002227001.html",
+            "colorName": "Black",
+            "colorCode": "272628",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/ea/d7/ead79a8422df6e29abb8e0057c7dbf2d6658bf4c.jpg"
+          },
+          {
+            "articleId": "1002227023",
+            "url": "/en_in/productpage.1002227023.html",
+            "colorName": "Beige",
+            "colorCode": "B5AFA0",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDIzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/fe/6b/fe6bc91aa52db12b70257c81f113d3a5175f7e67.jpg"
+          },
+          {
+            "articleId": "1002227020",
+            "url": "/en_in/productpage.1002227020.html",
+            "colorName": "Dark beige",
+            "colorCode": "868074",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDIwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/93/a4/93a45b6b878c64731c501ba3d72f9a20036fb6ce.jpg"
+          },
+          {
+            "articleId": "1002227011",
+            "url": "/en_in/productpage.1002227011.html",
+            "colorName": "Beige",
+            "colorCode": "A39B86",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/17/8a/178a9b720681ef75eb8a2a95904283a3a5f8854c.jpg"
+          },
+          {
+            "articleId": "1002227013",
+            "url": "/en_in/productpage.1002227013.html",
+            "colorName": "White",
+            "colorCode": "C9C8C2",
+            "trackingId": "OzQ7IzsxMDAyMjI3MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzcyOzQ3OyM7Izs_e4",
+            "productImage": "https://image.hm.com/assets/hm/66/07/660740532368338c273791d92e308e445a5af9c5.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/dd/0d/dd0d3eca33584edcd4df64efa8dd7cdc0ea402ae.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/3c/a7/3ca713af1789faceaf9a404e20e4ef00deace8b0.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/b0/4d/b04da878a617277cbfbd4d430bd199cb5210487e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/5d/1f/5d1fc03b0026dcffd2d9e1b220ead860513846a0.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "colorName": "Dark grey",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/99/0f/990f7fbbbe4448e272e875397a481f1da2c61a91.jpg",
+        "colors": "54575B",
+        "colourShades": "Charcoal|Dark grey",
+        "productImage": "https://image.hm.com/assets/hm/64/4e/644e0da8077a66e64e102df11a0a9b212ec60df7.jpg",
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "grey_808080",
+        "mainCatCode": "men_trousers_cargo"
+      }
+    ],
+    "sortOptions": {
+      "selected": "RELEVANCE",
+      "options": [
+        {
+          "id": "RELEVANCE",
+          "label": "Relevance"
+        },
+        {
+          "id": "NEWEST_FIRST",
+          "label": "New"
+        },
+        {
+          "id": "PRICE_DESCENDING",
+          "label": "Highest price"
+        },
+        {
+          "id": "PRICE_ASCENDING",
+          "label": "Lowest price"
+        },
+        {
+          "id": "DISCOUNT",
+          "label": "Discount"
+        }
+      ]
+    },
+    "numberOfHits": 331,
+    "sliceRanges": [],
+    "facets": [
+      {
+        "name": "Price",
+        "id": "priceRange",
+        "selectedCount": 0,
+        "type": "RANGE",
+        "min": 1499,
+        "max": 3999
+      },
+      {
+        "name": "ColorWithNames",
+        "id": "colorWithNames",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "beige_f5f5dc",
+            "name": "beige_f5f5dc",
+            "count": 81,
+            "selected": false
+          },
+          {
+            "id": "black_000000",
+            "name": "black_000000",
+            "count": 97,
+            "selected": false
+          },
+          {
+            "id": "blue_0000ff",
+            "name": "blue_0000ff",
+            "count": 34,
+            "selected": false
+          },
+          {
+            "id": "brown_a52a2a",
+            "name": "brown_a52a2a",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "green_008000",
+            "name": "green_008000",
+            "count": 15,
+            "selected": false
+          },
+          {
+            "id": "grey_808080",
+            "name": "grey_808080",
+            "count": 65,
+            "selected": false
+          },
+          {
+            "id": "multi_000000",
+            "name": "multi_000000",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "red_ff0000",
+            "name": "red_ff0000",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "white_ffffff",
+            "name": "white_ffffff",
+            "count": 30,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Size",
+        "id": "sizes",
+        "selectedCount": 0,
+        "type": "SIZE",
+        "groups": [
+          {
+            "name": "menswear",
+            "facetValues": [
+              {
+                "id": "menswear;NO_FORMAT[SML];XS",
+                "name": "XS",
+                "count": 128,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];S",
+                "name": "S",
+                "count": 138,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];M",
+                "name": "M",
+                "count": 134,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];L",
+                "name": "L",
+                "count": 147,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];XL",
+                "name": "XL",
+                "count": 124,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];XXL",
+                "name": "XXL",
+                "count": 91,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric Fit];28R",
+                "name": "28R",
+                "count": 29,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric Fit];30R",
+                "name": "30R",
+                "count": 34,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric Fit];32R",
+                "name": "32R",
+                "count": 32,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric Fit];33R",
+                "name": "33R",
+                "count": 36,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric Fit];34R",
+                "name": "34R",
+                "count": 33,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric Fit];36R",
+                "name": "36R",
+                "count": 40,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric Fit];38R",
+                "name": "38R",
+                "count": 30,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric Fit];40R",
+                "name": "40R",
+                "count": 36,
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "waist",
+            "facetValues": [
+              {
+                "id": "waist;NO_FORMAT[Numeric];28",
+                "name": "28",
+                "count": 88,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];29",
+                "name": "29",
+                "count": 69,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];30",
+                "name": "30",
+                "count": 87,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];31",
+                "name": "31",
+                "count": 70,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];32",
+                "name": "32",
+                "count": 70,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];33",
+                "name": "33",
+                "count": 53,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];34",
+                "name": "34",
+                "count": 72,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];36",
+                "name": "36",
+                "count": 57,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];28/30",
+                "name": "28/30",
+                "count": 8,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];29/30",
+                "name": "29/30",
+                "count": 10,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];30/30",
+                "name": "30/30",
+                "count": 11,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];30/32",
+                "name": "30/32",
+                "count": 8,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];31/30",
+                "name": "31/30",
+                "count": 12,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];31/32",
+                "name": "31/32",
+                "count": 7,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];32/30",
+                "name": "32/30",
+                "count": 9,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];32/32",
+                "name": "32/32",
+                "count": 4,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];33/30",
+                "name": "33/30",
+                "count": 11,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];33/32",
+                "name": "33/32",
+                "count": 7,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];34/30",
+                "name": "34/30",
+                "count": 11,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];34/32",
+                "name": "34/32",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];36/30",
+                "name": "36/30",
+                "count": 6,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];38/30",
+                "name": "38/30",
+                "count": 4,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];40/30",
+                "name": "40/30",
+                "count": 7,
+                "selected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GarmentLengths",
+        "id": "garmentLengths",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Ankle length",
+            "name": "Ankle length",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Long",
+            "name": "Long",
+            "count": 313,
+            "selected": false
+          },
+          {
+            "id": "Regular length",
+            "name": "Regular length",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ClothingStyles",
+        "id": "clothingStyles",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Baggy",
+            "name": "Baggy",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Cargo",
+            "name": "Cargo",
+            "count": 77,
+            "selected": false
+          },
+          {
+            "id": "Carpenter",
+            "name": "Carpenter",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Chinos",
+            "name": "Chinos",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Cigarette trousers",
+            "name": "Cigarette trousers",
+            "count": 62,
+            "selected": false
+          },
+          {
+            "id": "Flared",
+            "name": "Flared",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Hoodie",
+            "name": "Hoodie",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Joggers",
+            "name": "Joggers",
+            "count": 64,
+            "selected": false
+          },
+          {
+            "id": "Parachute",
+            "name": "Parachute",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Pull-on trousers",
+            "name": "Pull-on trousers",
+            "count": 65,
+            "selected": false
+          },
+          {
+            "id": "Straight leg",
+            "name": "Straight leg",
+            "count": 101,
+            "selected": false
+          },
+          {
+            "id": "Suit trousers",
+            "name": "Suit trousers",
+            "count": 57,
+            "selected": false
+          },
+          {
+            "id": "Sweatpants",
+            "name": "Sweatpants",
+            "count": 31,
+            "selected": false
+          },
+          {
+            "id": "Tapered",
+            "name": "Tapered",
+            "count": 57,
+            "selected": false
+          },
+          {
+            "id": "Track pants",
+            "name": "Track pants",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Tuxedo trousers",
+            "name": "Tuxedo trousers",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Wide leg",
+            "name": "Wide leg",
+            "count": 17,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Materials",
+        "id": "materials",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Canvas",
+            "name": "Canvas",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Corduroy",
+            "name": "Corduroy",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Cotton",
+            "name": "Cotton",
+            "count": 101,
+            "selected": false
+          },
+          {
+            "id": "Denim",
+            "name": "Denim",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "French Terry",
+            "name": "French Terry",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Jersey",
+            "name": "Jersey",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Linen",
+            "name": "Linen",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Piqué",
+            "name": "Piqué",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Poplin",
+            "name": "Poplin",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Ripstop",
+            "name": "Ripstop",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Satin",
+            "name": "Satin",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Scuba",
+            "name": "Scuba",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Seersucker",
+            "name": "Seersucker",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Tweed",
+            "name": "Tweed",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Twill",
+            "name": "Twill",
+            "count": 73,
+            "selected": false
+          },
+          {
+            "id": "Velvet",
+            "name": "Velvet",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Wool",
+            "name": "Wool",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Patterns",
+        "id": "patterns",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Checked",
+            "name": "Checked",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Pinstriped",
+            "name": "Pinstriped",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Solid colour",
+            "name": "Solid colour",
+            "count": 312,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Brand",
+        "id": "brandNames",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "H&M",
+            "name": "H&M",
+            "count": 331,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Fits",
+        "id": "fits",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Loose fit",
+            "name": "Loose fit",
+            "count": 37,
+            "selected": false
+          },
+          {
+            "id": "Regular fit",
+            "name": "Regular fit",
+            "count": 119,
+            "selected": false
+          },
+          {
+            "id": "Relaxed fit",
+            "name": "Relaxed fit",
+            "count": 56,
+            "selected": false
+          },
+          {
+            "id": "Skinny fit",
+            "name": "Skinny fit",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Slim fit",
+            "name": "Slim fit",
+            "count": 118,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "WaistRises",
+        "id": "waistRises",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Regular waist",
+            "name": "Regular waist",
+            "count": 331,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ProductTypes",
+        "id": "productTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Jeans",
+            "name": "Jeans",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Sweatshirt",
+            "name": "Sweatshirt",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Trousers",
+            "name": "Trousers",
+            "count": 327,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "CustomerGroups",
+        "id": "customerGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Man",
+            "name": "Man",
+            "count": 331,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Qualities",
+        "id": "qualities",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "H&M Premium Selection",
+            "name": "H&M Premium Selection",
+            "count": 17,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Occasions",
+        "id": "occasions",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Diwali",
+            "name": "Diwali",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AssortmentTypes",
+        "id": "assortmentTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Clothing",
+            "name": "Clothing",
+            "count": 331,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AgeGroups",
+        "id": "ageGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Adult",
+            "name": "Adult",
+            "count": 331,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Concepts",
+        "id": "concepts",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "BASICS",
+            "name": "BASICS",
+            "count": 19,
+            "selected": false
+          },
+          {
+            "id": "DENIM",
+            "name": "DENIM",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "H&M MAN",
+            "name": "H&M MAN",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "H&M Move",
+            "name": "H&M Move",
+            "count": 26,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Trendings",
+        "id": "trendings",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Embroidered",
+            "name": "Embroidered",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Glitter",
+            "name": "Glitter",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Pastel colours",
+            "name": "Pastel colours",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Sequin",
+            "name": "Sequin",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Utility",
+            "name": "Utility",
+            "count": 52,
+            "selected": false
+          },
+          {
+            "id": "Velvet",
+            "name": "Velvet",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Y2K",
+            "name": "Y2K",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "SleeveLengths",
+        "id": "sleeveLengths",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Long sleeve",
+            "name": "Long sleeve",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ProductGroups",
+        "id": "productGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Functional wear",
+            "name": "Functional wear",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Loungewear",
+            "name": "Loungewear",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Outerwear",
+            "name": "Outerwear",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Sportswear",
+            "name": "Sportswear",
+            "count": 26,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Features",
+        "id": "features",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Lightweight",
+            "name": "Lightweight",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Superstretch",
+            "name": "Superstretch",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Seasonality",
+        "id": "seasonality",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Spring",
+            "name": "Spring",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Summer",
+            "name": "Summer",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Winter",
+            "name": "Winter",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ColourShades",
+        "id": "colourShades",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Baby blue",
+            "name": "Baby blue",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Blue grey",
+            "name": "Blue grey",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Bright blue",
+            "name": "Bright blue",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Bright green",
+            "name": "Bright green",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Burgundy",
+            "name": "Burgundy",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Charcoal",
+            "name": "Charcoal",
+            "count": 108,
+            "selected": false
+          },
+          {
+            "id": "Cobalt blue",
+            "name": "Cobalt blue",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Cream",
+            "name": "Cream",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Dark blue",
+            "name": "Dark blue",
+            "count": 30,
+            "selected": false
+          },
+          {
+            "id": "Dark green",
+            "name": "Dark green",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Dark grey",
+            "name": "Dark grey",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Dark maroon",
+            "name": "Dark maroon",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Dark red",
+            "name": "Dark red",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Dusty blue",
+            "name": "Dusty blue",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Ecru",
+            "name": "Ecru",
+            "count": 44,
+            "selected": false
+          },
+          {
+            "id": "Grey silver",
+            "name": "Grey silver",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Grey white",
+            "name": "Grey white",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Indigo",
+            "name": "Indigo",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Ivory",
+            "name": "Ivory",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Khaki green",
+            "name": "Khaki green",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Light blue",
+            "name": "Light blue",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Mahogany",
+            "name": "Mahogany",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Navy blue",
+            "name": "Navy blue",
+            "count": 29,
+            "selected": false
+          },
+          {
+            "id": "Pastel blue",
+            "name": "Pastel blue",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Pastel green",
+            "name": "Pastel green",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Royal blue",
+            "name": "Royal blue",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Rust",
+            "name": "Rust",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Sea green",
+            "name": "Sea green",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Stone",
+            "name": "Stone",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Taupe",
+            "name": "Taupe",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "Wheat",
+            "name": "Wheat",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "White grey",
+            "name": "White grey",
+            "count": 16,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Sale",
+        "id": "sale",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "false",
+            "name": "false",
+            "count": 331,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Contexts",
+        "id": "contexts",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Beach",
+            "name": "Beach",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Casual",
+            "name": "Casual",
+            "count": 141,
+            "selected": false
+          },
+          {
+            "id": "Formal",
+            "name": "Formal",
+            "count": 41,
+            "selected": false
+          },
+          {
+            "id": "Lounge",
+            "name": "Lounge",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Office wear",
+            "name": "Office wear",
+            "count": 72,
+            "selected": false
+          },
+          {
+            "id": "Sport",
+            "name": "Sport",
+            "count": 23,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Quantity",
+        "id": "quantity",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "2",
+            "name": "2",
+            "count": 4,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Department",
+        "id": "department",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "men",
+            "name": "men",
+            "count": 331,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "SustCompositionMaterials",
+        "id": "sustCompositionMaterials",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "In-conversion cotton",
+            "name": "In-conversion cotton",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "LENZING™ ECOVERO™ viscose",
+            "name": "LENZING™ ECOVERO™ viscose",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Livaeco™ viscose",
+            "name": "Livaeco™ viscose",
+            "count": 76,
+            "selected": false
+          },
+          {
+            "id": "Organic cotton",
+            "name": "Organic cotton",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Recycled brass",
+            "name": "Recycled brass",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Recycled cotton",
+            "name": "Recycled cotton",
+            "count": 104,
+            "selected": false
+          },
+          {
+            "id": "Recycled polyamide",
+            "name": "Recycled polyamide",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Recycled polyester",
+            "name": "Recycled polyester",
+            "count": 202,
+            "selected": false
+          },
+          {
+            "id": "Recycled polyester from textiles",
+            "name": "Recycled polyester from textiles",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "Recycled steel",
+            "name": "Recycled steel",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Recycled wool",
+            "name": "Recycled wool",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "REPREVE® recycled polyester",
+            "name": "REPREVE® recycled polyester",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "TENCEL™ Lyocell",
+            "name": "TENCEL™ Lyocell",
+            "count": 10,
+            "selected": false
+          },
+          {
+            "id": "TENCEL™ Modal",
+            "name": "TENCEL™ Modal",
+            "count": 3,
+            "selected": false
+          }
+        ]
+      }
+    ]
+  }
+}

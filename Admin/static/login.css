@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #FFFFFF;
+}
+.contaner{
+    height: 100%;
+    width: 80%;
+}
+
+.card{
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: linear-gradient(to right, #f7d8d8, #7fdaeb);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+}
+.card p{
+    color: black;
+    text-align: center;
+    padding: 5px;
+}
+.card input{
+    padding: 10px 4px;
+    margin: 5px;
+    border: 0px solid;
+    border-radius: 10px;
+}
+
+.card .button-submit{
+    color: #FFFFFF;
+    background-color: rgba(44, 58, 51, 0.808);
+    width: 95%;
+}
+
+.error p{
+    color: red;
+}

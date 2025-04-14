@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <link rel="icon" href="https://img.freepik.com/free-vector/flat-design-clothing-store-logo-design_23-2149496415.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+
+    <nav class="nav-but">
+        <!-- All Buttons -->
+        <div class="topside-frame"> 
+            <button id="bill-click">Bills</button>
+            <button id="inv-click">Inventory Records</button>
+            <button id="new-click">New Orders</button>
+        </div><br>
+        <div class="message">
+            {% if message %}
+                {{ message }}
+            {% endif %}
+            {% if error %}
+                {{ error }}
+            {% endif %}
+        </div>
+    </nav>
+    <div class="contaner">
+        <div class="leftside-frame">
+            <!-- All Main But -->
+            <button id="refresh-Customer">Customers</button> <!-- Bills -->
+            <button id="refresh-sales">Bill's</button> <!-- Bills -->
+            <button id="refresh-Inventory">Inventory</button> <!-- Inventory Records -->
+            <button id="refresh-items">Items Sale</button> <!-- Inventory Records -->
+            <button id="refresh-Request">Stock Request</button> <!-- New order -->
+            <button id="refresh-Approve">Approve Order</button> <!-- New order -->
+            <button id="refresh-NewA">New Apparel Items</button>
+        </div>
+    
+        <div class="display-tab">
+            <!-- Table Displat -->
+            <div class="customer-display">
+                <table id="customers-table" class="tableadmin">
+                    <tr class="table-title-bar">
+                        <td>ID</td>
+                        <td>Name</td>
+                        <td>Mobile no</td>
+                        <td>Email ID</td>
+                        <td>Address</td>
+                        <td>Password</td>
+                    </tr>
+                </table>
+                <table id="sales-table" class="tableadmin">
+                    <tr class="table-title-bar">
+                        <td>Bill No</td>
+                        <td>Customer ID</td>
+                        <td>Itme Qty</td>
+                        <td>Price</td>
+                        <td>Payment Mode</td>
+                        <td>Delete</td>
+                    </tr>
+                </table>   
+                <table id="inventory-table" class="tableadmin">
+                    <tr class="table-title-bar">
+                        <td>Image Pic</td>
+                        <td>Patten</td>
+                        <td>Stock In Hand</td>
+                        <td>Item Code</td>
+                        <td>Name</td>
+                        <td>Price</td>
+                    </tr>
+                </table>
+                <table id="items-table" class="tableadmin">
+                    <tr class="table-title-bar">
+                        <td>Bill No</td>
+                        <td>Item Code</td>
+                        <td>Qty</td>
+                        <td>Price</td>
+                    </tr>
+                </table>
+                <table id="request-table" class="tableadmin">
+                    <tr class="table-title-bar">
+                        <td>Code</td>
+                        <td>Name</td>
+                        <td>Bill No</td>
+                        <td>Price</td>
+                        <td>QTY</td>
+                        <td>Button</td>
+                    </tr>
+                </table>
+                <table id="Approve-table" class="tableadmin">
+                    <tr class="table-title-bar">
+                        <td>Image Pic</td>
+                        <td>Patten</td>
+                        <td>Stock In Hand</td>
+                        <td>Item Code</td>
+                        <td>Name</td>
+                        <td>Price</td>
+                    </tr>
+                </table>
+                <div class="get-new" id="get-new">
+                    <h4>Process data from json file to xlsx</h4>
+                    <form action="/process" method="POST" id="get-new" enctype="multipart/form-data">
+                        <input type="text" name="type" placeholder="Enter type of Product" required><br>
+                        <input type="number" name="qty" placeholder="Enter QTY of Product" required><br>
+                        <input type="file" name="file" accept=".json" id="file" required><br>
+                        <button type="submit">Upload & Download</button>
+                    </form>   
+                    <h4>Upload Data to Database</h4> 
+                    <form action="/fileToDatabase" method="POST" id="get-newo" enctype="multipart/form-data">
+                        <input type="file" name="file" accept=".xlsx" id="file" required><br>
+                        <button type="submit">Load to DataBase</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="end-bar">
+        <!-- end path -->
+    </footer>
+
+
+ 
+
+    
+
+
+<script>
+
+    $("#bill-click").click(function(){
+        // show
+        $('#refresh-Customer').show();
+        $('#refresh-sales').show();
+        // Hide
+        $('#refresh-Inventory').hide();
+        $('#refresh-items').hide();
+        $('#refresh-Request').hide();
+        $('#refresh-NewA').hide();
+        $('#refresh-Approve').hide();
+    });
+    $("#inv-click").click(function(){
+        // show
+        $('#refresh-Inventory').show();
+        $('#refresh-items').show();
+
+        // Hide
+        $('#refresh-Customer').hide();
+        $('#refresh-sales').hide();
+        $('#refresh-Request').hide();
+        $('#refresh-NewA').hide();
+        $('#refresh-Approve').hide();
+    });
+    $("#new-click").click(function(){
+        // show
+        $('#refresh-Request').show();
+        $('#refresh-NewA').show();
+        $('#refresh-Approve').show();
+
+        // Hide
+        $('#refresh-Inventory').hide();
+        $('#refresh-items').hide();
+        $('#refresh-Customer').hide();
+        $('#refresh-sales').hide();
+    });
+
+    $(document).ready(function() {
+    // Hide Buttons Of Side bar
+    $('#refresh-Customer').hide();
+    $('#refresh-sales').hide();
+    $('#refresh-Inventory').hide();
+    $('#refresh-items').hide();
+    $('#refresh-Request').hide();
+    $('#refresh-NewA').hide();
+    $('#refresh-Approve').hide();
+
+
+    // Initially hide all tables
+    $('#customers-table').hide();
+    $('#sales-table').hide();
+    $('#inventory-table').hide();
+    $('#items-table').hide();
+    $('#request-table').hide();
+    $('#Approve-table').hide();
+    $('#get-new').hide();
+
+    $('#refresh-NewA').click(function(){
+        $('#customers-table').hide(); 
+        $('#sales-table').hide();     
+        $('#items-table').hide(); 
+        $('#request-table').hide();
+        $('#Approve-table').hide();
+        $('#inventory-table').hide();
+        $('#get-new').show();
+    });
+
+
+    $('#refresh-Approve').click(function() {
+        $.ajax({
+            type: 'GET',
+            url: '/ApproveFetch',
+            success: function(items) {  // Renamed to match
+                $('#customers-table').hide();  
+                $('#sales-table').hide();      
+                $('#inventory-table').hide();
+                $('#items-table').hide();
+                $('#request-table').hide();
+                $('#get-new').hide();
+                $('#Approve-table').show();
+
+                $('#Approve-table tr:not(:first)').remove();  // Clear previous data
+
+                $.each(items, function(index, more) {  // Corrected inner loop variable
+                    $('#Approve-table').append(
+                        `<tr class="main-table">
+                            <td><img src="${more[4]}" style="width:50px;"></td>
+                            <td>${more[0]}</td>
+                            <td>${more[1]}</td>
+                            <td>${more[2]}</td> 
+                            <td>${more[3]}</td>
+                            <td>${more[5]}</td>
+                        </tr>`
+                    );
+                });
+            },
+            error: function(xhr, status, error) {
+                console.error("Inventory Fetch Error:", error);
+                alert("Failed to fetch Request data.");
+            }
+        });
+    });
+
+
+    $('#refresh-Request').click(function() {
+        $.ajax({
+            type: 'GET',
+            url: '/RequestFetch',
+            success: function(items) {  // Renamed to match
+                $('#customers-table').hide();  
+                $('#sales-table').hide();      
+                $('#inventory-table').hide();
+                $('#items-table').hide();
+                $('#Approve-table').hide();
+                $('#get-new').hide();
+                $('#request-table').show();
+
+                $('#request-table tr:not(:first)').remove();  // Clear previous data
+
+                $.each(items, function(index, request) {  // Corrected inner loop variable
+                    $('#request-table').append(
+                        `<tr class="main-table">
+                            <td>${request[0]}</td>
+                            <td>${request[1]}</td>
+                            <td>${request[2]}</td>
+                            <td>${request[3]}</td>
+                            <td>${request[4]}</td>
+                            <td><button onclick="ApproveRequest(${request[0]})">Approve</button></td>
+                        </tr>`
+                    );
+                });
+            },
+            error: function(xhr, status, error) {
+                console.error("Inventory Fetch Error:", error);
+                alert("Failed to fetch Request data.");
+            }
+        });
+    });
+
+
+
+    $('#refresh-items').click(function() {
+        $.ajax({
+            type: 'GET',
+            url: '/ItemsFetch',
+            success: function(items) {  // Renamed to match
+                $('#customers-table').hide();  
+                $('#sales-table').hide();      
+                $('#inventory-table').hide();
+                $('#request-table').hide();
+                $('#Approve-table').hide();
+                $('#get-new').hide();
+                $('#items-table').show();
+
+
+                $('#items-table tr:not(:first)').remove();  // Clear previous data
+                
+                $.each(items, function(index, item) {  // Corrected inner loop variable
+                    $('#items-table').append(
+                        `<tr class="main-table">
+                            <td>${item[0]}</td>
+                            <td>${item[1]}</td>
+                            <td>${item[2]}</td>
+                            <td>${item[3]}</td>
+                        </tr>`
+                    );
+                });
+            },
+            error: function(xhr, status, error) {
+                console.error("Inventory Fetch Error:", error);
+                alert("Failed to fetch inventory data.");
+            }
+        });
+    });
+
+    $('#refresh-Inventory').click(function() {
+    $.ajax({
+        type: 'GET',
+        url: '/InventoryFetch',
+        success: function(response) {  // response contains inventory & count
+            alert("Totle Item in Inventory is : "+ response.count);  // Display the inventory count correctly
+
+            $('#customers-table').hide();  
+            $('#sales-table').hide();     
+            $('#items-table').hide(); 
+            $('#request-table').hide();
+            $('#Approve-table').hide();
+            $('#get-new').hide();
+            $('#inventory-table').show();
+
+            $('#inventory-table tr:not(:first)').remove();  // Clear previous data
+
+            $.each(response.inventory, function(index, item) {
+                $('#inventory-table').append(
+                    `<tr class="main-table">
+                        <td><img src="${item[4]}" style="width:50px;"></td>
+                        <td>${item[0]}</td>
+                        <td>${item[1]}</td>
+                        <td>${item[2]}</td> 
+                        <td>${item[3]}</td>
+                        <td>${item[5]}</td>
+                    </tr>`
+                );
+            });
+        },
+        error: function(xhr, status, error) {
+            console.error("Inventory Fetch Error:", error);
+            alert("Failed to fetch inventory data.");
+        }
+    });
+});
+
+
+    $('#refresh-Customer').click(function() {
+        $.ajax({
+            type: 'GET',
+            url: '/CustomerDataFetch',
+            success: function(customers) {
+                $('#customers-table').show();  
+                $('#sales-table').hide();      
+                $('#items-table').hide(); 
+                $('#request-table').hide();
+                $('#Approve-table').hide();
+                $('#get-new').hide();
+                $('#inventory-table').hide();
+                
+                $('#customers-table tr:not(:first)').remove();  // Clear previous data
+
+                $.each(customers, function(index, customer) {
+                    $('#customers-table').append(
+                        `<tr class="main-table">
+                            <td>${customer[0]}</td>
+                            <td>${customer[1]}</td>
+                            <td>${customer[2]}</td> 
+                            <td>${customer[3]}</td>
+                            <td>${customer[4]}</td>
+                            <td>${customer[5]}</td>
+                        </tr>`
+                    );
+                });
+            },
+            error: function(xhr, status, error) {
+                console.error("Customer Fetch Error:", error);
+                alert("Failed to fetch customer data.");
+            }
+        });
+    });
+
+    $('#refresh-sales').click(function() {
+        $.ajax({
+            type: 'GET',
+            url: '/SalesDataFetch',
+            success: function(sales) {
+                console.log("Sales Data:", sales);  // Debugging output
+                
+                $('#customers-table').hide(); 
+                $('#sales-table').show();     
+                $('#items-table').hide(); 
+                $('#request-table').hide();
+                $('#Approve-table').hide();
+                $('#get-new').hide();   
+                $('#inventory-table').hide();
+
+                $('#sales-table tr:not(:first)').remove();  // Clear previous data
+
+                $.each(sales, function(index, sale) {
+                    $('#sales-table').append(
+                        `<tr class="main-table">
+                            <td>${sale[0]}</td>
+                            <td>${sale[1]}</td>
+                            <td>${sale[2]}</td>
+                            <td>${sale[3]}</td>
+                            <td>${sale[4]}</td>
+                            <td>
+                                <button onclick="DeleteSales(${sale[3]})">
+                                    <i class="fa-solid fa-trash"></i>
+                                </button>
+                            </td>
+                        </tr>`
+                    );
+                });
+            },
+            error: function(xhr, status, error) {
+                console.error("Sales Fetch Error:", error);
+                alert("Failed to fetch sales data.");
+            }
+        });
+    });
+
+    // Delete function
+    window.DeleteSales = function(ItemID) {
+        console.log("Deleting Sale ID:", ItemID);
+        $.ajax({
+            type: 'GET',
+            url: '/DeletSales',
+            data: { 'SalesID': ItemID },
+            success: function(response) {
+                alert("Sale deleted successfully!");
+                $('#refresh-sales').click();  // Refresh sales data
+            },
+            error: function(xhr, status, error) {
+                console.error("Delete Sales Error:", error);
+                alert("Failed to delete sale.");
+            }
+        });
+    };
+
+    // Approve Stocks
+    function ApproveStock(){
+            window.ApproveRequest = function(ItemId){
+            consol.log("Approve item:",ItemId);
+            $.ajax({
+                type : 'GET',
+                url: '/ApproveRequest',
+                data: { 'ItemId' : ItemId },
+                success:function(response){
+                    alert("Item Approved ",ItemId);
+                    $('#refresh-Request').click();
+                },
+                error:function(xhr,status,error){
+                    console.error("Error",error);
+                    alert("Falied to Approve");
+                }
+            });
+        };
+    }
+});
+
+
+
+</script>
+</body>
+</html>
+    
